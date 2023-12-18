@@ -1,0 +1,8 @@
+References 
+[1] Fujimoto, R. M. 119901 “Parallel Discrete Event Simulation” , Communication of ACM, pp31-53.
+[2] Kaudel, F. J., “A literature survey on discrete event simulation.” Simuletter (June 1987)
+[3] Lomow, G., Cleary, J., Unger, N., and West, D. “A performance study of time warp.” Proc. Distribuied Simulation ’88, San Diago, CA, 1988.
+[4] Praehofer, Herbert [1991] “System Theoretic Foundations For Combine Discrete Continuous System Simulation” PH.D. Thesis, University Linz Austria.
+[5] Reed, D.A., and Malony, A.D. “Parallel discrete event simulation: The Chandy-Misra approach.” Proc. Distributed Simulation ’88, San Diago, CA, 1988.
+[6] Zeigler, B.P. [1984], “Multifacetted Modeling and Discrete Event Simulation”, Academic Press, London and Orlando,FL.
+[7] Zeigler, B. P. [1990] “Object-Oriented Simulation with Hierarchical, Modular Models” , Academic Press. pp.41-58.

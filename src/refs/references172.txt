@@ -1,0 +1,17 @@
+References 
+1. Arlitt, M., and Williamson, C.(1995a) “A Synthetic Workload Model for Internet Mosaic Traffic,” Proc. Summer Computer Simulation Conf., Ottawa, June.
+2. Arlitt, M., Chen, Y., Gurski, R., and Williamson, C.(1995b) “Traffic Modelling in the ATM-TN Telesim Project,” Proc. Summer Computer Simulation Conf., Ottawa, June.
+3. Boudec, J.L.( 1992) “The Asynchronous Transfer Mode: a Tutorial,” Computer Networks and ISDN Systems,
+4. Cai, W., and Turner, S.J.(1990) “An Algorithm for Distributed Discrete Event Simulation,” Proc. Distributed Simulation Conference, San Diego California, pp. 3-8, JanuaryJanuary.
+5. Chandy, K.M., and Misra, J.(1979) “Distributed Simulation: a case study in design and verification of distributed programs,” IEEE Trans.Software Eng., 5(5), pp. 440-452, September.
+6. Chandy, K.M., and Sherman, R.(1989) “The conditional event approach to distributed simulation,” Proc. Distributed Simulation Conference, San Diego, California, pp. 93-99, March.
+7. Comm. ACM.(1995) “Special Edition on Issues and Challenges in ATM Networks,” Comm. A.C.M., February.
+8. Das, S., Fujimoto, R., Panesar, K., Allison, D., and Hybinette, M.(1994) “A Time Warp System for Shared Memory Multiprocessors,” Winter Simulation Conference, December.
+9. Fujimoto. R.M.(1988) “Perfomance measurements of pp. 279-309. distributed simulation strategies,” Proc. Distributed Simulation Conference, San Diego, California, pp. 14-20, February.
+10. Fujimoto, R.M.( 1990) “Parallel Discrete Event Simulation,” Comm. A.C.M., 33(10), pp. 30-53, October.
+11. Jade Simulations International Corp.(1995) “Deliverable for ATM-TN Performance Project,” Science Applications International Corp., August.
+12. Jha, V., and Bagrodia, R.L.(1993) “Transparent implementation of conservative algorithms in parallel simulation languages,” Winter Simulation Conference, Los Angeles, pp. 677-686, December.
+13. Misra, J.( 1986) “Distributed Discrete-Event Simulation,” ACM Computing Surveys, 18(l), pp. 39-65.
+14. Nicol, D.M.( 1988) “Parallel discrete-event simulation of FCFS stochastic queuing networks,” ACM SIGPLAN Notices, 23(9), pp. 124-137.
+15. Unger, B.W., Gomes, F., Zhonge, X., Gburzynski, P., Ono-Tesfaye, T., Ramaswamy, S., Williamson, C., and Covington, A.( 1995) “A High Fidelity ATM Traffic and Network Simulator,” Winter Simulation Conference, Washington, D.C., December.
+16. Wagner, D., and Lazowska, E.(1989) “Parallel simulation of queuing networks: limitations and potentials,” Proc. International Conf. on Measurement and Control, pp. 146- 155.

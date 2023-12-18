@@ -1,0 +1,21 @@
+References
+[1] R.M. Fujimoto, Parallel discrete event simulation, Commun. ACM 33 (10) (1990) 30–53.
+[2] L. Lamport, Time, clocks, and the ordering of events in distributed systems, Commun. ACM 21 (7) (1978) 558–565.
+[3] K.M. Chandy, J. Misra, Distributed simulation: a case study in design and veriﬁcation of distributed programs, IEEE. Trans.Software Eng. 5 (5) (1979) 440–452.
+[4] D.A. Jefferson, Virtual time, ACM Trans. Progr. Lang. Sys. 7 (3) (1985) 404–425.
+[5] R.M. Fujimoto, Parallel discrete event simulation: will the ﬁeld survive? ORSA J. Comput. 5 (3) (1993) 218–230.
+[6] D.M. Nicol, P. Heidelberger, On extending parallelism to serial simulators, in: Proceedings of the Ninth Workshop on Parallel and Distributed Simulation, IEEE Computer Society Press, Los Alamitos, CA, 1995, pp. 60–67.
+[7] J.Y .-B. Lin, Will parallel simulation come to an end? Simul. Digest 25 (3) (1996) 11–12.
+[8] Y .-B. Lin, B. Preiss, W. Loucks, E. Lazowska, Selecting the checkpoint interval in time warp simulation, in: R. Bagrodia,D. Jefferson (Eds.), Proceedings of the Seventh Workshop on Parallel and Distributed Simulation, IEEE Computer Society Press, Los Alamitos, CA, 1993, pp. 3–10.
+[9] A. Ferscha, Parallel and distributed simulation of discrete event systems, in: A.Y . Zomaya (Ed.), Parallel and Distributed Computing Handbook, McGraw-Hill, New York, 1996,pp. 1003–1041.
+[10] Y .-B. Lin, Will parallel simulation research survive? ORSA J. Comput. 5 (3) (1993) 236–238.
+[11] A. Gupta, I. Akyildiz, R. Fujimoto, Performance analysis of time warp with multiple homogeneous processors, IEEE.Trans. Software Eng. 17 (10) (1991) 1013–1027.
+[12] I.F. Akyildiz, L. Chen, R. Das, R.M. Fujimoto, R.F. Serfozo, The effect of memory capacity on time warp performance, J.Parallel Distr. Comput. 18 (4) (1993) 411–422.
+[13] A. Ferscha, J. Johnson, Performance prototyping of parallel applications in N-map, in: ICA 3PP96, Proceedings of the Second International Conference on Algorithms and Architectures for Parallel Processing, June 11–13, 1996,Singapore, IEEE Computer Society Press, Silver Spring, MD,1996, pp. 84–91.
+[14] A. Ferscha, J. Johnson, N-map: a virtual processor discrete event simulation tool for performance prediction in capse, in: Proceedings of the HICSS-28, IEEE Computer Society Press,Silver Spring, MD, 1995, pp. 276–285.
+[15] W.L. Bain, D.S. Scott, An algorithm for time synchronization in distributed discrete event simulation, in: B. Unger, D.Jefferson (Eds.), Proceedings of the SCS Multiconference on Distributed Simulation, SCS, V ol. 19, No. 3, 1988, pp. 30–33.
+[16] R. Ayani, B. Berkman, Parallel discrete event simulation on simd computers, J. Parallel Distr. Comput. 18 (4) (1993)501–508.
+[17] B.D. Lubachevsky, A. Weiss, A. Shwartz, An analysis of rollback-based simulation, ACM Trans. Model. Comput.Simul. 1 (2) (1991) 154–193.
+[18] S. Turner, M. Xu, Performance evaluation of the bounded time warp algorithm, in: Proceedings of the Sixth Workshop on Parallel and Distributed Simulation, SCS, 1992, pp. 117–128.
+[19] S.R. Das, R.M. Fujimoto, An adaptive memory management protocol for time warp parallel simulation, in: Proceedings of the 1994 ACM Sigmetrics Conference on Measurement and Modeling of Computer Systems, Nashville, 1994, ACM,New York, 1994, pp. 201–210.
+[20] A. Ferscha, J. Johnson, A testbed for parallel simulation performance prediction, in: J.M. Charnes, D.J. Morrice, D.T.Brunner, J.J. Swain (Eds.), Proceedings of the 1996 Winter Simulation Conference, 1996, pp. 637–644.

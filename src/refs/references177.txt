@@ -1,0 +1,11 @@
+REFERENCES 
+[1] Cota, B.A. and R.G. Sargent. 1989. Automatic lookahead computation for conservative distributed simulation. CASE Center Technical Report 8916, CASE Center, Syracuse University, December 1989.
+[2] Cota, B.A. and R.G. Sargent. 1990a. A framework for automatic lookahead computation in conservative Distributed Simulation, in Distributed Simulation, D. Nicol, editor, The Society for Computer Simulation, 1990, pp. 56-59.
+[3] Cota, B.A. and R.G. Sargent. 1990b. Simulation algorithms for control flow graphs. CASE Center Technical Report 9023, CASE Center, Syracuse University, November 1990.
+[4] Cota, B.A. and R.G. Sargent. 199Oc. Control Flow Graphs: A method of model representation for parallel discrete event simulation. CASE Center Technical Report 9026, CASE Center, Syracuse University, December 1990.
+[5] Cota, B.A. and R.G. Sargent. 1990d. Simultaneous Events and Distributed Simulation, in Proceedings of 1990 Winter Simulation Conference, New Orleans, LA, December 1990, pp. 436-440.
+[6] Cota, B.A. and R.G. Sargent. 1992. A modification of the process interaction world view, ACM Transactions on Modeling and Computer Simulation, Volume 2, Number 2, April 1992, pp. 109-129.
+[7] Fritz, D.G. and R.G. Sargent. 1993. Hierarchical Control Flow Graph Models. CASE Center Technical Report 9323, CASE Center, Syracuse University, December 1993.
+[8] Sargent, R.G. 1992. "Requirements of a Modeling Paradigm” (part of panel session on “Discrete Event Simulation Modelling: Directions for the ‘go’s”), in Proceedings of the 1992 Winter Simulation Conference, Arlington, VA, December 1992, pp. 780-782.
+[9] Zeigler, B.P. 1976. Theory of Modelling and Simulation, John Wiley & Sons.
+[10] Zeigler, B.P. 1984. Multifaceted Modelling and Discrete Event Simulation, Acadcmic Press.

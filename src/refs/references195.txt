@@ -1,0 +1,31 @@
+References 
+1. D.R. Jefferson et al., “Distributed Simulation and the Time Warp Operating System,” ACM Operating Systems Reoiew, Vol. 21, No. 5, Noc. 1987, pp. 77-93
+2. R. Fujimoto, “Parallel Discrete-Event Simulation,” Comm. ACM, Vol. 33, No. 10, Oct. 1990, pp 30-53.
+3. D. Baezner, G. Lomow, and W. Unger, “Sim++: The Transition to Distributed Simulation,” Roc. Computer Simulation Conf Distributed Simulation, Computer Simulation Soc., San Diego, Calif., Jan. 1990, pp. 211-218.
+4. R. Bagrodia and W. Liao, “Maisie: A Language and Optimizing Environment for Distributed Simulation,” Proc. SCS Conf Distributed Simulation, Jan. 1990, pp. 205-210.
+5. H. Rajaei, “Sima: An Environment for Parallel Discrete-Event Simulation,” PLoc. 25th Ann. Simulation Symp., IEEE Computer Society Press, Los Alamitos, Calif., Apr. 1992, pp. 147-155.
+6. J. Steinman, “SPEEDES: A Multiple-Synchronization Environment for Parallel Discrete-Event Simulation,” Int’l J. Computer Simulation, Vol. 2, 1992, pp. 251-286
+7. P.J. Kiviat, R. Villanueva, and H.M. Markowitz, Simscript 11.5 Programming Language, CACl Inc., Los Angeles, 1973.
+8. J.J. Schriber, Simulation Using GPSS, John Wiley 81 Sons, New York, 1974.
+9. M. Abrams and G. Lomow, “Issues in Languages for Parallel Simulation,’’ Proc. SCS Multiconf Distributed Simulation, Jan. 1990, pp. 227-228.
+10. D. Baezner, Language Design for Parollel Simulation, master’s thesis, Univ. of Calgary, Alberta, Canada, 1991.
+11. D.R. Jefferson, “Virtual,”ACMTrans. Programming Language and Systems, Vol. 7, No. 3, July 1985, pp. 404-425.
+12. K. Ghosk and R. Fujimoto, "Parallel Discrete Event Simulation Using Space Time Memory," Proc. Int'l Conf Parallel Processing, Computer Simulation Soc., Vol. 3, 1991, pp. 201-208.
+13. H. Mehl and S. Hammes, "Shared Variable in Distributed Simulation," Proc. Seventh Workshop Parallel and Distributed simulation, May 1993, pp. 6875.
+14. M. Abrams and D. Richardson, "Implementing a Global Termination Condition and Collecting Output Measures in Parallel Simulation," Proc. SCS Multi-conf. Parallel and Distributed Simulation, Jan. 1991, pp. 88-91.
+15. J. Misra, "Distributed Discrete-Event Simulation," ACM Computing Surveys, Vol. 18, No. 1, Mar. 1986, pp. 39-65.
+16. Y-B. Lin, "On Terminating a Distributed Discrete Event Simulation," to be published in J. Parallel and Distributed Computation, 1993.
+17. V. Sanjeevan and M. Abrams, "The Cost of Terminating Synchronous Parallel Discrete Event Simulation," proc. Winter Simulution Conf, CS Press, Dec. 1991, pp. 642-651.
+18. R. Ayani, "Parallel Simulation on Shared Memory Multiprocessor," Int'l. J. Computer Simulation, Vol. 1, 1991, pp. 81-97.
+19. B. Lubachevsky, "Efficient Distributed Event-Driven Simulation of Multiple Loop Networks," Comm ACM, Vol. 32, 1969, pp. 111-123.
+20. R. Fujimoto, "Optimistic Approaches to Parallel Discrete Event Simulation," Trans. Computer Simulation Soc., Vol. 7, No. 2,1990, pp. 153-191.
+21. R. Fujimoto, "Lookahead in Parallel Discrete Event Simulation," Proc. Int'l Conf Parallel Processing, Aug. 1988, pp. III-34-41.
+22. Y-B. Lin and E. Lazowska, "Exploiting Lookahead in Parallel Simulation," IEEE Trans. Parallel and Distributed System, Vol. 1, No. 4, CS Press, Oct. 1990, pp. 457- 469.
+23. P. Reiher, F. Wieland, and P. Hontalas, "Providing Determinism in the Time Warp Operating System D Costs, Benefits, and Implementations," Proc. Second IEEE Workshop on Experimental Distributed Systems, CS Press, Oct. 1990, pp. 113-118.
+24. B. Cota and R. Sargent, "Simultaneous Events and Distributed Simulation," Proc. Winter Simulation Conf, Dec. 1990, pp. 436-440.
+25. H. Mehl, "Breaking Ties Deterministically in Distributed Simulation Schemes," Tech. Report217/91, Dept. of Computer Science, Univ. of Kaiserslautem, Germany, Dec. 1991.
+26. Y-B. Lin and E. Lazowska, "Optimality Considerations of Time Warp Parallel Simulation," proc. SCS Multiconf Distributed Simulation, Jan. 1990, pp. 29-34.
+27. F. Patena, M. Overstreet, and K. Maly, "Distributed Simulation: No Special Tools Required," Proc. Winter Simulation Conf, Dec. 1990, pp. 423-427.
+28. R. Tumer et al., "A Parallel Distributed Simulation System Using Tuplespace," Proc. Sixth Workshop Parallel and Distributed Simulation, Jan. 1992, pp. 193-194.
+29. J. Evans, Structures ofDiscrete Event Simulation, Ellis Horwood Ltd., London, 1988.
+30. 0. Bryan, "Modsim II--An Object Oriented Simulation Language for Sequential and Parallel Processors," Proc. Winter Simulation Conf , Dec. 1989, pp. 172-177.

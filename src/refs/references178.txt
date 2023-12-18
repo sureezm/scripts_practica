@@ -1,0 +1,14 @@
+References
+[1] R. Bryant. Simulation of Packet Communication Architecture Computer Systems. Technical Report MIT/LCS/TR188, MIT, November 1977 [2] K. M. Chandy and J. Misra. Distributed simulation: Acase study in design and verification of distributed simulation. IEEE Transactions on Software Engineering, 5(5):440–452, September 1979.
+[3] J. G. Cleary and J. Tsai. Performance of a conservative simulator of ATM networks. In Proceedings of the 11th Workshop on Parallel and Distributed Simulation, pages 142–145. The Society for Computer Simulation, 1997.
+[4] S. Das and R. Fujimoto. Adaptive memory management and optimism control in time warp. ACM Transactions on Modeling and Computer Simulations, 7(2):239–271, April 1997
+[5] S. R. Das and R. M. Fujimoto. Aperformance study of the cancelback protocol for Time Warp. In Proceedings of the 7th Workshop on Parallel and Distributed Simulation, pages 135–142. The Society for Computer Simulation, 1993.
+[6] S. R. Das and R. M. Fujimoto. An adaptive memory management protocol for Time Warp parallel simulation. In Proceedings of the 1994 ACM Sigmetrics Conference on Measurement and Modeling of Computer Systems, pages 201– 210. ACM, 1994.
+[7] B. Gan, Y. Low, S. Jain, S. Turner, W. Cai, W. Hsu, and S. Huang. Load balancing for conservative simulation on shared memory multiprocessor systems. In Proceedings of the 14th Workshop on Parallel and Distributed Simulation, pages 139–146, 2000.
+[8] J. Liu, D. M. Nicol, and K. Tan. Lock-free scheduling of logical processes in parallel simulation. In Proceedings of the 15th Workshop on Parallel and Distributed Simulation, pages 22–31, May 2001.
+[9]  B. Lubachevsky and A. Weiss. An analysis of rollback-based simulation. ACM Transactions on Modeling and Computer Simulation, pages 154–193, April 1991
+[10] D. Nicol and J. Liu. Composite synchronization in parallel discrete-event simulation. http://www.cs.dartmouth.edu/jasonliu/projects/ssf/docs.html, To appear in IEEE Trans actions on Parallel and Distributed Systems.
+[11] K. S. Panesar and R. M. Fujimoto. Adaptive flow control in time warp. In Proceedings of the 11th Workshop on Parallel and Distributed Simulation, pages 108–115. The Society for Computer Simulation, 1997.
+[12] R. Simmonds, C. Kiddle, and B. Unger. Critical Channel Traversing. To appear in the Proceedings of the 16th Workshop on Parallel and Distributed Simulation., May 2002
+[13] S. J. Turner and M. Q. Xu. Performance evaluation of the Bounded Time Warp algorithm. In Proceedings of the SCS Multi Conference on Parallel and Distributed Simulation, pages 117–126. The Society for Computer Simulation, January 1992.
+[14]  Z. Xiao, B. Unger, R. Simmonds, and J. Cleary. Scheduling Critical Channels in Conservative Parallel Discrete Event Simulation. In Proceeding of the 13th Workshop on Parallel and Distributed Simulation, May 1999.

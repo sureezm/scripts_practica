@@ -1,0 +1,23 @@
+REFERENCES
+[1] R. M. Fujimoto, Parallel And Distributed Simulation Systems , A. Y . Zomaya, Ed. Wiley, 2000.
+[2] P . Mell and T. Grace, “The NIST deﬁnition of cloud comput- ing,” National Institute of Standards and Technology, Tech. Rep. 800-145, September 2011.
+[3] Amazon Inc., “Elastic compute cloud (EC2),” http://aws.amazon.com/ec2, 2011, [Accessed 22-01-12].
+[4] K. M. Chandy and J. Misra, “Distributed simulation: A case study in design and veriﬁcation of distributed programs,” IEEE Trans. Softw. Eng. , vol. 5, no. 5, pp. 440–452, 1979.
+[5] R. E. Bryant, “Simulation of packet communication architecture computer systems,” Cambridge, USA, Tech. Rep., 1977.
+[6] J. Misra, “Distributed discrete-event simulation,” ACM Comput. Surv., vol. 18, no. 1, pp. 39–65, 1986.
+[7] D. R. Jefferson, “Virtual time,” ACM Trans. Program. Lang. Syst., vol. 7, no. 3, pp. 404–425, 1985.
+[8] K. S. Perumalla, “Scaling time warp-based discrete event execution to 104processors on a blue gene supercomputer,” inProc. of the 4th international conference on Computing frontiers, ser. CF ’07. New York, NY, USA: ACM, 2007, pp. 69–76.
+[9] A. Ferscha, “Parallel and distributed simulation of discrete event systems,” in Handbook of Parallel and Distributed Computing . McGraw-Hill, 1995, pp. 1–65.
+[10] R. L. Bagrodia, “Perils and pitfalls of parallel discrete event simulation,” in Proc. of the 28th conference on Winter simulation , ser. WSC ’96. Washington, DC, USA: IEEE Computer Society, 1996, pp. 136–143.
+[11] R. M. Fujimoto, A. W. Malik, and A. J. Park, “Parallel and distributed simulation in the cloud,” SCS MS Magazine , vol. 1, no. 3, 2010.
+[12] A. W. Malik, A. J. Park, and R. M. Fujimoto, “An optimistic parallel simulation protocol for cloud computing environ ments,” SCS Modeling and Simulation Magazine , vol. 1, no. 4, 2010.
+[13] G. D’Angelo, “Parallel and distributed simulation from many cores to the public cloud,” in Proc. of the 2011 Int’l. Confer ence on High Performance Computing and Simulation (HPCS 2011) . IEEE Computer Society, 2011, pp. 14 – 23.
+[14] R. M. Fujimoto, “Parallel discrete event simulation,” Commun. ACM , vol. 33, no. 10, pp. 30–53, 1990.
+[15] S. De Munck, K. V anmechelen, and J. Broeckhove, “Design and performance evaluation of a conservative parallel discrete event core for GES,” in SIMUTools ’10: Proc. of the 3rd Int’l. ICST Conference on Simulation Tools and Techniques . ICST, 2010, pp. 69:1–69:10.
+[16] ——, “Distribution of parallel discrete-event simulations in GES: Core design and optimizations,” in SIMUTools ’11: Proc. of the 3rd Int’l. ICST Conference on Simulation Tools and Techniques . ICST, 2011.
+[17] V . Jha and R. Bagrodia, “A performance evaluation methodology for parallel simulation protocols,” in ACM SIGSIM Simulation Digest , vol. 26, no. 1. IEEE Computer Society, 1996, pp. 180–185.
+[18] L. M. V aquero, L. Rodero-Merino, J. Caceres, and M. Lindner, “A break in the clouds: Towards a cloud deﬁnition,” ACM SIGCOMM Computer Communication Review, vol. 39, no. 1, pp. 50–55, 2009.
+[19] K. V anmechelen, W. Depoorter, and J. Broeckhove, “A simulation framework for studying economic resource manage ment in grids,” in Proc. of the Int’l. Conference on Compu tational Science (ICCS 2008), vol. 5101. Springer-Verlag, Berlin Heidelberg, 2008, pp. 226–235.
+[20] J. Newmarch, F oundations of Jini 2 Programming . Apress, Berkeley, California, 2006.
+[21] R. L. Bagrodia and M. Takai, “Performance evaluation of conservative algorithms in parallel simulation languages,” IEEE Trans. Parallel Distrib. Syst., vol. 11, no. 4, pp. 395–411, 2000.
+[22] E. Weing ¨artner, H. vom Lehn, and K. Wehrle, “A performance comparison of recent network simulators,” in ICC 2009: IEEE Int’l. Conference on Communications, 2009.

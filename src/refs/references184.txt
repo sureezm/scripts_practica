@@ -1,0 +1,24 @@
+REFERENCES
+[1] L. A. Barroso, J. Dean, and U. Holzle. Web search for a planet: The Google cluster architecture. IEEE Micro, vol. 23, pp. 22-28, 2003.
+[2] M. Al-Fares, A. Loukissas, and A. Vahdat. A scalable, commodity data center network architecture. In Proceedings of the ACM SIGCOMM 2008 conference on Data communication, Seattle, WA, USA, 2008, pp. 63-74.
+[3] C. Guo, H. Wu, K. Tan, L. Shi, Y. Zhang, and S. Lu. Dcell: a scalable and fault-tolerant network structure for data centers. In Proceedings of the ACM SIGCOMM 2008 conference on Data communication, Seattle, WA, USA, 2008, pp. 75-86.
+[4] A. Singla, C. Y. Hong, L. Popa, and P. B. Godfrey. Jellyfish: networking data centers randomly. In Pro ceedings of the 9th USENIX conference on Networked Systems Design and Implementation, San Jose, CA, 2012, pp. 17-17.
+[5] G. H. Wang and T. S. E. Ng. The Impact of Virtualization on Network Performance of Amazon EC2 Data Center. In Proceedings of the 2010 IEEE INFOCOM, San Diego, CA, 2010.
+[6] D. Nagle, D. Serenyi, and A. Matthews. The Panasas ActiveScale Storage Cluster: Delivering Scalable High Bandwidth Storage. In Proceedings of the 2004 ACM/IEEE conference on Supercomputing, Pittsburgh, PA, 2004.
+[7] P. Prakash, A. Dixit, Y. C. Hu, and R. Kompella. The TCP outcast problem: exposing unfairness in data center networks.In Proceedings of the 9th USENIX conference on Networked Systems Design and Implementation, San Jose, CA, 2012.
+[8] A. Greenberg, J. R. Hamilton, N. Jain, S. Kandula, C. Kim, P. Lahiri, D. A. Maltz, P. Patel, and S. Sengupta. VL2: a scalable and flexible data center network. In Proceedings of the ACM SIGCOMM 2009 conference on Data communication, Barcelona, Spain, 2009, pp. 51-62.
+[9] A. Phanishayee, E. Krevat, V. Vasudevan, D. G. Andersen, G. R. Ganger, G. A. Gibson, and S. Seshan. Measurement and analysis of TCP throughput collapse in cluster-based storage systems. In Proceedings of the 6th USENIX Conference on File and Storage Technologies, San Jose, CA, 2008.
+[10] The network simulator ns-2. http://www.isi.edu/nsnam/ns/, 2006.
+[11] The network simulator ns-3. http://www.nsnam.org, 2008. [12] A. Varga. The OMNeT++ discrete event simulation system. In Proceedings of the European Simulation Multiconference, 2001.
+[13] OPNETModeler. http://www.opnet.com/solutions/network_rd/modeler.html
+[14] S. K. Garg and R. Buyya. NetworkCloudSim: Modelling Parallel Applications in Cloud Simulations. In Proceedings of the 4th IEEE International Conference on Utility and Cloud Computing, 2011, pp. 105-113.
+[15] R. Buyya, R. Ranjan, and R. N. Calheiros. Modeling and simulation of scalable Cloud computing environments and the CloudSim toolkit: Challenges and opportunities. In Proceedings of the 2009 International Conference on High Performance Computing & Simulation (HPCS 2009), 2009, pp. 1-11.
+[16] X. Zeng, R. Bagrodia, and M. Gerla. GloMoSim: a library for parallel simulation of large-scale wireless networks. In Proceedings of the Twelfth Workshop on Parallel and Distributed Simulation, 1998, pp. 154-161.
+[17] Network Simulator - NetSim. http://www.boson.com/netsim-cisco-network-simulator.
+[18] SimSANS: Simulating Storage Area Networks. http://simsan.storwav.com.
+[19] The Simics Simulator. http://www.windriver.com/products/simics/
+[20] R. M. Fujimoto. Parallel and distributed simulation. In Proceedings of the 1999 Winter Simulation Conference, 1999, pp. 122-131 vol.1.
+[21] A. Falcon, P. Faraboschi, and D. Ortega. An Adaptive Synchronization Technique for Parallel Simulation of Networked Clusters. In Proceedings of the 2008 IEEE International Symposium on Performance Analysis of Systems and software, 2008, pp. 22-31.
+[22] R. E. Wunderlich, T. F. Wenisch, B. Falsafi, and J. C. Hoe. SMARTS: accelerating microarchitecture simulation via rigorous statistical sampling. In Proceedings of the 30th Annual International Symposium on Computer Architecture,2003, pp. 84-95.
+[23] J. Engblom, D. Kagedal, A. Moestedt, and J. Runeson. Developing embedded networked products using the Simics full-system simulator. In Proceedings of the IEEE 16th International Symposium on Personal, Indoor and Mobile Radio Communications, 2005, pp. 785-789.
+[24] Z. X. Tan, K. Asanovic, and D. A. Patterson. Datacenter- Scale Network Research on FPGAs. In Proceedings of the EXERT 2011 at ASPLOS 2011, Newport B each, CA, 2011.

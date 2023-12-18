@@ -1,0 +1,75 @@
+REFERENCES
+[1] Galea, E. (1998) A general approach to validating evacuation models with an application to EXODUS. J. Fire Sci. ,16, 414–436.
+[2] Gwynne, S., Galea, E., Lawrence, P. and Filippidis, L. (2001) Modelling occupant interaction with ﬁre conditions usingthe building EXODUS evacuation model. Fire Safety J. ,36, 327–357.
+[3] Thompson, P.A. and Marchant, E.W. (1995) A computer model for the evacuation of large building populations. Fire Safety J. , 24, 131–148. The Computer Journal ,V ol. 53 No. 9, 2010. Downloaded from https://academic.oup.com/comjnl/article-abstract/53/9/1384/393556 by EKU Libraries user on 25 January 2019 1398 N. Dimakis et al.
+[4] Fahy, R. (1991) EXIT89: an evacuation model For high-rise buildings. Fire Safety Sci. ,3, 815–823.
+[5] Kisko, T.M. and Francis, R.L. (1985) EV ACNET +: a computer program to determine optimal building evacuation plans. Fire Safety J. ,9, 211–220.
+[6] Drager, K., Lovas, G., Wiklund, J., Soma, H., Duong, D., Violas, A., and Laneres, V . (1992) EV ACSIM — A Comprehensive Evacuation Simulation Tool. 1992 Emergency Management and Engineering Conf. , Orlando, FL, pp. 101–108. SCS, San Diego, CA.
+[7] Kuligowski, E.D. and Peacock, R.D. (2005) A Review of Building Evacuation Models . US Deptartment of Commerce, National Institute of Standards and Technology.
+[8] Loa, S., Fangb, Z., Lina, P., and Zhic, G. (2004) An evacuation model: the SGEM package. Fire Safety J. ,39, 169–190.
+[9] Yuana, J., Fanga, Z., Wangb, Y ., Loc, S. and Wang, P. (2009) Integrated network approach of evacuation simulation for large complex buildings. Fire Safety J. ,44, 266–275.
+[10] Bo, Y ., Cheng, W., Hua, H. and Lijun, L. (2007) A Multi-agent and PSO Based Simulation for Human Behavior in Emergency Evacuation. Int. Conf. Computational Intelligence and Security , Harbin, Heilongjiang, China, December 15–19, pp. 296–300.IEEE Computer Society, Los Alamitos, CA, USA.
+[11] Pan, X., Han, C.S., Dauber, K. and Law, K.H. (2007) A multi-agent based framework for the simulation of human and socialbehaviors during emergency evacuations. AI Soc. ,22, 113–132.
+[12] Liu, K., Shen, X., Georganas, N.D., Saddik, A.E. and Boukerche,A. (2007) SimSITE: The HLA/RTI Based Emergency Preparedness and Response Training Simulation. DS-RT’07: Proc. 11th IEEE Int. Symp. on Distributed Simulation and Real-Time Applications , Chania, Crete Island, Greece, October 22–24, pp. 59–63. IEEE Computer Society, Washington, DC, USA.
+[13] Dahmann, J. and Morse, K. (1998) High Level Architecture for Simulation: An Update. 2nd Int. Workshop on Distributed Interactive Simulation and Real-Time Applications , Motreal, Canada, July 19–20, pp. 32–40. IEEE Computer Society, Los Alamitos, CA, USA.
+[14] Livesey, G.E. and Donegan, H.A. (2008) Using classical graph theory to generate non-isomorphic ﬂoorplan distributions in themeasurement of egress complexity. Math. Comput. Model. ,48, 1–10.
+[15] Kitano, H., Asada, M., Kuniyoshi, Y ., Noda, I. and Osawa, E. (1997) RoboCup: The Robot World Cup Initiative. AGENTS’97: Proc. First Int. Conf. Autonomous Agents , Marina del Rey, CA, USA February 5–8, pp. 340–347. ACM, New York, NY , USA.
+[16] Kitano, H., Asada, M., Kuniyoshi, Y ., Noda, I., Osawa, E. and Matsubara, H. (1997) RoboCup: a challenge problem for AI. AI Mag. ,18, 73–85.
+[17] Filippoupolitis, A., Hey, L., Loukas, G., Gelenbe, E. and Timotheou, S. (2008) Emergency Response Simulation using Wireless Sensor Networks. Proc. 1st Int. Conf. Ambient Media and Systems , Quebec City, Canada, February 11–14, pp. 1–8. ICST, Brussels, Belgium.
+[18] Filippoupolitis, A., Gelenbe, E., Gianni, D., Hey, L., Loukas, G. and Timotheou, S. (2008) Distributed Agent-Based Building Evacuation Simulator. Proc. Summer Computer Simulation Conf. (SCSC’08 ), Edinburgh, UK, June 16–19, pp. 1–8. SCS, San Diego, CA.
+[19] Gianni, D., Loukas, G. and Gelenbe, E. (2008) A Simulation Framework for the Investigation of Adaptive Behaviours inLargely Populated Building Evacuation Scenarios. AAMAS Workshop on Organised Adaptation in Multi-Agent Systems , Estoril, Portugal, May 12, pp. 1–15. Springer, Berlin/Heidelberg.
+[20] Filippoupolitis, A., Loukas, G., Timotheou, S., Dimakis, N. and Gelenbe, E. (2009) Emergency Response Systems forDisaster Management in Buildings. Proc. NATO Symp. C3I for Crisis, Emergency and Consequence Management , Bucharest, Romania, May 11–12, pp. 1–14. NATO Research and TechnologyOrganisation.
+[21] Loukas, G., Timotheou, S. and Gelenbe, E. (2008) Robotic Wireless Network Connection of Civilians for Emergency Response Operations. Proc. 23rd Int. Symp. Computer and Information Sciences (ISCIS 2008 ), Istanbul, Turkey, October 27–29, pp .1–6 . IEEE, New York, NY , USA.
+[22] Loukas, G. and Timotheou, S. (2008) Connecting Trapped Civilians to an Ad Hoc Network of Emergency Response Robots.Proc. 11th IEEE Int. Conf. Communications Systems (ICCS 2008 ), Guangzhou, China, November 19-21, pp. 599–603. IEEE, New York, NY , USA.
+[23] Timotheou, S. and Loukas, G. (2009) Autonomous Networked Robots for the Establishment of Wireless Communication inuncertain emergency response scenarios. Proc. 24th ACM Symp. Applied Computing, Track on Intelligent Robotic Systems , Honolulu, Hawaii, USA, March 8–12, pp. 1171–1175. ACM,New York, NY , USA.
+[24] Filippoupolitis,A. and Gelenbe, E. (2009)A Distributed Decision Support System for Building Evacuation. Proc. 2nd IEEE Int. Conf. Human System Interaction , Catania, Italy, May 21–23, pp. 323–330. IEEE, New York, NY , USA.
+[25] Chandy, K.M. and Misra, J. (1979) Distributed simulation: a case study in design and veriﬁcation of distributed programs. IEEE Trans. Softw. Eng. ,5, 440–452.
+[26] Bryant, R.E. (1984) A switch-level model and simulator for MOS digital systems. IEEE Trans. Computs ,33, 160–177.
+[27] Reynolds, J. and Paul, F. (1988) A Spectrum of Options for Parallel Simulation. WSC’88: Proceedings of the 20th Conf. Winter Simulation , San Diego, CA, USA, December 12–14, pp. 325–332. ACM, New York, NY , USA.
+[28] Peacock, J.K., Manning, E.G. and Wong, J.W. (1980) Synchronization of distributed simulation using broadcastalgorithms. Comput. Netw. ,4, 3–10.
+[29] Paul, F. and Reynolds, J. (1982) A shared resource algorithm for distributed simulation. SIGARCH Computer Archit. News ,10, 259–266.
+[30] Nicol, D. and Reynolds, J. (1985) Problem oriented protocol design. SIGSIM Simul. Dig. ,16, 27–30.
+[31] Kumar, D. (1986) Simulating Feedforward Systems Using a Network of Processors. ANSS’86: Proc. 19th Annual Symp. Simulation , Tampa, FL, USA, March 12–14, pp. 127–144. IEEE Computer Society Press, Los Alamitos, CA, USA.
+[32] Chandy, K.M. and Misra, J. (1987) Conditional Knowledge as a Basis for Distributed Simulation. Technical Report 00000029,California Institute of Technology, Pasadena, CA, USA.
+[33] Lubachevsky, B.D. (1988) Bounded Lag Distributed Discrete Event Simulation. Multi-Conf. Distributed Simulation , January, pp. 183–191. SCS, San Diego, CA.
+[34] Jefferson, D.R. (1985) Virtual time. ACM Trans. Program. Lang. Syst. ,7, 404–425.
+[35] Jefferson, D.D. and Sowizral, H. (1985) Fast Concurrent Simulation Using the Time Warp Mechanism. Distributed Simulation , San Diego, CA, USA, January 24–26, pp. 63–69. SCS, San Diego, CA.
+[36] Gafni, A. (1988) Rollback Mechanisms for Optimistic Distributed Simulation Systems. SCS Multiconf. Distributed Simulation , San Diego, CA, USA, February 3–5, pp. 61–67. SCS, San Diego, CA.
+[37] Fujimoto, R.M. (1990) Parallel discrete event simulation. Commun. ACM ,33, 30–53.
+[38] Damani, O.P., Wang, Y ., and Garg, V .K. (1997) Optimistic Distributed Simulation Based on Transitive Dependency Tracking. PADS’97: Proc. Eleventh Workshop on Parallel and Distributed Simulation , Lockenhaus, Austria, June 10–13, pp. 90–97. IEEE Computer Society, Washington, DC, USA.
+[39] Wang, J. and Tropper, C. (2007) Optimizing Time Warp Simulation with Reinforcement Learning Techniques. WSC’07: Proc. 39th Conf. Winter Simulation , Washington, DC, December 9–12, pp. 577–584. IEEE Press, Piscataway, NJ, USA.
+[40] Rönngren, R. and Ayani, R. (1994) Adaptive Checkpointing in Time Warp. PADS’94: Proc. Eighth Workshop on Parallel and Distributed Simulation , Edinburgh, Scotland, UK, July 6–8, pp. 110–117. ACM, New York, NY , USA.
+[41] Lin, Y ., Preiss, B.R., Loucks, W.M., and Lazowska, E.D. (1993) Selecting the checkpoint interval in time warp simulation.SIGSIM Simul. Dig. ,23, 3–10.
+[42] Chetlur, M., Abu-Gazaleh, N., Radhakrishnan, R. and Wilsey, P.A. (1998) Optimizing Communication in Time-Warp Simulators. PADS’98: Twelfth Workshop on Parallel and Distributed Simulation , Banff,Alberta, Canada, May 26–29, pp. 64–71. IEEE Computer Society, Washington, DC, USA.
+[43] Moreira, E.M., Helena, R., Santana, C. and Santana, M.J. (2005) Using Consistent Global Checkpoints to Synchronize Processesin Distributed Simulation. IEEE International Symposium on Distributed Simulation and Real-Time Applications , Montreal, Canada, October 10–12, pp. 43–50. IEEE Computer Society, Los Alamitos, CA, USA.
+[44] Akyildiz, I.F., Chen, L., Das, S.R., Fujimoto, R.M. and Serfozo, R.F. (1992) Performance analysis of “Time Warp” with limited memory. SIGMETRICS Perform. Evaluation Rev. ,20, 213–224.
+[45] IEEE 1278 (1993) Protocols for distributed interactive simulation applications . International Telecommunications Union. Pis cataway, NJ.
+[46] Batalin, M., Sukhatme, G.S. and Hattig, M. (2004) Mobile Robot Navigation Using a Sensor Network. IEEE Int. Conf. Robotics and Automation , New Orleans, LA, April 26 – May 1, pp. 636– 642. IEEE Press, Piscataway, NJ, USA.
+[47] Corke, P., Peterson, R. and Rus, D. (2003) Networked Robots: Flying Robot Navigation Using a Sensor Net. 11th Int. Symp. Robotics Research (ISRR 2003 ), Siena, Italy, October 19–22, pp. 234–243. Springer, Berlin/Heidelberg.
+[48] Li, Q., Rosa, M.D. and Rus, D. (2003) Distributed Algorithms for Guiding Navigation Across a Sensor Network. MobiCom’03: Proc. 9th Annual International Conf. Mobile Computing andNetworking , San Diego, CA, USA, September 14–19, pp. 313– 325. ACM, New York, NY , USA.
+[49] Tseng, Y ., Pan, M. and Tsai, Y . (2006) Wireless sensor networks for emergency navigation. Computer ,39, 55–62.
+[50] JADE. Java agent development environment . http://jade.tilab.com (accessed January 17, 2010).
+[51] FIPA. The foundation for intelligent physical agents . http://www.ﬁpa.org (accessed January 17, 2010).
+[52] Soldatos, J., Dimakis, N., Stamatis, K. and Polymenakos, L. (2007) A breadboard architecture for pervasive context-aware services in smart spaces: middleware componentsand prototype applications. Pers. Ubiquitous Comput. J. ,11, 193–212.
+[53] Badel, M., Gelenbe, E., Leroudier, J. and Potier, D. (1975) Adaptive optimization of a time-sharing system’s performance. Proc. IEEE ,63, 958–965.
+[54] Gelenbe, E., Schmajuk, N.A., Staddon, J. and Reif, J.H. (1997) Autonomous search by robots and animals: a survey. Robot. Auton. Syst. ,22, 23–34.
+[55] Gelenbe, E. and Cao, Y . (1998) Autonomous search for mines. Eur. J. Oper. Res. ,108, 319–333.
+[56] Gelenbe, E., Seref, E. and Xu, Z. (2001) Simulation with Learning Agents. Proc. IEEE ,89, 148–157.
+[57] Gelenbe, E., Liu, P. and Lainé, J. (2006) Genetic Algorithms for Route Discovery. IEEE Trans. Syst. Man Cybern. B ,36, 1247– 1254.
+[58] Gelenbe, E., Hussain, K. and Kaptan, V . (2005) Simulating autonomous agents in augmented reality. J. Syst. Softw. ,74, 255– 268.
+[59] Gershon, R.R.M. (2006) The World Trade Center Evacuation Study: Lessons for Other High Rise Ofﬁce Buildings. NFPA World Safety Conf. and Exposition , Orlando, FL, June 4–8.
+[60] Gelenbe, E. (2003) Sensible decisions based on QoS. Comput. Manage. Sci. ,1, 1–14.
+[61] Bertsekas, D. and Gallager, R. (1987) Data Networks . Prentice-Hall, Upper Saddle River, NJ, USA.
+[62] Humblet, P.A. (1991) Another adaptive distributed shortest path algorithm. IEEE Trans. Commun. ,39, 995–1003.
+[63] Cormen, T.H., Leiserson, C.E., Rivest, R.L., and Stein, C. (2001) Introduction to Algorithms, (2nd edb) . MIT Press, Cambridge, MA, USA.
+[64] Gelenbe, E., Lent, R. and Xu, Z. (2001) Measurement and performance of a cognitive packet network. J. Comput. Netw. , 37, 691–701.
+[65] Elms, D.G., Buchanan, A.H. and Dusing, J.W. (1984) Modeling ﬁre spread in buildings. Fire Technol. ,20, 11–19.
+[66] Hasofer, A.M. and Odigie, D.O. (2001) Stochastic modelling for occupant safety in a building ﬁre. Fire Safety J. ,36, 269– 289.
+[67] Gelenbe, E. (1979) Diffusion approximations: waiting times and batch arrivals. Acta Inform. ,12, 285–303.
+[68] Gelenbe, E. (2007) A diffusion model for packet travel time in a random multi-hop medium. ACM Trans. Sensor Netw. ,3, 1–19.
+[69] Gelenbe, E., Lent, R. and Nunez, A. (2004) Self-aware networks and QoS. Proc. IEEE ,92, 1478–1489.
+[70] Dobson, S., Denazis, S., Fernández, A., Gati, D., Gelenbe, E., Massacci, F., Nixon, P., Saffre, F., Schmidt, N. and Zambonelli, F. (2006) A survey of autonomic communications. ACM Trans. Auton. Adapt. Syst. ,1, 223–259.
+[71] Ghanea-Hercock, R., Gelenbe, E., Jennings, N.R., Smith, O., Allsopp, D.N., Healing,A., Duman, H., Sparks, S., Karunatillake, N.C. and Vytelingum, P. (2007) Hyperion — next-generationbattlespace information services. Comput. J. ,50, 632–645.
+[72] Gelenbe, E. (2009) Steps toward self-aware networks. Commun. ACM ,52, 66–75.
+[73] Gelenbe, E. and Timotheou, S. (2008) Random neural networks with synchronised interactions. Neural Comput. ,20, 2308–2324.
+[74] Gelenbe, E. and Timotheou, S. (2008) Synchronized interactions in spiked neuronal networks. Comput. J. ,51, 723–730.

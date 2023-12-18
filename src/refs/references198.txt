@@ -1,0 +1,16 @@
+REFERENCES
+[1] Bhat, U. N. 1984. Elements of Applied Stochastic Process. 2nd ed. Jhon Wiley & Sons, 82-98.
+[2] Chandy, K. M., Sherman, R. 1989. “Space-Time and Simulation.” In Proceedings of 1989 SCS Multiconference on Distributed Simulation. (March),53-57.
+[3] Fujimoto, R. M. 1988. "Lookahead in Parallel Discrete Event Simulation." In Proceedings of International Conference on Parallel Processing. (St. Charles, IL, Aug.),34-41
+[4] Greenberg, A. G., Lubachevsky, B. D., Mitrani, I. 1990. "Unboundedly Parallel Simulations via Recurrence Relations." In Proceeding of the Conference on Measurement and Modeling of Computer Systems. (Boulder, CO, May),1-12.
+[5] Heidelberger, P. 1986. "Statistical Analysis of Parallel Simulations." In Proceedings of the 1986 Winter Simulation Conference (Dec.), 200-295.
+[6] Jones, D. W., Chou C., Renk, D., Bruell S. C. 1989. "Experience with Concurrent Simulation." In Proceedings of the 1989 Winter Simulation Conference (Dec.), 756-764.
+[7] Leung, E., Cleary, J., Lomow, G., Baezner, D., Unger, B. 1989. "The Effect of Feedback on the performance of conservative algorithms." In Proceedings of 1989 SCS Multiconference on Advances in Distributed Simulation, 44-49.
+[8] Lin, Y. B., Lazowska, E. 1991. "A Time-Division Algorithm for Parallel Simulation." ACM TOMACS Vol.1, No.1 (Jan.):73-83.
+[9] Lin, Y. B. 1992. "Parallel Trace-Driven Simulation for Packet Loss in Finite-Buffered Voice Multiplexers." Parallel Computing, to appear.
+[10] Nikolaidis, I., Fujimoto, R. 1993 "Parallel Simulation of High-Speed Network Multiplexers." submitted for publication.
+[11] Reed, D. A., Malony, A. D., McCredie, B. D. 1988. "Parallel Discrete Event Simulation Using Shared Memory." IEEE Transaction on Software Engineering Vol.14, No.4 (April):541-553.
+[12] Wang, J., Abrams, M. 1992 "Approximate Time Parallel Simulation of Queueing Systems with Losses." In Proceedings of the 1998 Winter Simulation Conference (Dec.), 700-708.
+[13] Wang, J., Abrams, M. 1993 "Massively Parallel Simulation for Network Multiplexers." in preparation.
+[14] Wanger, D. B., Lazowska, E. D., Bershad B. N. 1989a. "Techniques for Efficient Shared-Memory Parallel Simulation" Distributed Simulation 1989. Society for Computer Simulation International, San Diego, CA. (March),29-37.
+[15] Wanger, D. B., Lazowska, E. D. 1989b. "Parallel Simulation of Queueing Network: Limitation and Po-tentials." In Proceedings of 1989 ACM SIGMET-RICS and PERFORMANCE (May),146-155.

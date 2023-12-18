@@ -1,0 +1,13 @@
+References
+[1] S.J. Bavuso et. al.. Analysis of typical fault-tolerant architectures using HARP. IBBE Trans. on Reliability, pages 176-185, 1987.
+[2] A. Fabbri and L. Donatiello. SQTW: a mechanism for state-dependent parallel simulation. Description and experimental study. Proc. of the 1997 Workshop on Parallel and Distributed Simulation, pages 82-89, 1997.
+[3] R. Fujimoto. Parallel discrete event simulation. Communications of the ACM, 33 (10):30-53, 1990.
+[4] R. Fujimoto and D. Nicol. State of the art in parallel simulation. Proc. of the 1992 Winter Simulation Conference, pages 246-254. 1992.
+[5] K.K. Goswami. Design for dependability: A simulation-based approach. Ph.D Thesis, Computer Science Department, University of Illinois at Urbana-Champaign, 1993.
+[6] B. Groselfj and C. Tropper. The distributed simulation of clustered processes. Distributed Compuling pages 111-121, 1991.
+[7] P. Heidelberger. Fast simulation of rare events in queuing and reliability models. ACM Transactions on Modeling and Computer Simulation, pages 43-85, 1995.
+[8] R. W. Horst. Tnet: A reliable system aven network. IEEE MICRO, pages 37-45, 1995.
+[9] M. Kaaniche, L. Romano. Z. Kalbarczyk, R. K. Iyer. and R. Karcich. A hierarchical approach for dependability analyss of a commercial cached RAID storage architecture. The 28th Annual International Symposium on Fault-Tolerant Computing, pages 6-15, 1998.
+[10] A. M. Law and W. D. Kelton. Simulation Modeling and Analysis. McGraw-Hil, New York, 1991.
+[11] D. M. Nicol. High performance parallelized discrete event shaulation of stochastic queuing networks. Proc. of the 1988 Winter Simulation Conference, pages 306-314, 1988.
+[12] D. P. Siewiorck and R. S. Swarz. Reliable Computer Systems Design and Evaluation. Digital Press, 1992. 

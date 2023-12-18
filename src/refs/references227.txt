@@ -1,0 +1,11 @@
+References
+1. Deo, N., and Prasad, S. Parallel heap: An optimal parallel priority vancements of the global clock, and the other to their queue. J. Supercomput. 6(1992), 87-98.
+2. Fujimoto, R. M. Parallel discrete event simulation. Comm. ACM 3 2. Throughout our discussion, there is an implicit (Oct. 1990), 31-53.
+3. Fujimoto, R. M,. and Nicol. D. State of hte art ni paralel simulation. Proc. Winter Sim. Comf,. Arlington, VA, Society for Computer Simulation, 192, p. 246-254.
+4. Karp. R. M. and Ramachandran. V. Parallel algorithms for shared memory machines. In Leeuwen. .J van (Ed.). Handhook of theoretical Computer Science. North-Holand, Amsterdam.1989.
+5. Lubachevsky, B. D. Efficient distributed event-driven simulations of multiple-loop networks. Comm. ACM 23 (Jan. 1989), 111-131.
+6. Paul, W., Vishkin, U., and Wagner, H. Parallel dictionaries on 2-3 trees. Proc. ICALP 83, Lecture Notes in Computer Science, Vol. 154, Springer-Verlag, 1983, pp. 597-609.
+7. Prasad, S. Efficient parallel algorithms and data structures for discrete-event simulation. Ph.D. thesis, Computer Science Dept., Univ. Central Florida, Orlando, Dec. 1990.
+8. Prasad, S. A scalable and efficient optimistic algorithm for paralel discrete-event simualion. Pe,t 191.8. .30-3ndo
+9. Prasad, S., and Deo, N. An efficient and scalable parallel algorithm for discrete-event simulation. Proc. Winter Sim. Conf., Phoenix, AZ, Society for Computer Simulation. Dec. 1991, pp. 652-658.
+10. Sokol, L., Weissman, J. B., and Mutchler, P. A. MTW: An empirical performance study. Proc. Winter Sim. Conf., Phoenix, AZ, Society for Computer Simulation. Dec. 1991, pp. 557-563.

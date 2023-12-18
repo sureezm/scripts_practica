@@ -1,0 +1,39 @@
+REFERENCES
+1. Abrams, M., and Richardson, D. Implementing a global termination condition and collecting output measures in parallel simulation. Proceedings of the SCS Multiconference on Advances in Parallel and Distributed Simulation, Anaheim, California, Jan. 1991, pp. 86-91.2.
+2. Ayani, R. Aparallel simulation scheme basedon distances between objects. Proceedings of the SCS Multiconference on Distributed Simulation, Tampa, Florida, Mar. 1989, pp. 113-118.
+3. Bellenot,S . Global virtual time algorithms. Proceedings ofthe SCS Multiconference on Distributed Simulation, San Diego, California, Jan. 1990, pp. 122-127.
+4. Buzzell, C. A., and Robb, M., J Modular VME rollback hardware for time warp. Proceedings of the SCS Multiconference on Distributed Simulation, San Diego, California, Jan. 1990, pp. 153-156.
+5. Chandy, K. M., and Sherman, R. The conditional event approach to distributed simulation. Proceedings of the SCS Multiconference on Distributed Simulation, Tampa, Florida, Mar. 1989, pp. 93-99.
+6. Concepcion, A. I., and Kelly, S. G. Computing global virtual time using the multi-level token passing algorithm. Proceedings of the SCS Multiconference on Advances in Parallel and Distributed Simulation, Anaheim, California, Jan. 1991, pp. 63-68.
+7. Crockett,T. W., and Knott, .J D. System software for the finite element machine. NASA Contractor Report 3870, NASA Langley, Hampton, VA , Feb. 1985.
+8. Dickens, P. M., and Reynolds, Jr., P. F. State saving and rollback costs for an aggressive global windowing algorithm. Computer Science Report No.Technical Report-92-18, Department of Computer Science, University of Virginia, Charlottesville, VA, June 1992.
+9. Filoque, J. M.. Gautrin, E., and Pottier, B. Efficient global computations on a processors network with programmable logic. Report 1374, Institut National de Rechercheen Informatique et en Anutomatique, France, Jan. 1991.
+10. Fujimoto, R. M. Parallel discrete event simulation. Comm. ACM 33, 10 (Oct. 1990), 30-53.
+11. Fujimoto, R. M., Tsai, .J J., and Gopalakrishnan, G. C. Design and evaluation of the rollback chip: Special purpose hardware for time warp. IEEE Trans. Comput. 41, 1(Jan. 1992), 68-82.
+12. Hoshino, .T PAX Computer: High-Speed Parallel Processing and Scientific Computing. Addison-Wesley, Reading, MA, 1985.
+13. Intel Corporation. iPSCI2 Programmer's Reference Manual. Intel Scientific Computers. Beaverton, OR, 1989.
+14. Jefferson, D., and Sowizral, H. Fast concurrent simulation using the time warp mechanism Proceedings of the Conference on Distributed Simulation, San Diego, CA Jan. 1985, pp. 63-69.
+15. Jefferson, D. R. Virtual time. ACM Trans. Programming Languages Systems 7, 3 (July 1985), 404-425.
+16. Jefferson, D. R. Virtual time. Il. Storage management indistributed simulation. Proceedings of the Ninth Annual Symposium on Principles of Distributed Computing, Quebec. Aug. 1990, pp. 75-89.
+17. Jordan, H. F.. Scalabrin. M.. and Calvert, W. A comparison of three types of multiprocessor algorithms. Proceedings of the 1979 International Conference on Parallel Processing. Aug. 1979, pp. 231-238.
+18. Lamport. .L How to make a multiprocessor computer that correctly executes multiprocessor programs. IEEE Trans. Comput. C-28, 9 (Sept. 1979), 690-691.
+19. Lin. Y. B., and Lazowska, E. D. Determining the global virtual time in a distributed simulation. Technical Report 90-01-02, Department of Computer Science, University of Washington, Seattle, Dec. 1989.
+20. Lubachevsky, B. D. Bounded lag distributed discrete event simulation. Proceedings of the SCS Multiconference on Distributed Simulation. San Diego. California, Feb. 1988, pp. 183-191.
+21. Lubachevsky, B. D. Efficient distributed event-driven simulations of multiple-loop networks. Comm. ACM 32, (Jan. 1989), 111-123. 
+22. Lubachevsky, B.. Weiss, A., and Shwartz, A. An analysis of rollback-based simulation. ACM Trans. Modeling Comput. Simulation 1, (Apr. 1991) 154-193.
+23. Nicol. D. M. The cost of conservative synchronization in parallel discrete event simulation. J. ACM, to appear.
+24. Pancerella, C. M. Improving the efficiency of a framework for parallel simulations. Proceedings of the 1992 Western Simulation MultiConference on Parallel and Distributed Simulation. Newport Beach, Ca. Jan. 1992, pp. 22-29.
+25. Pfister, G. F., Brantley, W. C., George, D. A., Harvey, S. L. Kleinfelder.W. J., McAuliffe, K. P,. Melton. E. A., Norton, V. A.. and Weiss, J .The IBM Research Parallel Prototype (RP3): Introduction and Architecture. Proceedings of the 1985 International Conference on Parallel Processing. St. Charles. IL, Aug. 1985, pp. 764-771.
+26. Ranade, A. G.. Bhatt, S. N., and Johnsson, S. L.. The fluent ab. stract machine, YALEU/Department of Computer Science/Technical Report-573, Department of Computer Science, Yale University, New Haven, CT, Jan. 1988.
+27. Reynolds, Jr., P. F. A spectrum ofoptions of parallel simulation. Proceedings ofthe 1988 Winter Simulation Conference. San Diego. California. Dec. 1988, pp. 325-332.
+28. Reynolds, Jr,. P. F,. Williams, C,. and Wagner, R. R. Parallel operations. Computer Science Report No. TechnicalReport-89-16, Department of Computer Science, University of Virginia, Charlottesville, VA, Dec. 1989.
+29. Reynolds, Jr., P. F. An efficient framework for parallel simulations. Proceedings of the SCS Multiconference on Advances in Parallel and Distributed Simulation, Anaheim, California, Jan. 1991, pp. 167-174.
+30. Reynolds, Jr.. P. F.. Williams, C., and Wagner, R. R. Empirical analysis of isotach networks. Computer Science Report No. Technical Report-92-19, Department of Computer Science, University of Virginia, Charlottesville, VA, June 1992.
+31. Reynolds, Jr., P. F. An efficient framework for parallel simulations. Int. .J Comput. Simulation, to appear.
+32. Reynolds, Jr., P. F,. and Pancerella, C. M. Hardware support for parallel discrete event simulations. Computer Science Report No. Technical Report-92-08, Department of Computer Science. University of Virginia, Charlottesville, VA, Apr. 1992.
+33. Samadi, B. Distributed simulation, algorithms. and performance analysis. Ph.D. Thesis, Computer Science Department, University of California, Los Angeles, Jan. 1985.
+34. Sokol, L. M., Briscoe, D. P., and Wieland, A. P. MTW: Astrategy for scheduling discrete simulation events for concurrent execution. Proceedings of the SCS Multiconference on Distributed Simulation, San Diego, CA. Feb. 1988, pp. 34-42.
+35. Srinivasan, S. Modeling a framework for parallel simulations. Master's Thesis, School of Engineering and Applied Science. University of Virginia, Charlottesville, VA, May 1992.
+36. Stone, H. S. High-Performance Computer Architecture. Addison Wesley, Reading. MA, 1990.
+37. Sun Microsystems. SBus Specification B.O. Sun Microsystems, Mountain View, CA, 1990. Received June 15, 1992; revised January 21, 1993; accepted April 22. 1993
+38. Thinking Machines Corporation. The Connection Machine CM-5 Technical Summary. Thinking Machines Corporation. Cambridge. MA, Jan. 1992.

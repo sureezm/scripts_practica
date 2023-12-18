@@ -1,0 +1,12 @@
+References 
+[1] Bharghavan, V. Design and Implementation of Empathy - A Distributed Discrete-Event Simulation System, Musters Thesis,University of California at Berkeley, (April 1993).
+[2] Bharghavan, V., and Ramamoorthy. C.V. Overhead Reduction in Distributed Simulation, Proceedings of the International Symposium on Autonomous Decentralized Sysrems. Kawasaki, Japan, (March 1993).
+[3] Bharghavan, V., Ramamoorthy, C.V., and Mittal, R. Dynamic Thresholds in Process Allocation, To be published. 
+[4] Chandy, K.M., and Misra. J. Asynchronous distributed simulation via a sequence of parallel computations. Conmunications of the ACM, 24 , 11 (November 1981), pp 198 - 205. 
+[5] De Vries, R.C. Reducing Null messages in Misra's Distributed Discrete event simulation method. IEEE Transactions on Software Enginnering. 16, 1 (January 1990), pp. 82 - 91.
+[6] Fujimoto. R.M. Parallel Discrete Event Simulation, Communications of the ACM, 33, 10. (October l w ) , pp. 30 - 53. [7] Gafni, A. Rollback mechanisms for Optimistic Distributed Simulation Systems, Proceedings of ACM SIGMETRICS. San Diego, (1991).
+[8] Jefferson, D.R. Virtual time, ACM Transactions on Programing Language and Systems, 7 , 3. (July 85),pp. 404 425.
+[9] Lin,Y-B..Lazowska, E.D.and Baer. 1-L. Optimality considerations in "Time Warp" parallel simulation, Proceedings of SCS MultiConference on Distributed Simulation, 22, 1, (January 1990), pp. 144 - 149.
+[10] Lubachevsky, B., Weiss. A., and Shwark A. An analysis of Rollback-based simulation ACM Transactions on Computers in Simulation, 1, 2, (April 1991). pp. 154 - 193.
+[11] Misra, 1, Distributed Discrete Event Simulation, ACM Computing Survey, 18, 1, (March 1986),pp. 39 - 65.
+[12] West, D. Optimizing Time Warp: Lazy Rollback and Lazy Reevaluation, MS Thesis, University of Calgary, (Janu- ary 1988).

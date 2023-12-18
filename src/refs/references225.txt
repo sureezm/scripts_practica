@@ -1,0 +1,12 @@
+REFERENCES 
+[1] R. B. Banks. Growth and Diffusion Phenomena : Mathematical frameworks and Applications. Springer-Verlag, Berlin, Germany, 1994. 
+[2] C. L. Barrett et al. TRANSIMS: Transportation Analysis and Simulation System. Technical Report LA-UR-00-1725, Los Alomos National Laboratory, 2001. Unclassified Report. 
+[3] G. Bormann, F. Brosens, and E. De Schutter. Computational Modeling of Genetic and Biochemical Networks, chapter Modeling molecular diffusion, pages 189-224. Reviews in the Neurosciences. MIT Press, Boston, Mass. USA, 2001. 
+[4] C. Carothers, K. Perumalla, and It. M. Fujimoto. Efficient optimistic parallel simulations using reverse computation. In Proceedings of the 1999 Workshop on Parallel and Distributed Simulations, Atlanta, GA, May 1999. 
+[5] R. Durrett and S. A. Levin. The importance of being discrete (and spatial). Theoretical Population Biology, 46:363-394, 1994. 
+[6] J. Flaherty, M. Dindar, B.. Loy, M. Shephaxd, B. Szymanski, J. Teresco, and L. Ziantz. Numerical Analysis, chapter An adaptive and parallel framework for partial differential equations. Addison Wesley Longman, Edinburgh, UK, 1998. 
+[7] R. M. Fujimoto. Parallel discrete event simulation. CACM, 33(10):31-53, 1990. 
+[8] D. R. Jefferson. Virtual time. ACM Transactions on Programming Languages and Systems, 7(3):404-425, 1985. 
+[9] Y.-B. Lin and P. Fishwick. Asynchronous parallel and distributed simulation (for PCS). IEEE transtactions on systems, Man, and Cybgernetics, 26(4), 1996. University of Florita Tech report tr95-005. 
+[10] C. E. Perkins, editor. Ad Hoc Networking. Addison-Wesley, 1st edition, 2000. 
+[11] B. Szab6 and I. Babuska. Finite Element Analysis. John Wiley and Sons, Ltd., New York, London, Sydney, 1991.

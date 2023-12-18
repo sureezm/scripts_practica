@@ -1,0 +1,29 @@
+References
+[1] E. Annuf, The Java sourcebook, Wiley, New York, 1996.
+[2] W.E. Biles, J.P.C. Kleijnen, a java-based simulation manager for optimization and response surface methodology in multiple-response parallel simulation. in: P.A.Farrington, H.B.Nembhard, D.T. Sturrock, G.W. Evans (Eds.), Proceedings of the 1999 Winter Simulation Conference. Phoenix, AZ, 5-8 December 1999.
+[3] R.E. Bryant, Simulation of packet communications architecture computer systems. MIT-LCS-TR- 188, Massachusetts Institute of Technology, 1977.
+[4] A.H. Buss, K.A. Stork, Discrete event simulation and the world-wide web using Java. in: J.M. Charnes, D.J. Morrice, D.T. Brunner, J.J. Swain (Eds.), Proceedings of the 1996 Winter Simulation Conference. pp. 780±785, Coronado, CA, 8-11 December 1996.
+[5] K.M. Chandy, J. Misra, Distributed simulation: a case study in design and veri®cation of distributed programs, IEEE Transactions on Software Engineering SE-5 (5) (1979) 440-452.
+[6] C. Domingo, M. Sananes, G. Tonella, Web modeling-simulation: two strategies. in: P. Fishwick, D.R.C. Hill (Eds.), Proceedings of the 1998 International Conference on Web-based Modelling and Simulation, SCS, San Diego, CA (CD Rom), 1998.
+[7] F. Fatin, A Programming Structure for Parallel Simulation. PhD thesis, Brunel University, 1996.
+[8] A. Ferscha, M. Richter, Java based co-operative distributed simulation. in: S. Andrado^ttir, K.J. Healy, D.H. Withers, B.L. Nelson (Eds.), Proceedings of the 1997 Winter Simulation Conference. pp. 381±388, Atlanta, GA, 7±10 December 1997.
+[9] G.S. Fishman, Concepts and methods of discrete event digital simulation, Wiley, New York, 1973.
+[10] P. Fishwick, D.R.C. Hill, (Eds.), in: Proceedings of the 1998 International Conference on Web-based Modelling and Simulation. SCS, San Diego, CA (CD Rom), 1998.
+[11] R.M. Fujimoto, Parallel discrete event simulation, Communications of the ACM 33 (10) (1990) 30-53.
+[12] R.M. Fujimoto, Parallel discrete event simulation: will the field survive? ORSA Journal on Computing 5 (3) (1993) 213-230.
+[13] F.Howell, R.McNab, Simjava: a discrete event simulation library for Java, in: P. Fishwick, D.R.C. Hill (Eds.), Proceedings of the 1998 International Conference on Web-based Modelling and Simulation, SCS, San Diego, CA (CD Rom), 1998.
+[14] D. Nicol, R.M. Fujimoto, Parallel simulation today, in: O. Balci (Ed.), Annals of Operations Research 53 (1994) pp. 249-285.
+[15] D. Nicol, A. Greenberg, B. Lubachevsky, S. Roy, Massively Parallel Algorithms for Trace-Driven Cache Simulation. in: Proceedings of the Sixth Workshop on Parallel and Distributed Simulation, vol. 24, SCS Simulation Series, January, 1992, pp. 3-11.
+[16] M. Pidd, Object-orientation, discrete simulation and the three-phase approach, Journal of the Operational Research Society 46 (1995) 362-374.
+[17] M. Pidd, Computer Simulation in Management Science, fourth ed., Wiley, Great Britain, 1998.
+[18] M. Pidd, R.A. Cassel, Three-Phase Simulation in Java. in: Proceedings of the Winter Simulation Conference 98, Washington, DC, December, 1998 pp. 367-371.
+[19] M. Pidd, R.A. Cassel, Web based simulation using Java. Accepted for publication, IEEE Potentials 19 (1) (2000a) 11-15.
+[20] M. Pidd, R.A. Cassel, Using Java to develop discrete event simulations. Journal of Opernational Research Society 51 (4) (2000) (inpress).
+[21] B.R. Preiss, K.W.C. Wan, The Parsimony Project: a distributed simulation testbed in Java. in: H. Sarjoughian (Ed.), Proceedings of the 1999 International Conference on Web-based Modelling and Simulation. SCS, San Diego, CA (CD Rom), 1999.
+[22] H. Sarjoughian, (Ed.), Proceedings of the 1999 International Conference on Web-based Modelling and Simulation. SCS, San Diegp, CA (CD Rom), 1999.
+[23] J. Saville, Interest Management: Dynamic Group Multicasting Using Mobile Java Policies. in: Proceeding soft he 1997 Fall Simulation Interoperability Workshop, 1997, pp. 125-134.
+[24] R. Spinelli de Carvalho, J.G. Crookes, Cellular simulation, Operational Research Quarterly 27 (1,i) (1976) 31-40.
+[25] K.D. Tocher, The Art of Simulation, English University Press, GreatBritain,1963.
+[26] S. Turner, M. Xu, Performance Evaluation of the Bounded Time Warp Algorithm. in: Proceedings of the Sixth Workshop on Parallel and Distributed Simulation, vol. 24, SCS Simulation Series, January 1992, pp. 117-128.
+[27] J. Weber, Special Edition Using Java 1.1., third ed., QUE Corporation, USA, 1997.
+[28] P.A. Wilcox, R.J. Pooley (1998), "Factory Simulation across the World Wide Web using Java", Proceedings of the 1998 International Conference on Web-based Modeling and Simulation, SCS Western Multiconference, San Diego, January 11-14 1998, pp. 174-179, ISBN 1-56555-136-2.

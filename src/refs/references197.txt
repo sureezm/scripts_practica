@@ -1,0 +1,27 @@
+References 
+[1] F. Bodin, P. Beckman, D. Gannon, S. Narayana, and S. X. Yang, “Distributed pC++: Basic Ideas for an Object Parallel Language”, Scientific Programming, Vol. 2, No. 3, pp 7-22, Fall 1993.
+[2] A. Chien, “Concurrent Aggregates Supporting Modularity in Massively Parallel Programs”, The MIT Press, 1993.
+[3] K. M. Chandy and J. Misra, “A case study in design and verification of distributed programs”, IEEE Trans. Software Engineering. SE5, pp 440- 452, Sept., 1979.
+[4] Y. K. Cho, Parallel Implementation of Container using Parallel Virtual Machine, Master thesis, The University of Arizona, Tucson, AZ, 1995.
+[5] A. Chow and B. P. Zeigler, “Revised DEVS: A Parallel, Hierarchical, Modular Modeling Formalism”, Proc. Winter Simulation Conf., 1994.
+[6] E. R. Christensen and B. P. Zeigler, “Hierarchical, Distributed, Object oriented and Knowledge based Simulation” , In 8th Military Operations Research Society Symposium, 1990.
+[7] A. I. Concepcion, “A hierarchical computer architecture for distributed simulation” , IEEE Transactions on Computers, Feb. 1989.
+[8] A. Ferscha, “Probabilistic Adaptive Direct Optimism Control in Time Warp” , In Proc. of the 9th Workshop on Parallel and Distributed Simulation, 1995.
+[9] R. M. Fujimoto, “Parallel discrete event simulation”, CACM, vol. 33, pp. 30-53, 1990.
+[10] A. Greenberg, B. Lubachevsky, D. Nicol, and P. Wright, “Efficient Massively Parallel Simulation of Dynamic Channel Assignment Schemes for Wireless Cellular Communications” , Proceedings of 8Th Workshop on Parallel and Distributed Simulation, pp. 187-194, 1994.
+[11] Y. C. Ho, “Special issue on discrete event dynamic systems”, Proceedings of the IEEE, 77(1), 1989.
+[12] D. R. Jefferson, “Virtual Time”, ACM Trans. Programming Languages Systems, 7(3) pp. 404- 425, July 1985.
+[13] V. Jha and R. L. Bargodia, “A Unified Framework for Conservative and Optimistic Distributed Simulation” , 8th Workshop on Parallel and Distributed Simulation, 1994.
+[14] C. Liao, A. Motaabbed, D. Kim, and B. P. Zeigler, “Distributed Simulation Algorithm for Sparce Output DEVS”, In Proc. of AI, Simulation and Planning in High-Autonomy Systems, Sept. 1993.
+[15] Y. B. Lin, “Special Issue on Parallel Discrete Event Simulation”, Journal of Parallel and Distributed Computing, vol. 18, pp. 391-394, 1993.
+[16] D. Nicol, R. M. Fujimoto, “Parallel Simulation Today” , Annals of Operations Research vol.53 pp. 249-285, NOV. 1994.
+[17] R. Ponnusamy, R. Thakur, A. Choudhary, K. Velamakanni, Z. Bozkus, and G. Fox, “Experimental Performance Evaluation of the CM-5”, Journal of Parallel and Distributed Computing, vol. 19, pp. 192-202, 1993.
+[18] H. Praehofer and B. P. Zeigler, “Automatic abstraction of event-based control models from continuous base models”, submitted to IEEE Trans. Systems, Man and Cybernetics, 1995.
+[19] Jeff S. Steinman, “SPEEDES: Synchronous Parallel Environment for Emulation and Discrete Event Simulation”, Advances in Parallel and Distributed Simulation, Proceedings of the SCS Multiconference, pp. 95-103, 1990.
+[20] V. S. Sunderam and et. al., “The PVM Concurrent Computing System: Evolution, Experience, and Trends”, Parallel Computing, vol. 20, no. 4, pp. 531-545, 1994.
+[21] B. P. Zeigler, “DEVS representation of dynamical systems: Event-based intelligent control”, Proceedings of the IEEE, 77(1):72-80, 1989.
+[22] B. P. Zeigler, Object-Oriented Simulation with Hierarchical, Modular Models: Intelligent Agents and Endomorphic Systems, Academic press, San Diego, CA, 1990.
+[23] B. P. Zeigler and W. H. Sanders, “Preface to special issue on environments for discrete event dynamic systems”, Discrete Event Dynamic Systems: Theory and Application, 3(2):110-119, 1993.
+[24] B. P. Zeigler, Y. Moon, V. L. Lopes and J. Kim, “DEVS Approximation of Infiltration Using Genetic Algorithm Optimization of a Fuzzy System”, submitted to Journal of Mathematical and Computer Modeling, 1995.
+[25] B. P. Zeigler, Y. Moon, D. Kim, and J. G. Kim, “C++DEVS: A High Performance Modelling and Simulation Environment”, 29th Hawaii International Conference on System Sciences, Jan. 1996.
+[26] B. P. Zeigler and Guoqing Zhang, “Mapping Hierarchical Discrete Event Models to Multiprocessor Systems: Concepts, Algorithm, and Simulation” , Journal of Parallel and Distributed Computing, vol. 9, pp. 271-281, 1990.

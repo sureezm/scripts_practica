@@ -1,0 +1,14 @@
+REFERENCES 
+[l] BAILEY, M. L., BRINER, J. V., CHAMBERLAIN, R. D., "Parallel Logic Simulation of VLSI Systems". ACM Computing Surveys, Vol. 26, No 3, pp. 255-294 (September 1994).
+[2] REYNOLDS, P. F., Jr., 1988 "A Spectrum of Options for Parallel Simulation". Proceedings of 1988 Winter Simulation Conference, pp, 325-332.
+[3] FUJIMOT0,R.M. Y 990 "Parallel Discrete Event Simulation". Communications of the ACM, Vol. 33, No 10, pp. 30-53.
+[4] MISRA,J. 1986 "Distributed Discrete-Event Simulation". ACM Computing Surveys, March, pp.
+[5] CHANDY,K., MISRA,J. 1981 "Asynchronous Distributed Simulation Via a Sequence of Parallel Computations". CO". ACM. Vol. 24, No 11, pp.
+[6] CHANDY,K., MISRA,J., A.L.M.HAAS. 1983. "Distributed Deadlock Detection". ACM Trans. on Computer Science, Vol. 1, No 5, pp. 144-156.
+[7] JEFFERSON,D. 1985 'I Virtual Time". ACM Trans. on Programming Languages and Systems, Vol. 7, No 3, pp. 404-425.
+[8] FUJIMOT0,R.M. 1989 "Time Warp on a Shared Memory Multiprocessor". Proc. International Conference on Parallel Processing, Vol. III, pp. 242-249.
+[9] FERSCHA, A., TRIPATHI, S. K., "Parallel and Distributed Simulation of Discrete Event Systems". Technical Report CS-TR-3336, Computer Science Department, University of Maryland (August 1994). 39-65. 198-206.
+[1O] LIN, Y.-B., "Understanding the Limits of Optimistic and Conservative Parallel Simulation". PhD. Dissertation. Department of Computer Science and Engineering. University of Washington (1 990).
+[11] FUJIMOT0,R.M. 1988 "Lookahead in Parallel Discrete Event Simulation". Proc. International Conference on Parallel Processing. pp. 34-4 1.
+[12] YU, M., GHOSH, SUMIT, DeBENEDICTIS, E., "A Non-Deadlocking Conservative Asynchronous Distributed Discrete Event Simulation Algorithm". Proceedings of the SCS Multiconference on Advances in Parallel and Distributed Simulation, pp. 100-1 11 Califomia, January 1991.
+[13] GHOSH, S., W, M.-L. 1995 "An Asynchronous Distributed Approach for the Simulation of Behaviour-Level Models on Parallel Processors". IEEE Transactions on Parallel and Distributed Systems, Vol. 6, No 6, pp.639-652.

@@ -1,0 +1,25 @@
+REFERENCES
+[1] B. H. Bloom. Space/time trade-offs in hash coding with allowable errors. Commun. ACM, 13(7):422–426, 1970.
+[2] R. Brown. Calendar queues: a fast O(1) priority queue implementation for the simulation event set problem. Communications of the ACM, 31:1220–1227, October 1988.
+[3] C. D. Carothers, K. S. Perumalla, and R. M. Fujimoto. Efficient optimistic parallel simulations using reverse computation. ACM Transactions on Modeling and Computer Simulation, 9(3):224–253, july 1999.
+[4] S. R. Das, R. M. Fujimoto, K. Panesar, D. Allison, and M. Hybinette. GTW: a time warp system for shared memory multiprocessors. In WSC ’94: Proceedings of the 26th conference on Winter simulation, pages 1332–1339. Society for Computer Simulation International, 1994.
+[5] M. Elnozahy, L. Alvisi, Y.-M. Wang, and D. B. Johnson. A survey of rollback-recovery protocols inmessage-passing systems. ACM Computing Surveys, 34(3):375–408, sept 2002.
+[6] S. Franks, F. Gomes, B. Unger, and J. G. Cleary. State saving for interactive optimistic simulation. In Workshop on Parallel and Distributed Simulation, pages 72–79, 1997.
+[7] R. M. Fujimoto. Parallel discrete event simulation. Communications of the ACM , 33(10):30–53, Oct. 1990.
+[8] H. R. Group. ROOT-Sim: The ROme OpTimistic Simulator - v 1.0. http://www.dis.uniroma1.it/~hpdcs/ROOT-Sim/ , Oct. 2012.
+[9] D. R. Jefferson. Virtual Time. ACM Transactions on Programming Languages and System, 7(3):404–425, July 1985.
+[10] D. R. Jefferson, B. Beckman, F. Wieland, L. Blume, M. D. Loreto, P. Hontalas, P. Laroche, K. Sturdevant,J. Tupman, L. V. Warren, J. J. Wedel, H. Younger,and S. Bellenot. Distributed simulation and the time wrap operating system. In SOSP, pages 77–93, 1987.
+[11] D. B. Johnson. Efficient transparent optimistic rollback recovery for distributed application programs. InProceedings of the 12th Symposium on Reliable Distributed Systems, RDS, pages 86–95, Oct. 1993.
+[12] S. Kandukuri and S. Boyd. Optimal power control in interference-limited fading wireless channels with outage-probability speciﬁcations. IEEE Transactions on Wireless Communications , 1(1):46–55, 2002.
+[13] L. Lamport. Time, clocks, and the ordering of events in a distributed system. Communications of the ACM, 21(7):558–565, 1978.
+[14] D. E. Martin, T. J. McBrayer, and P. A. Wilsey. WARPED: A time warp simulation kernel for analysis application development. In HICSS ’96: Proceedings of the 29th Hawaii International Conference on System Sciences (HICSS’96) Volume 1: Software Technology and Architecture , page 383. IEEE Computer Society, 1996.
+[15] A. Pellegrini, R. Vitali, and F. Quaglia. The ROme OpTimistic Simulator: Core internals and programming model. In Proceedings of the 4th International ICST Conference on Simulation Toolsand Techniques , SIMUTools. ICST, 2011.
+[16] A. Pellegrini, R. Vitali, and F. Quaglia. Transparent and efficient shared-state management for optimistic simulations on multi-core machines. In Proceedings 20th International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems, MASCOTS, pages 134–141. IEEE ComputerSociety, Aug. 2012.
+[17] F. Quaglia. On the construction of committed consistent global states in optimistic simulation.International Journal of Simulation and Process Modelling, 5(2):172–181, 2009.
+[18] A. Santoro and F. Quaglia. Transparent optimistic synchronization in the high-level architecture via time-management conversion. ACM Trans. Model. Comput. Simul., 22(4):21, 2012.
+[19] SPEEDES. http://www.speedes.com , 2005.
+[20] R. Vitali, A. Pellegrini, and F. Quaglia. Autonomic log/restore for advanced optimistic simulation systems. In Proceedings of the Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems , MASCOTS, pages 319–327. IEEE Computer Society, 2010.
+[21] R. Vitali, A. Pellegrini, and F. Quaglia. Towards symmetric multi-threaded optimistic simulation kernels. In Proceedings of the 26th International Workshop on Principles of Advanced and Distributed Simulation , PADS, pages 211–220. IEEE Computer Society, Aug. 2012.
+[22] A. Welc, B. Saha, and A.-R. Adl-Tabatabai. Irrevocable transactions and their applications. In Proceedings of the 20th annual Symposium on Parallelism in Algorithms and Architectures, SPAA, pages 285–296. ACM, 2008.
+[23] D. West and K. Panesar. Automatic incremental state saving. In Proceedings of the 10th Workshop on Parallel and Distributed Simulation , pages 78–85. IEEE Computer Society, May 1996.
+[24] B. Wester, P. M. Chen, and J. Flinn. Operating system support for application-speciﬁc speculation. In Proceedings of the sixth conference on Computer systems, EuroSys, pages 229–242. ACM, 2011.

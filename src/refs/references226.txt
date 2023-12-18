@@ -1,0 +1,23 @@
+References 
+[1] W.L. Bain. and D.S. Scott, “An Algorithm for Time Synchronization in Distributed Discrete Event Simulation”, Proc. of the SCS Multi-conference on Distributed Simulation. 19, 3, February 1988, pp.30-33.
+[2] D. Ball, and S. Hoyt, “The Adaptive Time-Warp Concurrency Control Algorithm”, Proc. of the SCS Multi-conference on Distributed Simulation, 1990, pp.174- 177.
+[3]R.E. Bryant, Simulation of Packet Cornminications Architecture Computer Systems, MIT-LCS-TR- 188, Massachusetts Institute of Technology. 1977.
+[4] W. Cai, and S.J. Turner, “An Algorithm for Distributed Discrete Event Simulation - The Carrier Null Message Approach”, Proc. of the SCS Multi-conference on Distributed Simulation, January 1990, pp. 3-8.
+[5] K.M. Chandy, and J. Misra, “Distributed Simulation: a Case Study in Design and Verification of Distributed Programs”, IEEE Trans. on Software Engineering, 5, 5. September 1979, pp. 440-452.
+[6] S.R. Das, and R.M. Fujimoto, "An Adaptive Memory Management Protocol for Time Warp Parallel Simulation" ACM SIGMETRICS Conf. on Measurement and Modeling of Computer System, 1994, pp. 201-210.
+[7] R.M. Fujimoto, "Parallel Discrete Event Simulation". Communication of the ACM, 33, 10, 1990, pp. 31-53.
+[8] R.M. Fujimoto, "Performance of Time Warp under Synthetic Workload", Proc. of the SCS Multi-conference on Distributed Simulation, 22, 1, January 1990, pp. 23-28.
+[9] R.M. Fujimoto, and R.M. Weatherly, "Time Management in the DoD High Level Architecture", Proc. of the 10th Workshop on Parallel and Distributed Simulation, 1996, pp. 60-67.
+[10] R.M. Fujimoto, Parallel and Distributed Simulation Systems, John Wiley & sons, inc., 2000.
+[11] A. Gafni, "Rollback Mechanisms for Optimistic Distributed Simulation Systems", Proc. of the SCS Multi-conference on Distributed Simulation, 19, 3, 1990, pp. 61-67.
+[12] D.R. Jefferson, "Virtual Time". ACM Trans. on Programming Language System, 7, 3, July 1985, pp. 404-425.
+[13] D. Jefferson. "Virtual Time II: Storage Management in Distributed Simulation", Proc. 9th annual ACM symposium on Principles of Distributed Computation, 1990, pp. 75-90.
+[14] L. Lamport, "Time, Clocks, and the Ordering of Events in a Distributed System", Communication ACM. 21. 7. July 1978. pp. 558-565.
+[15] Y.B. Lin, and B.R. Preiss, "Optimal Memory Management for Time Warp Parallel Simulation". ACM Trans. on Modeling and Computer Simulation, 1. 4. October 1991. pp. 283-307.
+[16] J. Negger. and H.S. Kim, Basic Posets. World Scientific Publishing, 1998.
+[17] J.S. Steinmann. "SPEEDES: A Multiple-Synchronization Environment for Parallel Discrete-Event Simulation". International Journal on Computer Simulation. 2. 1992, pp. 251-286.
+[18] S.C. Tay. Parallel Simulation Algorithms and Performance Analysis, PhD Thesis, National University of Singapore. 1998.
+[19] Y.M. Teo. H. Wang, and S.C. Tay. "A Framework of Analyzing Parallel Simulation Performance", Proc. of the 32nd Annual Simulation Symposium, IEEE Computer Society Press, San Diego, USA. April 1999, pp. 102-109.
+[20] Y.M. Teo, and B.S.S. Onggo, A Methodology for Space Analysis of Parallel Simulation, Technical Report, Dept. of Computer Science, National University of Singapore, TRA6/01, June, 2001.
+[21] K. Watkins, Discrete Event Simulation in C, McGraw-Hill, 1992.
+[22] Y.C. Wong, and S.Y. Hwang, "Prediction of Memory Consumption in Conservative Parallel Simulation", Proc. 9th Workshop on Parallel and Distributed Simulation, 1995, pp. 199-202.

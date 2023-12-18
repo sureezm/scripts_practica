@@ -1,0 +1,15 @@
+References
+[1] Bestavros, A. 1994. Multi-version speculative concurrency control with delayed commit. In Proceedings of the 1994 International Conference on Computers and their Applications, Long Beach, California.
+[2] Carothers, C., R. Fujimoto, Y-B. Lin, and P. England. 1994. In Proceedings of the 1994 MASCOTS Conference.
+[3] Fujimoto, R. M. 1990. In Proceedings of the SCS Multiconference on Distributed Simulation 22: 23-28.
+[4] Franks, S., F. Gomes, B. Unger, and J. Cleary. 1997. State saving for interactive optimistic simulation. In Proceedings of the 11th Workshop on Parallel and Distributed Simulation, 72-79. Burg Lockenhaus, Austria.
+[5] Goldberg, A. P. 1992. Virtual time synchronization of replicated processes. In Proceedings of the 6th Workshop on Parallel and Distributed Simulation, 107-16. Newport Beach, California,
+[6] Glasserman, P., P. Heidelberger, and P. Shahabuddin.1996. Splitting for rare event simulation: Analysis of simple cases. In Proceedings of the 1996 Winter Simulation Conference, 302-308. Coronado, California.
+[7] Hybinette, M., and R. Fujimoto. 1997. Cloning: a Novel Method for Interactive Parallel Simulation. In Proceedings of the 1997 Winter Simulation Conference, At-lanta, Georgia.
+[8] Jefferson, J. 1985. Virtual Time. ACM Transactions on Programming Languages and Systems 7 (3): 404-425.
+[9] Vaikili, P. 1992. Massively parallel and distributed simulation of a class of discrete event systems: A different perspective. ACM Transactions on Modeling and Computer Simulations 2 (3): 214-238.
+[10] Schneider, F. 1990. Implementing fault-tolerance services using the state machine approach: A tutorial. ACM Computer Surveys 22 (4): 299-320.
+[11] Steinman, J. 1991. SPEEDES: Synchronous parallel environment for emulation and discrete event simulation. In Proceedings of the SCS Western Simulation MultiConference on Advances in Parallel and Distributed Simulation, 95-103. Anaheim, California.
+[12] von Neumann, J. 1956. Probabilistic logics and the synthesis of reliable organism from unreliable components. In Autonomous Studies, edited by C. E. Shannon and J. McCarthy. 43-98. Princeton University Press.
+[13] Wieland, F. 1997. The threshold of event simultaneity. In Proceedings of the 11th Workshop on Parallel and Distributed Simulation, 56-59. Burg Lockenhaus, Austria.
+[14] Zayas, E. 1987. Attacking the Process Migration Bot-tleneck. In Proceedings of the 11th ACM Symposium on Operating System Principles, 13-24.

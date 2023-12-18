@@ -1,0 +1,40 @@
+References
+[1] Bagrodia, R. and Liao, W. T. (1992). "Transparent Optimization of Overheads in Optimistic Simulations," Proceedings of the 1992 Winter Simulation Conf., pp. 637-645.
+[2] Boukerche, A. and Das, S. K. "Dynamic Load-Balancing Strategies for Conservative Parallel Simulation," Proceedings of 11th Workshop on Parallel and Distributed Simulation (PADS’97), Austria, pp. 20-28, June 1997.
+[3] Boukerche, A. and Das, S. K. (1998). "Load Balancing Strategies for Parallel Simulations on a Multiprocessor Machine," to appear In: The State-of-the-art in Performance Modelling and Simulation (Eds., Walrand, J., Bagchi, K. and Zobrist, G.), Gordon and Breach Pub.
+[4] oukerche, A. and Tropper, C. (1994). "A Static Partitioning and Mapping Algorithm for Conservative Parallel Simulation," Proceedings of the 8th Workshop on Parallel and Distributed Simulation, 24(1), 164-172.
+[5] Bryant, R. E. Simulation of Packet Communication Architecture Computer Systems, Massachusetts Institute of Technology, Tech. Rep. MIT/LCS/TR-188, Cambridge, MA, Nov. 1977.
+[6] Butler, J. E. and Wallentine, V. E. (1994). "A Performance Study of the RPE Mechanism for PDES," Proceedings of the Second International Workshop on Modeling, Analysis and Simulation of Compuler and Telecommunication Systems, Durham, North Carolina, pp. 214-220.
+[7] Chandy, K. M., Holmes, V. and Misra, J. (1979). "Distributed Simulation of Networks," Computer Networks, North-Holland Publishing Co., 3, 105- 113.
+[8] Chandy, K. M. and Misra, J. (1981). "Asynchronous Distributed Simulation via a Sequence of Parallel Computations," Communications of the ACM, 24(11), 198 206.
+[9]  Chang, Y. C. and Shin, K. G. (1993). "Optimal Load Sharing in Distributed Real-Time Systems," Journal of Parallel and Dist. Computing, 19, 38-50.
+[10] Das, S. K. and Sarkar, F. "A Hypercube Algorithm for GVT Computation and its Application in Optimistic Parallel Simulation," Proceedings of the 28th Annual Simulation Symposium, Phoenix, Arizona, Apr. 1995, pp. 51-60.
+[11] Das, S. K. and Sarkar, F. "Reducing Rollbacks Through Load Sharing in Parallel Discrete-Event Simulation," Proceedings of the Conference on Parallel and Distributed Computing and Systems, Washington, Oct. 1994, pp. 407-410
+[12] Deo, N., Medidi, M. and Prasad, S. (1992). "Processor Allocation in Parallel Battlefield Simulation," Proceedings of Winter Simulation Conference, pp. 718-725.
+[13] Ferscha, A. (1995). "Parallel and Distributed Simulation of Discrete Event Systems," In: Handbook of Parallel and Distributed Computing (Ed., Zomaya, A.), McGraw-Hill.
+[14] jimoto, R. M. (1990). "Parallel Discrete Event Simulation," Comm. of the ACM, 33(10), 31-53.
+[15] Glazer, D. W. and Tropper, C. (1993). "On Process Migration and Load Balancing in Time Warp," IEEE Trans. on Parallel and Disiributed Systems, 4(3), 318-327.
+[16] Golderg, D. E. (1989). Genetic Algorithms in Search, Optimization, and Machine Learning, Addison-Wesley, MA.
+[17] Groselj, B. and Tropper, C. (1988). "The Time-of-next-event Algorithm," Proceedings of the SCS Multiconference on Distributed Simulation, pp. 25- 29.
+[18] Hagerer, A. and Lang, S. "An Approach for Balancing the Workload of the Munich Simulation Computer," Proceedings of the SCS Multiconference on Advances in Parallel and Distributed Simulation, 23(1), Anaheim, CA, Jan. 1991, pp. 141-147.
+[19] Jefferson, D. (1985). "Virtual Time," ACM Trans. on Programming Languages and Systems, 7(3), 405-425.
+[20] LeMaster, T. E., Dutta, A. K. and Ghosh, S. "Virtual Time-A New Paradigm for Synchronization in Distributed Systems," In: Advances in Distributed and Parallel Processing, Vol. I: System Paradigms and Methods (Ed., Harry W. Tyrer), Ablex Publishing, pp. 110-175.
+[21] Lin, Y. and Lazowska, E. D. (1991). "A Study of Time Warp Rollback Mechanisms," ACM Trans. on Modeling and Computer Simulations, 1(1), 51-72.
+[22] Lin, Y. B., Preiss, B. R., Loucks, W. M. and Lazowska, E. D. (1993). "Selecting the Checkpoint Interval in Time Warp Simulation," Proceedings of the 7th Workshop on Parallel and Distributed Simulation, San Diego, CA, July pp. 3-9.
+[23] Lubachevsky, B., Shwartz, A. and Weiss, A. (1989). "Rollback Sometimes Works... If Filtered," Proc. of Winter Simulation Conf, pp. 630-639.
+[24] Milojicic, D. S. (1994). "Load Distribution Implemented for Mach Microkernel," Vieweg.
+[25] Misra, J. (1986). "Distributed Discrete-Event Simulation," ACM Computing Surveys, 18(1), 39--65.
+[26] Nandy, B. and Loucks, W. M. "On a Parallel Partitioning Techniques for Use with Conservative Parallel Simulation," Proceeding of the 7th Workshop on Parallel and Distributed Simulation, July 1993, San Diego, CA, pp. 43- 51.
+[27] Nandy, B. and Loucks, W. M. "An Algorithm for Partitioning and Mapping Conservative Parallel Simulation onto Multicomputers," Proceeding on the 1992 SCS Western Simulation Multiconference on Parallel and Distributed Simulation, 24(3), Jan. 1992, Newport Beach, CA, pp. 139-- 146.
+[28] Nicol, D. and Reynolds, P. F. (1985). The Automated Partitioning of Simulations for Parallel Execution, Tech. Report. TR-85-15, Univ of Virginia.
+[29] Nicol, D. and Fujimoto, R. M. "Parallel Simulation Today," to appear in: Annals of Operations Research.
+[30] Prasad, S. K. and Naqib, B. "Effectiveness of Global Event Queues in Rollback Reduction and Load Balancing," Proc. of the 9th Workshop on Parallel and Distributed Simulation, Lake Placid, NY, May 1995, pp. 187-190.
+[31] Preiss, B., McIntyre, I. and Loucks, W. (1992). "On the Trade-off Between Time and Space in Optimistic Parallel Discrete-Event Simulation," Proceeding of the 6th Workshop on Parallel and Distributed Simulation.
+[32] Prakash, A. and Subramanian, R. "Filter: An Algorithm for Reducing Cascaded Rollbacks in Optimistic Distributed Simulations," Proc. of the 24th Annual Simulation Symp., New Orleans, LA, April 1991, pp. 123-132.
+[33] Reiher, P. and Jefferson, D. (1990). "Virtual Time Based Dynamic Load Management in the Time Warp Operating System," Proceedings of the Workshop on Parallel and Distributed Simulation, pp. 103-111.
+[34] Reiher, P., Bellenot, S. and Jefferson, D. "Temporal Decomposition of Simulations Under the Time Warp Operating System," Proceedings of the SCS Multiconference on Advances in Parallel and Distributed Simulation, 23(1), Anaheim, CA, Jan. 1991, pp. 47-54.
+[35] Schlagenhaft, R., Ruhwandl, M., Sporrer, C. and Bauer, H. "Dynamic Load Balancing of a Multi-Cluster Simulator on a Network of Workstations," Proc. of the 9th Workshop on Parallel and Distributed Simulation, Lake Placid, NY, May 1995, pp. 1757-180.
+[36] Shirazi, B. A., Hurson, A. R. and Kavi, K. M. (Editors) (1995). Scheduling and Load Balancing in Parallel and Distributed Systems, IEEE Computer Society, NJ.
+[37] Sporrer, C. and Bauer, H. "Corolla Partitioning for Distributed Logic Simulation of VLSI-Circuits," Proceeding of the 7th Workshop on Parallel and Distributed Simulation, July 1993, San Diego, CA, pp. 85-92.
+[38] Srinivas, M. and Patnaik, L. M. (1994). "Genetic Algorithms: A Survey," IEEE Computer, 27(6), 17-26.
+[39] Turner, S. J. and Xu, M. Q. "Performance Evaluation of the Bounded Time Warp Algorithm," Proceeding on the 1992 SCS Western Simulation Multiconference on Parallel and Distributed Simulation, 24(3), Jan. 1992, Newport Beach, CA, pp. 117-126.

@@ -1,0 +1,15 @@
+References
+1. Ayani, R., “Parallel Simulation Using Conservative Time Windows”, Proc. of the 1992 Winter Simulation Conference, Dec. 1992, pp. 709-717.
+2. Boukerche, A., “Time Management in Parallel Simulation”, Chapter 18, pp. 375- 395, in High Performance Cluster Computing, Ed. R. Buyya, Prentice Hall (1999).
+3. Boukerche A., and Tropper C., “ Parallel Simulation on the Hypercube Multiprocessor”, Distributed Computing, Spring Verlag 1995, pp.
+4. Chandy,K.M, and Misra, J., “Distributed Simulation: A Case Study in Design and Verification of Distributed Programs”, IEEE Trans. on Software Engineering, SE-5, Sept.1979, 440-452.
+5. Fujimoto, R. M., “Parallel Discrete Event Simulation”, in CACM, 33(10), Oct. 1990, pp. 30-53.
+6. Hockney, R. W., “The Communication Challenge for MPP: Intel Paragon and Meiko CS-2”, Parallel Computing, Vol. 20, 1994. pp. 383-398.
+7. Jefferson, D. R., “Virtual Time”, ACM Trans. Prog. Lang. Syst. 77, (3), July 1985, pp. 405-425.
+8. Lin, Y. B., and Lazowska, E. D., “Conservative Parallel Simulation for Systems with no Lookahead Prediction”,TR 89-07-07, Dept. of Comp. Sc. and Eng., Univ. of Washington, 1989.
+9. Lomow, G., Das, S. R., and Fujimoto R.,“User Cancellation of Events in Time Warp”, Proc. 1991, SCS Multiconf. on Advances in Dist. Simul., Jan. 1991, pp. 55-62.
+10. Misra, J., “Distributed Discrete-event Simulation”, ACM Computing Surveys, 18(1), 1986, pp. 39-65.
+11. Nicol, D. M, “Parallel Discrete-Event Simulation of FCFS Stochastic Queuing Networks”, in Proc. of the ACM SIGPLAN Symp. on Parallel Programming, Environment, Applications, and Languages, 1988.
+12. Wagner, D. B., Lazowska, E.D, and Bershad, B., “Techniques for Efficient Shared Memory Parallel Simulation”, Proc. 1989 SCS Multiconf. on Distributed Simulation, 1989, pp. 29-37.
+13. Wood K., and Turner, S. J., “A Generalized Simulation- The Carrier Null Message Approach”, Proc. of the SCS Multiconf. on Distributed Simulation, Vol. 22, No. 1, Jan. 1994.
+14. J. Keller, T. Rauber, and B. Rederlechner, ”Conservative Circuit Simulation on Shared-memory Multiprocessors”; PADS’96, pp. 126-134

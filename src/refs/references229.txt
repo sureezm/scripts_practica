@@ -1,0 +1,38 @@
+References
+[1] P . T abuada, Cyber-Physical Systems: Position Paper , 2006.
+[2] “Modelsim, ” http://www.model.com/ .
+[3] A. Varga, “The OMNeT++ discrete event simulation system, ” inProceedings of the European Simulation Multiconference (ESM ’01) , June 2001.
+[4] “ns-3, ” http://www.nsnam.org/ .
+[5] C. Roth, G. Almeida, O. Sander et al., “Modular framework for multilevel multi-device MPSoC simulation, ” in Proceedings of the 25th IEEE International Parallel and Distributed ProcessingSymbposium , 2011.
+[6] C. Roth, O. Sander, and J. Becker, “Flexible and efficient cosimulation of networked embedded devices, ” in Proceedings of the 24th Symposium on Integrated Circuits and Systems Design (SBCCI ’11) , pp. 61–66, ACM, New Y ork, NY , USA, 2011.International Journal of Reconﬁgurable Computing 13
+[7] E. A. Carara, R. P . de Oliveira, N. L. V . Calazans, and F. G. Moraes, “HeMPS—a framework for NoC-based MPSoC gen eration, ” in Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS ’09) , pp. 1345–1348, May 2009.
+[8] R. M. Fujimoto, “Parallel simulation: distributed simulation systems, ” in Proceedings of the 35th Conference on Winter Simulation: Driving Innovation (WSC ’03) , Winter Simulation Conference, 2003.
+[9] R. M. Fujimoto, Parallel and Distribution Simulation Systems , John Wiley & Sons, New Y ork, NY , USA, 1999.
+[10] M. Chandy and J. Misra, “Distributed simulation: a case study in design and veriﬁcation of distributed programs, ” IEEE Transactions on Software Engineering SE-51979 , no. 5, pp. 440– 452.
+[11] J. Chaudron, E. Noulard, and P . Siron, “Design and modeling techniques for real-time RTI time management, ” in Proceed ings of the Spring Simulation Interoperability Workshop , 2011.
+[12] B. D. Lubachevsky, “Efficient distributed event-driven simulations of multiple-loop networks, ” Communications of the ACM , vol. 32, no. 1, pp. 111–131, 1989.
+[13] D. Je ﬀerson, B. Beckman, F. Wieland, L. Blume, and M. Diloreto, “Time warp operating system, ” in Proceedings of the eleventh ACM Symposium on Operating systems principles (SOSP ’87) , vol. 21, no. 5, pp. 77–93, ACM, 1987.
+[14] F. Mattern, “Efficient algorithms for distributed snapshots and global virtual time approximation, ” Journal of Parallel and Distributed Computing , vol. 18, no. 4, pp. 423–434, 1993.
+[15] “IEEE Standard for Modeling and Simulation (M&S) High Level Architecture (HLA), ” IEEE Std 1516.x-2010, 2010.
+[16] S. Strassburger, T. Schulze, and R. Fujimoto, “Future trends in distributed simulation and distributed virtual environments: results of a peer study, ” in Proceedings of the Winter Simulation Conference (WSC ’08) , pp. 777–785, December 2008.
+[17] “ns-2, ” http://nsnam.isi.edu/nsnam/ .
+[18] R. Barr, Z. J. Haas, and R. van Renesse, “JiST: an efficient approach to simulation using virtual machines: research articles, ” Software-Practice & Experience , vol. 35, no. 6, Article ID 106016, pp. 539–576, 2005.
+[19] “Network emulation in the vint/ns simulator, ” in Proceedings of the 4th IEEE Symposium on Computers and Communica-tions , p. 244, IEEE Computer Society, 1999, http://dl.acm.org/citation.cfm?id=876890.880459 .
+[20] E. Weing ¨artner, F. Schmidt, T. Heer, and K. Wehrle, “Synchronized network emulation: matching prototypes with com plex simulations, ” ACM SIGMETRICS Performance Evaluation Review , vol. 36, no. 2, pp. 58–63, 2008.
+[21] “Open Virtual Platform, ” http://www.ovpworld.org/ .
+[22] “The gem5 simulator system, ” http://www.m5sim.org .
+[23] E. I. Moreno, K. M. Popovici, N. L. V . Calazans, and A. A. Jerraya, “Integrating abstract NoC models within MPSoC design, ” in Proceedings of the 19th IEEE/IFIP International Symposium on Rapid System Prototyping (RSP ’08) , pp. 65–71, June 2008.
+[24] L. S. Indrusiak, L. C. Ost, F. G. Moraes et al., “Evaluating the impact of communication latency on applications running over on-chip multiprocessing platforms: a layered approach, ”inProceedings of the 8th IEEE International Conference on Industrial Informatics (INDIN ’10) , pp. 148–153, July 2010.
+[25] L. Ost, L. S. Indrusiak, G. M. Guindani, F. G. Moraes, and S. Maatta, “Exploring NoC-based MPSoC design space with power estimation models, ” IEEE Design and Test of Computers , vol. 28, no. 2, pp. 16–28, 2011.
+[26] I. M. Pessoa, A. Mello, A. Greiner, and F. P ˆecheux, “Parallel TLM simulation of MPSoC on SMP workstations: inﬂuence of communication locality, ” in Proceedings of the Interna tional Conference on Microelectronics (ICM ’10) , pp. 359–362, December 2010.
+[27] F. Fummi, P . Gallo, S. Martini, G. Perbellini, M. Poncino, and F. Ricciato, “ A timing-accurate modeling and simulation envi-ronment for networked embedded systems, ” in Proceedings of the 40th Design Automation Conference , pp. 42–47, June 2003.
+[28] N. Drago, F. Fummi, and M. Poncino, “Modeling network embedded systems with ns-2 and systemc, ” in Proceedings of the 1st IEEE on Circuits and Systems for Communications (ICCSC’02) , pp. 240–2245, 2002.
+[29] N. Bombieri, F. Fummi, and D. Quaglia, “System/network design-space exploration based on TLM for networked embedded systems, ” ACM Transactions on Embedded Computing Systems , vol. 9, no. 4, pp. 1–37, 2010.
+[30] F. Ghenassia, Transaction-Level Modeling with Systemc: Tlm Concepts and Applications for Embedded Systems , Springer, Secaucus, NJ, USA, 2006.
+[31] B. M ¨uller-Rathgeber and H. Rauchfuss, “ A cosimulation framework for a distributed system of systems, ” in Proceedings of the IEEE 68th V ehicular Technology Conference (VTC-Fall ’08) , pp. 1–5, September 2008.
+[32] X. Deng, Y . Y ang, and S. Hong, “ A ﬂexible platform for hardware-aware network experiments and a case study on wireless network coding, ” in Proceedings of the 29th conference on Information communications , March 2010.
+[33] J. Zhang, Y . T ang, S. Hirve, S. Iyer, P . Schaumont, and Y . Y ang, “ A software-hardware emulator for sensor networks, ” inProceedings of the 8th Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications andNetworks (SECON ’11) , pp. 440–448, June 2011.
+[34] F. Moraes, N. Calazans, A. Mello, L. M ¨oller, and L. Ost, “HERMES: an infrastructure for low area overhead packet switching networks on chip, ” Integration, the VLSI Journal , vol. 38, no. 1, pp. 69–93, 2004.
+[35] “OpenCores, ” http://www.opencores.org/ .
+[36] G. E. Research, Industrial Reference Platform , Whitepaper, 2009.
+[37] E. Noulard, J.-Y . Rousselot, and P . Siron, “CERTI, an Open Source RTI, why and how, ” in Proceedings of the Spring Simulation Interoperability Workshop , 2009.

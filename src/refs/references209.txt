@@ -1,0 +1,20 @@
+REFERENCES 
+1. Banks, J., and Carson, J. S. Discrete Event Simulation. Prentice-Hall, EngIewood Cliffs, NJ, 1984.
+2. Bryant, R. E. Simulation on a distributed system. Proc. 1st Interna- tional Conference on Distributed Computing Systems, Oct. 1979, pp. 544-552.
+3. Chandy, K. M., and Misra, J. Asynchronous distributed simulation via a sequence of parallel computations. Comm. ACM 24, 11 (Apr. 1981), 198-206.
+4. Chandy, K. M., and Misra, J. Distributed simulation: A case study in design and verification ofdistributed programs. IEEE Trans. Software Eng. 5,5 (Sept. 1979), 440-452.
+5. Chu, W. W., Holloway, L. J., et nl. Task allocation in distributed data processing. Computer 13, 1 I (Nov. 1980), 57-69.
+6. Fujimoto, R. M. Performance measurements of distributed simulation strategies. Distributed Simulation 1988. SCS, La Jolla, CA, 1988.
+7. Heidelberger, P. Statistical analysis of parallel simulation. Proc. I986 Winter Simulation Conference, pp. 290-295.
+8. Jefferson, D. Virtual time. ACM Trans. Programming Languages Systems 7,3 (July 1985), 404-425.
+9. Kaudel, F. J. A literature survey on distributed discrete event simula- tion. Simuletter 18,2 (June 1987), I 1-21.
+10. Mannix, D. L. Distributed discrete-event simulation using variants of the Chandy-Misra algorithm on the Intel hypercube. Master’s thesis, Department of Electrical and Computer Engineering, Air Force Institute of Technology, 1989.
+11. Misra, J. Distributed discrete-event simulation. ACM Comput. Surv. l&l (Mar. 1986), 39-65.
+12. Peacock, J. K., Wong, J. W., and Manning, E. G. A distributed approach to queueing network simulation. Proc. 1979 Winter Simulation Conference, Dec. 1979, pp. 399-406.
+13. Pritsker, A. A. B. The GASP IV Simulation Language. Wiley, New York, 1974.
+14. Reed, D. A. Parallel discrete event simulation: A case study. Proc. Eighteenth Annual Simulation Symposium, 1985, pp. 95-107.
+15. Reed, D. A., and Malony, A. D. Parallel discrete event simulation: The Chandy-Misra approach. Distributed Simulation 1988, SCS, La Jolla, CA, 1988.
+16. Reed, D. A., Malony, A. D., and McCredie, B. D. Parallel discrete event simulation using shared memory. Distributed Simulation 1988, SCS, La Jolla, CA, 1988.
+17. Reynolds, P. F., Jr. Active logical processes and distributed simulation: An analysis. Proc. 1983 Winter Simulation Conference, Dec. 1983, pp. 263-264.
+18. Schneider, F. B. Synchronization in distributed programs. ACM Trans. Programming Languages Systems( Apr. 1982), 179-195.
+19. Vaucher, J. G., and Duval, P. A comparison of simulation event set algorithms. Comm. ACM 18,4 (Apr. 1975), 223-230.

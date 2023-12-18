@@ -1,0 +1,21 @@
+References
+[1] BALARIN, F. , LAVAGNO, L., AND MURTHY P. Scheduling for Embedded Real-Time Systems. IEEE Design and Test of Computers, 1998.
+[2] BARTAL, Y., BLUM, A., BURCH, C., AND TOMKINS, A. A polylog(n)-competitive algorithm for metrical task systems. ACM Symp. on Theory of Computing, 1997, pp. 711-719.
+[3] BENITEZ, D. Performance of remote FPGA-based coprocessors for image-processing applications. Digital System Design, 2002. 
+[4] BORODIN, A., LINIAL, N., AND SAKS, M.E. An optimal on-line algorithm for metrical task system. Journal of the ACM (JACM), Volume 39, Issue 4 (Oct. 1992), pp. 745 – 763.
+[5] DAS, S. R. 1996. Adaptive protocols for parallel discrete event simulation. In Proceedings of the 28th Conference on Winter Simulation 
+[6] FUJIMOTO, R. M. 1989. Parallel discrete event simulation. In Proceedings of the 21st Conference on Winter Simulation E. A. MacNair, K. J. Musselman, and P. Heidelberger, Eds. WSC '89
+[7] FUJIWARA, H., AND IWAMA K.. Average-Case Competitive Analyses for Ski-Rental Problems. ISAAC 2002. 
+[8] GROSS, D., AND HARRIS, C.M. Fundamentals of queueing theory. John Wiley & Sons, Inc. New York, NY, USA. 1985
+[9] HAUCK, S. Configuration prefetch for single context reconfigurable coprocessors. Proceedings of the 1998 ACM/SIGDA sixth international symposium on Field programmable gate arrays, 1998.
+[10] HAUSER, J.R, AND WAWRZYNEK, J. Garp: A MIPS Processor with a Reconfigurable Coprocessor. IEEE Symposium on FPGAs for Custom Computing Machines, 1997
+[11] HORTA, E.L, LOCKWOOD, J.W, TAYLOR, D.E, AND PARLOUR, D. Dynamic Hardware Plugins in an FPGA with Partial Run-time Reconfiguration. Design Automation Conference (DAC), 2002.
+[12] HUANG, C., AND VAHID, F. Dynamic Coprocessor Management for FPGA-Enhanced Compute Platforms. IEEE/ACM Int. Conf. on Compilers, Architectures, and Synthesis for Embedded Systems (CASES), Oct 2008.
+[13] HUANG, C. AND VAHID, F. Dynamic Transmuting Coprocessors. IEEE/ACM Design Automation Conference. DAC. July 2009. 
+[14] ISAACS, D., TREXEL, E., AND KARSTEN, B. Accelerate System Performance with hybrid multiprocessing and FPGAs. Embedded Systems Design, 8/15/2007.
+[15] JEFFERSON, D. AND REIHER, P. 1991. Supercritical speedup. In Proceedings of the 24th Annual Symposium on Simulation Annual Simulation Symposium. IEEE 159-168
+[16] NAGUIB, Y. N. AND GUINDI, R. S. 2007. Speeding up SystemC simulation through process splitting. In Proceedings of the Conference on Design, Automation and Test in Europe.
+[17] NOGUERA, J., BADIA, R.M. Dynamic run-time HW/SW scheduling techniques for reconfigurable architectures. CODES-ISSS, 2002.
+[18] PÉREZ, D. G., MOUCHARD, G., AND TEMAM, O. 2004. A New Optimized Implemention of the SystemC Engine Using Acyclic Scheduling. In Proceedings of the Conference on Design, Automation and Test in Europe - Volume 1
+[19] SIROWY, S., MILLER, B. AND VAHID, F. Portable SystemC-on-a-Chip. UCR-CSE-TR-052709. Technical Report. April 2009. 
+[20] WANG, Z. AND MAURER, P. M. 1990. LECSIM: a levelized event driven compiled logic simulation. In Proceedings of the 27th ACM/IEEE Design Automation Conference (Orlando, Florida, United States, June 24 - 27, 1990). DAC '90

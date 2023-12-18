@@ -1,0 +1,16 @@
+REFERENCES
+[1] Blelloch, G. E., “Scans as Primitive Parallel Operations”, IEEE Transactions on Computers, Vol. 38, No. 11, pp.1526-1538, (November 1989).
+[2] Chandy, K M. and Misra, J., “Distributed Simulation: A Case Study in Design and Verification of Distributed programs”, IEEE Transactions on Sofware Engineering, Vol. SE-5, No. 5, pp. 440 452, (September 1979).
+[3] Fujimoto, R. M,, “The Virtual Time Machine”, Proceedings of the 1989 ACM Symposium on Parallel Algorithms and Architectures, Santa Fe, New Mexico, pp. 199-208, (June 1989).
+[4] Fujimoto, R. M., “Parallel Discrete Event Simulation”, Communications of the ACM, Vol. 33, No. 10, pp. 30-53, (October 1990).
+[5] Fujimoto, R. M., Tsai, J. J. and Gopalakrishnan, G, C., “Design and Evaluation of the Rollback Chip Special Purpose Hardware for Time Warp”, IEEE Transactions on Computers, Vol. 41, No. 1, pp. 68-82, (January 1992).
+[6] Jefferson, D,R,, “virtual Time”, ACM transactions on Programming Languages and Systems, vol. 7, No. 3, pp. 404-425, (July 1985).
+[7] Leiserson, C.E., Abuhamdeh, Z.S., Douglas, D,C., et. al., “The Network Architecture of the Connection Machine CM-5”, Proceedings of the Symposium on Parallel and Distributed Algorithms ’92, San Diego, California, (June 1992).
+[8] Pancerella, C. M., “Improving the Efficiency of a Framework for Paratlel Simulations”, Proceedings of the 1992 Western Simulation MultiConference on Parallel and Distributed Simulation, Newport Beach, California, pp. 22-29, (January 1992).
+[9] Reynolds Jr., P. F., “A Spectrum of Options for Parallel Simulations”, Proceedings of the 1988 Winter Simulation Conference, San Diego, California, pp. 167-174, (January 1991).
+[10] Reynolds Jr., P. F. "An Efficient Framework for Parallel Simulations”, Proceedings of the SCS Multiconference on Advances in Parallel and Distributed Simulation, Anaheim, California, pp. 167 174, (January 1991).
+[11] Reynolds Jr., P. F, ”An Efficient Framework for Parallel Simulations”, International journal in Computer Simulation, Vol. 2, No. 4, (1992).
+[12] Reynolds Jr., P, F. and Pancerella, C, M., “Hardware Support for Parallel Discrete Event Simulations”, Computer Science Report No. TR-92-08, Department of Computer Science, University of Virginia, Charlottesville, Virginia, April 1992.
+[13] Reynolds Jr., P. F., Pancerella, C. M. and Srinivasan, S., “Making Parallel Simulations Go Fast”, Proceedings of the 1992 Winter Simulation Conference, Alexandria, Virginia, (December 1992).
+[14] Reynolds Jr., P. F., Pancerella, C. M. and Srinivasan, S., “Design and Performance Analysis of Hardware Support for Parallel Simulations”, to appear in a special issue of Journal of Parallel and Distributed Computing, (August 1993).
+[15] Srinivasan, S. “Modeling a Framework for Parallel Simulations”, Masters Thesis, School Engineering and Applied Science, University Virginia, Charlottesville, Virginia, (May 1992).

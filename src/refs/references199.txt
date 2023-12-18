@@ -1,0 +1,34 @@
+References 
+[1] Ahuntas, B. and Wysk, R.A. (2004). "Paced time-stepped synchronization of parallel and distributed simulation." Proc. of Summer Computer Simulation Conf.
+[2] Bagrodia, R. and Takai, M. (2000). "'Performance evaluation of conservative algorithms in parallel simulation languages." IEEE Trans. on Parallel and Distributed Systems (vl 1, n4), pp395-411.
+[3] Bui, P.T.; Lang, S.D.; and Workman, D.A. (2003). "A conservative synchronization protocol for dynamic wargame simulation." 2003 Spring Simulation Interoperability Workshop, Mar. 2003, Kissimmee, FL.
+[4] Chandy, K. and Misra, J. (1979). "Distributed simulation: a case study in design and verification of distributed programs." IEEE Traits. on Software Engg. (v5, n5), pp440-452.
+[5] Das, S.R. (2000). "Adaptive protocols for parallel discrete event simulation." Journal of the Operational Research Society (v51, n4), pp 385-394.
+[6] Ferscha, E. (1999). "Adaptive time Warp simulation of timed Petri nets." IEEE Trans. oil Software Engg. (v25, n2), pp237-257.
+[7] Fujimoto, R.M. (2000). Parallel and Distributed Simulation Systems. New York: John Wiley & Sons.
+[8] Fujimoto, R.M. (2003). "Distributed simulation systems." Proc. of Winter Simulation Conf., Dec. 2003, New Orleans.
+[9] Gupta, A.; Akylidiz, I.; and Fujimoto, R.M. (1991). "'Performance analysis of time warp with homogeneous processors and exponential task times." Proc. of SIGMETRICS Conj,. San Diego, 1991, pp101-110.
+[10] Hopkinson. K.M.; Birman. K.P.; Giovanini, R.: Coury, D.V.; Wang. X.; and Thorp, J.S. (2003). "EPOCHS: integrated commercial off-the-shelf software for agent-based electric power and communication simulation." Proc. of Winter Simulation Conf., Dec. 2003, New Orleans.
+[11] Jefferson, D. (1985). "'Virtual time." ACM Trans. on Programming languages and Systems (v7, n3), pp404-425.
+[12] Jefferson, D. and Sowizral, H. (1982). "Fast concurrent simulation using the time warp mechanism - part I: local control," Technical Report N1906AF. Rand Corporation.
+[13] Lavanberg, S.: Muntz, R.; and Samadi, B. (1983). "Performance analysis of a roll-back method for distributed simulation." Proc. of 9th lnt'l Symp. on Computer Performance Modelling, Measurement and Evaluation, 1983, pp117-132.
+[14] Lin, Y. and Lazowska, E. (1990). "Optimality considerations for "time warp" parallel simulation." Distributed Simulation, SCS Simulation Series. San Diego: Society for Computer Simulation, pp29-34.
+[15] Lubachevsky, B.D. (1989). "Efficient distributed event-driven simulations of multiple-loop networks." Communications of the ACM (v32, nl), pplll-123.
+[16] Lubachevsky, B.D,; Shwartz, A.; and Weiss, A. (1989). "Rollback sometimes works ... if filtered." Proc. of Winter Simulation Conj., 1989, pp630-639.
+[17] Madasetti, V.; Walrand, J.; and Messerschmitt, D. (1990). "Synchronization in message-passing computers: models, algorithms, and analysis." Distributed Simulation, SCS Simulation Series. San Diego: Society for Computer Simulation, pp35-48.
+[18] Martin, P. and Shmoys, D.B. (1996). "A new approach to computing optimal schedules for the job-shop scheduling problem." Proc. of 5th lnt'l IPCO Conf., 1996, pp389-403.
+[19] Misra, S. (2003). "Adaptive time synchronization method for integration of distributed simulations." Master's thesis. Tucson, AZ: Univ, of Arizona.
+[20] Misra, S.; Venkateswaran, J.; and Son, Y. (2003). "Framework for adaptive time synchronization method for integration of distributed, heterogeneous, supply chain simulations." Proc. of American Society of Engg. Mgmt. Conf., 2003.
+[21] Mitra. D. and Mitrani, I. (1987). "Analysis and optimum performance of two message-passing parallel processors synchronized by rollback." Performance Evaluation (v7, n2), pp35-50.
+[22] Nicol, D. (1993). "The cost of conservative synchronization in parallel discrete event simulations." Journal of the Association for Computing Machinery (v40, n2), pp304-333.
+[23] Nketsa, A. and Khalifa, N.B. (2001). "Timed Petri nets and prediction to improve the Chandy-Mism conservative-distributed simulation." Applied Mathematics and Computation (el20, hi-3), pp235-254.
+[24] Peacock, J.; Manning, E,; and Wong, J. (1980). "Synchronization of distributed simulation using broadcast algorithms." Computer Networks (v4, n1), pp3-10.
+[25] Rathore, A.; Balaraman, B.; Zhao, X.; Back, S.; Venkateswaran, J.; Son, Y.: and Wysk, R. (2005). "Development and benchmarking of an epoch time synchronization method for distributed simulation." Proc. of Annual Industrial Engg. Research Conf., 2005.
+[26] Reynolds, P., Jr. (1982). "A shared resource algorithm for distributed simulation." Proc. of 9th Annual Int'l Computer Architecture Conf., 1982, New York, pp259-266.
+[27] Roy, R. and Arunachalam, R. (2004). "Parallel discrete event simulation algorithm for manufacturing supply chains." Journal of the Operational Research Society (v55, n6), pp622-629.
+[28] Schriber, T.J. and Brunner, D.T. (1998). "Inside discrete-event simulation software: how it works and why it matters" Proc, of Winter Simulation Conf., 1998, pp77-85.
+[29] Steinman, J.S. (1992). "SPEEDES: a multiple-synchronization environment for parallel discrete-event simulation." lnt'l Journal in Computer Simulation (v2), pp251-286.
+[30] Steinman, J.S. (1993). "'Breathing time warp?" Proc. of 7th workshop on Parallel and Distributed Simulation, 1993, pp 109-118.
+[31] Vee. V. and Hsu. W. (1999). "Parallel discrete event simulation: a survey?" Technical report. Singapore: Nanyang Technological Univ.
+[32] Venkateswaran, J. and Son, Y. (2004). "'Design and development of a prototype distributed simulation for evaluation of supply chains." Int'l Journal of Idustrial Engg. (vl 1, n2), pp151-160.
+[33] Wysk, R.; Hall, D.: Pegden, D.; Son, Y.; McGinnis, L,; and Zhou, C. (2004). "ITR: collaborative research: AS TIMES GO ON - adaptive and scalable time synchronization mechanism for federations of distributed simulations." Unpublished report.

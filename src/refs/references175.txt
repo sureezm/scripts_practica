@@ -1,0 +1,29 @@
+References 
+[1] R. M. Fujimoto, Parallel and Distributed Simulation Systems. New York: Wiley-Interscience, 2000.
+[2] K. M. Chandy and J. Misra, "Distributed Simulation: A Case Study in Design and Verification of Distributed Programs," IEEE Transactions on Software Engineering , vol. 5, pp. 440-452, 1979.
+[3] R. E. Bryant, "Simulation of Packet Communications Architecture Computer Systems," Massachusetts Institute of Technology. MIT-LCS-TR-188 MIT-LCS-TR-188, 1977.
+[4] R. Bagrodia and M. Takai, "Performance evaluation of conservative algorithms in parallel simulation languages," IEEE Transactions on Parallel and Distributed Systems , vol. 11, pp. 395-411, 2000.
+[5] W.-K. Su and C. L. Seitz, "Variants of the Chandy-Misra- Bryant Distributed Discrete-Event Simulation Algorithm," presented at the SCS Multiconference on Distributed Simulation '89, Miami, FL, 1989.
+[6] J. Porras, V. Hara, J. Harju, and J. Ikonen, Improving the Performance of the Chandy-Misra Parallel Simulation Algorithm in a Distributed Workstation Environment . Arlington, VA, 1997.
+[7] W. Cai and S. J. Turner, "An Algorithm for Reducing Null-Messages of the CMB Approach in Parallel Discrete Event Simulation," University of Exeter, 1995.
+[8] D. M. Nicol, "The Cost of Conservative Synchronization in Parallel Discrete Event Simulations," Journal of the ACM , vol. 40, pp. 304-333, 1993.
+[9] K. M. Chandy and J. Misra, "Asynchronous Distributed Simulation via a Sequence of Parallel Computations," Communications of the ACM , vol. 24, pp. 198-205, 1981.
+[10] B. D. Lubachevsky, "Efficient Distributed Event-Drive Simulations of Multiple-Loop Networks," Communications of the ACM , vol. 32, pp. 111-123, 1989.
+[11] Z. Xiao, B. Unger, R. Simmonds, and J. Cleary, "Scheduling Critical Channels in Conservative Parallel Discrete Event Simulation," presented at the 13th Workshop on Parallel and Distributed Simulation, Atlanta, GA, 1999.
+[12] H. Y. Song, R. A. Meyer, and R. Bagrodia, "An Empricial Study of Conservative Scheduling," presented at the 14th Workshop on Parallel and Distributed Simulation, Bologna, Italy, 2000.
+[13] M. L. Bailey and M. A. Pagels, "Measuring the Overhead in Conservative Parallel Simulations of Multicomputer Programs," presented at the 23rd Winter Simulation Conference, Phoenix, AZ, 1991.
+[14] D. M. Nicol, "Scalability, Locality, Partitioning and Synchronization in PDES," presented at the 12th Workshop on Parallel and Distributed Simulation, Banff, Alberta, Canada, 1998.
+[15] D. M. Nicol and J. Liu, "Composite Synchronization in Parallel Discrete-Event Simulation," IEEE Transactions on Parallel and Distributed Systems, vol. 13, pp. 433-446, 2002.
+[16] D. M. Nicol, "Analysis of Synchronization in Massively Parallel Discrete-Event Simulation," presented at the 2nd ACM SIGPLAN, Seattle, WA, 1990.
+[17] D. M. Nicol, C. Michael, and P. Inouye, "Efficient Aggregation of Multiple LP's in Distributed Memory Parallel Simulations," presented at the 21st Winter Simulation Conference, Washington, D.C., 1989.
+[18] C.-C. Lim, Y.-H. Low, B.-P. Gan, S. Jain, W. Cai, W. J. Hsu, and S. Y. Huang, "Performance Prediction Tools for Parallel Discrete-Event Simulation," presented at the 13th Workshop on Parallel and Distributed Simulation, Atlanta, GA, 1999.
+[19] E. Naroska and U. Schwiegelshohn, "Conservative Parallel Simulation of a Large Number of Processes," Simulation , vol. 72, pp. 150-162, 1999.
+[20] J. Lemeire and E. Dirkx, "Performance Factors in Parallel Discrete Event Simulation," presented at the 15th European Simulation Multiconference, Prague, 2001.
+[21] V. Jha and R. Bagrodia, "A Performance Evaluation Methodology for Parallel Simulation Protocols," presented at the 10th Workshop on Parallel and Distributed Simulation, Philadelphia, PA, 1996.
+[22] "NMS Baseline Model. http://www.cs.dartmouth.edu/~nicol/NMS/baseline/."
+[23] "pdns. http://www.cc.gatech.edu/computing/compass/pdns/."
+[24] G. F. Riley, R. M. Fujimoto, and M. H. Ammar, "A Generic Framework for Parallelization of Network Simulations," presented at the 7th MASCOTS, College Park, MD, 1999.
+[25] "libSynk. http://www.cc.gatech.edu/computing/pads/kalyan/libsynk.htm ."
+[26] R. M. Fujimoto, T. McLean, and K. S. Perumalla, "Design of High Performance RTI Software," presented at the 4th Workshop on Distributed Simulation and Real-Time Applications, San Francisco, CA, 2000.
+[27] K. S. Perumalla, A. Park, R. M. Fujimoto, and G. F. Riley, "Scalable RTI-Based Parallel Simulation of Networks," presented at the 17th Workshop on Parallel and Distributed Simulation, San Diego, CA, 2003.
+[28] G. F. Riley, "The Georgia Tech Network Simulator," presented at the ACM SIGCOMM '03, Karlsruhe, Germany, 2003.

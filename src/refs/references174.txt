@@ -1,0 +1,21 @@
+References 
+[1] R. Ayani, and H. Rajael, "Parallel Simulation Using Conservative Time Windows", Proceedings of the Winter Simulation Conference, pp. 709-717, 1992.
+[2] R. L. Bagrodia, "Perils and Pitfalls of Parallel Discrete- Event Simulation", Proceedings of the Winter Simulation Conference, pp. 136-143, 1996.
+[3] W. L. Bain, and D. S. Scott, "An Algorithm for Time Synchronization in Distributed Discrete Event Simulation", Proceedings of the SCS Multiconference on Distributed Simulation, 19, 3 (February), pp. 30-33, 1988.
+[4] L. Bajaj, R.Bagrodia, and R. Meyer, "Case Study: Parallelizing a Sequential Simulation Model", Proceedings of the 13th Workshop on Parallel and Distributed Simulation, pp. 12-19, 1999.
+[5] P. Bizarro, L. M. Silva and J. G. Silva, "JWarp: A Java Library For Parallel Discrete-Event Simulations", Proceedings of the ACM Workshop on Java for High Performance Network Computing, 1998.
+[6] W.T. Cai, and S.J. Turner, "An Algorithm for Distributed Discrete Event Simulation – The Carrier Null Message Approach", Proceedings of the SCS Multiconference on Distributed Simulation, pp. 3-8, 1990.
+[7] K. M. Chandy and J. Misra, "Distributed Simulation: A case study in design and verification of distributed programs", IEEE Transactions on Software Engineering, SE-5:5, pp. 440-452, 1979.
+[8] Cormen, Leiserson and Rivest, Introduction to Algorithms , McGraw Hill, 1989.
+[9] A. Ferscha, Parallel and distributed simulation of discrete event systems , a chapter in the Handbook of Parallel and Distributed Computing, McGraw-Hill, 1995.
+[10] R. M. Fujimoto, "Parallel Discrete Event Simulation", Communications of the ACM, vol. 33, pp. 31-52, 1990.
+[11] R.M. Fujimoto, "Performance of Time Warp under Synthetic Workload", Proceedings of the SCS Multiconference on Distributed Simulation, 22, 1, 1990.
+[12] R. M. Fujimoto, Parallel and Distributed Simulation Systems , Wiley Series on Parallel and Distributed Computing, Wiley-Interscience, pg. 51-95, 2000.
+[13] F. W. Howell, P. E. Heywood, and R. N. Ibbett, "Hase: A flexible toolset for computer architects", Computer Journal, vol. 38, pp. 755-764, 1995.
+[14] S. Hupfer, The Nuts and Bolts of Compiling and Running JavaSpaces Programs , Java Developer Connection, Sun Microsystems, Inc., 2000.
+[15] D. R. Jefferson, "Virtual Time, ACM Transactions on Programming Languages and Systems", vol. 7, pp. 404-425, 1985.
+[16] D. R. Jefferson and H. Sowizral, "Fast concurrent simulation using the Time Warp mechanism". Tech. Rep. N-1906-AF, RAND Corporation, 1982.
+[17] L. Lamport, "Time, Clocks, and the Ordering of Events in a Distributed System", Communications of the ACM, 21, pp. 558-565, 1978.
+[18] J. Misra, "Distributed Discrete Event Simulation", Proceedings of the ACM Computing Survey, vol. 18, pp. 39 65, 1986.
+[19] D. M. Nicol, "Parallel discrete-event simulation of FCFS stochastic queueing networks" , SIGPLAN Notice,  vol. 23, pp. 124-137, 1988.
+[20] S. C. Tay, Parallel Simulation Algorithm and Performance Analysis, PhD Thesis, Department of Computer Science, National University of Singapore, 1998.

@@ -1,0 +1,46 @@
+References
+[1] R.M. Fujimoto, Parallel and Distributed Simulation Systems, Wiley, 2000.
+[2] P. Mell, T. Grace, The NIST deﬁnition of cloud computing, Tech. Rep. 800-145, National Institute of Standards and Technology (NIST), Information Technology Laboratory, Computer Security Division (September 2011).
+[3] Amazon Inc., Elastic compute cloud (EC2) <http://aws.amazon.com/ec2>, 2012 (accessed 16.10.12).
+[4] K.M. Chandy, J. Misra, Distributed simulation: a case study in design and veriﬁcation of distributed programs, IEEE Trans. So ftw. Eng. 5 (5) (1979) 440–452, http://dx.doi.org/10.1109/TSE.1979.230182.
+[5] R.E. Bryant, Simulation of Packet Communication Architecture Computer Systems, Tech. rep., Cambridge, MA, USA, 1977.
+[6] J. Misra, Distributed discrete-event simulation, ACM Comput. Surv. 18 (1) (1986) 39–65, http://dx.doi.org/10.1145/6462.6485.
+[7] D.R. Jefferson, Virtual time, ACM Trans. Program. Lang. Syst. 7 (3) (1985) 404–425, http://dx.doi.org/10.1145/3916.3988.
+[8] K.S. Perumalla, Scaling time warp-based discrete event execution to 10^4 processors on a blue gene supercomputer, in: Proceedings of the 4th International Conference on Computing Frontiers, CF ’07, ACM, New York, NY, USA, 2007, pp. 69–76. doi: http://dx.doi.org/10.1145/1242531.1242543 .
+[9] A. Ferscha, Parallel and distributed simulation of discrete event systems, in: Handbook of Parallel and Distributed Computing, McGraw-Hill, 1995, pp. 1–65.
+[10] R.L. Bagrodia, Perils and pitfalls of parallel discrete-event simulation, in: Proceedings of the 28th Conference on Winter Simulation, WSC ’96, IEEE Computer Society, Washington, DC, USA, 1996, pp. 136–143. doi: http://dx.doi.org/10.1145/256562.256592 .
+[11] R.M. Fujimoto, A.W. Malik, A.J. Park, Parallel and distributed simulation in the cloud, SCS MS Magazine 1 (3) (2010).
+[12] A.W. Malik, A.J. Park, R.M. Fujimoto, An optimistic parallel simulation protocol for cloud computing environments, SCS Modeling and Simulation Magazine 1 (4) (2010).
+[13] G. D’Angelo, Parallel and distributed simulation from many cores to the public cloud, in: Proceedings of the 2011 International Conference on High Performance Computing and Simulation (HPCS 2011), IEEE Computer Society, 2011, pp. 14–23. doi: http://dx.doi.org/10.1109/HPCSim.2011.5999802 .
+[14] A. Gupta, L.V. Kalé, D.S. Milojicic, P. Faraboschi, R. Kaufmann, V. March, F. Gioachin, C.H. Suen, B.-S. Lee, Exploring the performance and mapping of HPC applications to platforms in the cloud, in: Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing, HPDC ’12, ACM, New York, NY, USA, 2012, pp. 121–122. doi: http://dx.doi.org/10.1145/2287076.2287093 .
+[15] K. Vanmechelen, S. De Munck, J. Broeckhove, Conservative distributed discrete event simulation on Amazon EC2, in: Proceedings of the 12th IEEE International Symposium on Cluster Computing and the Grid (CCGrid 2012), IEEE Computer Society, Los Alamitos, CA, USA, 2012, pp. 853–860.
+[16] R.M. Fujimoto, Parallel discrete event simulation, Communications of the ACM 33 (10) (1990) 30–53, http://dx.doi.org/10.1145/84537.84545.
+[17] S. De Munck, K. Vanmechelen, J. Broeckhove, Design and performance evaluation of a conservative parallel discrete event core for GES, in: SIMUTools ’10: Proceedings of the 3rd International ICST Conference on Simulation Tools and Techniques, ICST, Brussels, Belgium, Belgium,  2010, pp. 69–79. doi:http://dx.doi.org/10.4108/ICST.SIMUTOOLS2010.8637 .
+[18] S. De Munck, K. Vanmechelen, J. Broeckhove, Distribution of parallel discrete-event simulations in GES: Core design and optimizations, in: Proceedings of the 4th International ICST Conference on Simulation Tools and Techniques, SIMUTools ’11, ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), Brussels, Belgium, Belgium, 2011, pp. 99–107.
+[19] S. De Munck, K. Vanmechelen, J. Broeckhove, Revisiting conservative time synchronization protocols in parallel and distributed simulation, Concurr. Comput.: Pract. Exper., in press. http://dx.doi.org/10.1002/cpe.3007 .
+[20] S. De Munck, Performance and Scalability of Parallel and Distributed Discrete-Event Simulations with Conservative Time Synchronization, Ph.D. thesis, University of Antwerp, June 2012.
+[21] V. Jha, R. Bagrodia, A performance evaluation methodology for parallel simulation protocols, ACM SIGSIM Simulation Digest, vol. 26, IEEE Computer Society, 1996, pp. 180–185. doi: http://dx.doi.org/10.1145/238793.238842 .
+[22] L.M. Vaquero, L. Rodero-Merino, J. Caceres, M. Lindner, A break in the clouds: towards a cloud deﬁnition, ACM SIGCOMM Computer Communication Review 39 (1) (2009) 50–55, http://dx.doi.org/10.1145/1496091.1496100.
+[23] K. Vanmechelen, W. Depoorter, J. Broeckhove, A simulation framework for studying economic resource management in grids, Proceedings of the International Conference on Computational Science (ICCS 2008), vol. 5101, Springer-Verlag, Berlin Heidelberg, 2008, pp. 226–235. doi: http://dx.doi.org/10.1007/978-3-540-69384-0_28 .
+[24] K. Vanmechelen, Economic Grid Resource Management Using Spot and Futures Markets, Ph.D. thesis, University of Antwerp, 2009.
+[25] K. Vanmechelen, W. Depoorter, J. Broeckhove, Market-based grid resource co-allocation and reservation for applications with hard deadlines, Concurrency and Computation: Practice and Experience 21 (2009) 2270–2297, http://dx.doi.org/10.1002/cpe.1419.
+[26] K. Vanmechelen, W. Depoorter, J. Broeckhove, Combining futures and spot markets: a hybrid market approach to economic grid resource management, Journal of Grid Computing 9 (1) (2011) 81–94, http://dx.doi.org/10.1007/s10723-010-9174-8.
+[27] G. Stuer, K. Vanmechelen, J. Broeckhove, A commodity market algorithm for pricing substitutable grid resources, Future Generation Computer Systems 23 (5) (2007) 688–701, http://dx.doi.org/10.1016/j.future.2006.11.004.
+[28] K. Vanmechelen, J. Broeckhove, A comparative analysis of single-unit Vickrey auctions and commodity markets for realizing grid economies with dynamic pricing, in: J. Altmann, D. Veit (Eds.), Proceedings of the 4th International Workshop on Grid Economics and Business Models (GECON 2007), Lecture Notes in Computer Science, vol. 4685, Springer-Verlag, Heidelberg, 2007, pp. 98–111. doi: http://dx.doi.org/10.1007/978-3-540-74430-6_8 .
+[29] J.M. Garrido, Object-Oriented Discrete-Event Simulation with Java: A Practical Introduction, Kluwer, 2001.
+[30] G. Kiczales, J. Lamping, A. Mendhekar, C. Maeda, C.V. Lopes, J.-M. Loingtier, J. Irwin, Aspect-oriented programming, in: M . AkÅit, S. Matsuoka (Eds.), Proceedings of ECOOP 1997, Lecture Notes in Computer Science, vol. 1241, Springer-Verlag, Berlin, Heidelberg, 1997.
+[31] T. Curdt, K. Kawaguchi, M. Cooper, Apache Commons Javaﬂow < http://commons.apache.org/sandbox/javaﬂow >, 2008 (accessed 06.10.11).
+[32] R.K.K. Ma, K.T. Lam, C.-L. Wang, C. Zhang, A stack-on-demand execution model for elastic computing, in: Proceedings of the 2010 39th International Conference on Parallel Processing, ICPP ’10, IEEE Computer Society, Washington, DC, USA, 2010, pp. 208–217. doi: http://dx.doi.org/10.1109/ ICPP.2010.79 .
+[33] The Da Vinci Machine Project Website <http://openjdk.java.net/projects/mlvm/> (accessed 27.03.12).
+[34] Maven, Apache Maven <http://maven.apache.org/> (accessed 13.02.12).
+[35] Subversion, Apache Subversion <http://subversion.apache.org/>, 2012 (accessed 13.05.12).
+[36] J. Newmarch, Foundations of Jini 2 Programming, Apress, Berkeley, California, 2006.
+[37] R.L. Bagrodia, M. Takai, Performance evaluation of conservative algorithms in parallel simulation languages, IEEE Trans. Parallel Distrib. Syst. 11 (4) (2000) 395–411, http://dx.doi.org/10.1109/71.850835.
+[38] E. Weingärtner, H. vom Lehn, K. Wehrle, A performance comparison of recent network simulators, in: IEEE International Conference on Communications ICC 2009, 2009.
+[39] S. Gjerstad, J. Dickhaut, Price formation in double auctions, Games Econ. Behav. 22 (1) (1998) 1–29.
+[40] J. Stöer, D. Neumann, GreedEx – a scalable clearing mechanism for utility computing, in: Proceedings of the Networking and Electronic Commerce Research Conference (NAEC) 2007, 2007.
+[41] T. Sandholm, S. Suri, A. Gilpin, C. Inc, D. Levine, Cabob: a fast optimal algorithm for combinatorial auctions, Manage. Sci. 51 (3) (2005) 374–390.
+[42] Amazon Inc., Amazon EC2 Instance Types <http://aws.amazon.com/ec2/instance-types/>, 2012 (accessed 16.10.12).
+[43] M. Wilson, Strange ‘fork/clone’ Blocking Behavior Under High CPU Usage on EC2 <https://bugs.launchpad.net/ubuntu/+source/linux-ec2/+bug/708920>, 2011.
+[44] J. Liu, D. Nicol, B.J. Premore, A.L. Poplawski, Performance prediction of a parallel simulator, in: PADS ’99 Proceedings of the Thirteenth Workshop on Parallel and Distributed Simulation, IEEE Computer Society, Washington, DC, USA, 1999, pp. 156–164.
+[45] R.E.D. Grande, Dynamic Load Balancing Schemes for Large-Scale Hla-Based Simulations, Ph.D. thesis, University of Ottawa, 2012 <http://www.ruor.uottawa.ca/en/bitstream/handle/10393/23110/De_Grande_Robson_2012_thesis.pdf?sequence=3>.

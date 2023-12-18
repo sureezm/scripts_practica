@@ -1,0 +1,17 @@
+REFERENCES
+[1] Yinong Chen, Hualiang Hu, "Internet of Intelligent Things and Robot as a Service",  Simulation Modelling Practice and Theory, Volume 34, May 2013, Pages 159–171.
+[2] Yinong Chen, W.T. Tsai, Service-Oriented Computing and Web Software Integration, 5th edition, Kendall Hunt Publishing, 2015
+[3] Jenny Ulriksson, et al., A Web-based Environment for building Distributed Simulations, 02S-SIW-036, Euro Simulation Interoperability Workshop, 2002.
+[4] R.M. Fujimoto. Research Challenges in Parallel and Distributed Simulation. ACM Transactions on Modeling and Computer Simulation, Vol. 26, No. 4, Article 22, Publication date: May 2016.
+[5] Wang Xuhui, Zhang Lei, Xiao Nong. Time Management in Parallel Discrete Event Simulation, IFITA2009,  P.209-214.
+[6] Steinman, J. Breathing Time Warp, in Proc. of the 7th Workshop on Parallel and Distributed Simulation. 1993.San Diego. p. 109--118.
+[7] Xia, Wei; Yao, Yiping; Mu, Xiaodong. Intelligent Rollbacks Analysis Algorithm for Optimistic Parallel Discrete Event Simulation. Information-an international interdiscipinary Journal, Jun 2012 Vol.15, No.6, P.2397-2401
+[8] Haiquan Qiao, Research on Parallel Simulation Engine and the Relevant Techniques [D], National University of Defense Technology, 2007.
+[9] Zhongwei Lin, Yiping Yao. An Asynchronous GVT Computing Algorithm in Neuron Time Warp-Multi Thread.  Proceedings of the 2015 Winter Simulation Conference. P1115-1126, Huntington, CA. December 6-9, 2015.
+[10] Yan Chen, Yann-Hang Lee, Xiaofeng Xu, W. Eric Wong, Donghui Guo: A Genetic Algorithm Based Approach for Event Synchronization Analysis in Real Time Embedded Systems. ICESS 2009: 201-208
+[11] Constandinos X. Mavromoustakis, Helen D. Karatza: Real-time performance evaluation of asynchronous time division traffic-aware and delay-tolerant scheme in ad hoc sensor networks. Int. J. Communication Systems 23(2): 167-186 (2010).
+[12] Constandinos Mavromoustakis, Helen Karatza: A tier-based asynchronous scheduling scheme for delay constrained energy efficient connectivity in asymmetrical wireless devices. The Journal of Supercomputing 59(1): 61-82 (2012).
+[13] Yu He, Xiaoying Wang, Yinong Chen, Zhihui Du, Weitong Huanga, Xudong Chai, A simulation cloud monitoring framework and its evaluation model, Simulation Modelling Practice and Theory. Vol. 38, November 2013, Pages 20–37.
+[14] De Munck, S.; Vanmechelen, K.; Broeckhove, J. Revisiting conservative time synchronization protocols in parallel and distributed simulation. Currency and Computation Practice & Experience, Vol.26(2) P.468 490, feb.2014.
+[15] Perumalla, K. S. mp: A scalable and transparent system for simulation mpi programs. In Proceedings of the 3rd International ICST Conference on Simulation Tools and Techniques. 2010.
+[16] Dong, Xinnan; Wen, Mei; Chai, Jun; Cai, Xing; Zhao, Mandan; Zhang, Chunyuan. Communication-hiding programming for clusters with multi-coprocessor nodes, concurrency and computation-practice & experience, NOV 2015, Vol.27, No.16, P.4172-4185

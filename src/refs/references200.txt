@@ -1,0 +1,25 @@
+REFERENCES 
+[1] NSF, CISE Advisory Committee, Subcommittee on the Middleware InfrastructureWhite paper on an NSF ANIR Middleware Initiative, . 2001, National Science Foundation.
+[2] Zeigler, B.P., T.G. Kim, and H. Praehofer, Theory of Modeling and Simulation. 2 ed. 2000, New York, NY: Academic Press. 510.
+[3] Dahmann, J.S., F. Kuhl, and R. Weatherly, Standards for Simulation: As Simple As Possible But Not Simpler The High Level Architecture For Simulation. Simulation, 1990.7(6): p. 378-387.
+[4] Sarjoughian, H. and B.P. Zeigler, DEVS and HLA: Complimentary Paradigms for M&S? Transactions of the SCS, 2000.
+[5] Zeigler, B.P., et al. Bandwidth Utilization/Fidelity Tradeoffs in Predictive Filtering. in SIW. 1999. Orlando, FL.
+[6] Zeigler, B.P., et al., The DEVS/HLA Distributed Simulation Environment And Its Support for Predictive Filtering, . 1998, DARPA Contract N6133997K-0007: ECE Dept., UA, Tucson, AZ.
+[7] Zeigler, B.P., Theory of Modelling and Sirnulation. 1976, New York: John Wiley (Under Revision for 2nd Edition 1998).
+[8] Zeigler, B.P. and H. Sarjoughian. Support for Hierarchical Modular Component-based Model Construction in DEVS/HLA. in SIW. 1999. Orlando,
+[9] Cho, Y.K., et al. Design Considerations for Distributed Real-Time DEVS. in AIS 2000. 2000. Tucson, AL.
+[10] Cho, Y.K., B.P. Zeigler, and H. Sarjoughian. Design and Implementation of Distributed Real-Time DEVSKORBA. in Systems, Man and Cybernetics. 200 I. Tucson, AZ.
+[11] NRC, Making IT Better. 2000, Washington, DC: National Academy Press.
+[13] Zeigler, B.P., Objects and Systems: Principled Design with C++/Java Implementation. Undergraduate Texts in Computer Science, ed. D. Gries. 1997, New York, NY: Springer-Verlag.
+[14] Park, S.W., B.P. Zeigler, and H. Sarjoughian. Interfaces for Scalable DEVS and Distributed Container Object Behavior Specifications. in Systems, Man and Cybernetics. 2001. Tucson, AZ.
+[15] Dahmann, J. and C. Terrel. HLA and Beyond: Interoperability. in Simulation Interoperability Workshop. 1999. Orlando, FL.
+[16] Myjak, M.D. RTI Interoperability Study Group Final Report. in Simulation Interoperability Workshop. 1999. Orlando, FL: IEEE.
+[17] Lee, J.S. and B.P. Zeigler, Space-based Communication Data Management. Jnl. Par. Dist. Comp., 2001.
+[18] Zeigler, B.P., et al. Implementation of the DEVS Formalism over the HLA/RTI: Problems and Solutions. in SIW. 1999. Orlando, FL.
+[19] Lake, T., et al. DEVS Simulation and HLA Lookahead. in SIW. 2000. Orlando, FL.
+[20] Fujimoto, R.M., Parallel and Distributed Simulation Systems. 1999: Wiley-Interscience.
+[21] Nutaro, J., Time Management and Interoperability in Distributed Discrete Event Simulation, in ECE. 2000, University of Arizona.
+[22] Neal, R., Modeling & Simulation Roadmap 24 July : Section 4: Enterprise Modeling & Simulation, . 2000: Integrated Manufacturing Technology Initiative: http://www.imti21.org.
+[23] Hild, D.R., Discrete Event System Specification (DEVS) Distributed Object Computing (DOC) Modeling And Simulation, in ECE. 2000, University of Arizona: Tucson.
+[24] Zeigler, B.P., et al. Predictive Contract Methodology and Federation Performance. in SIW. 1999. Orlando, FL.
+[25] Zeigler, B.P., et al., Quantization-based Filtering in Distributed Discrete Event Simulation. Jnl. Par. Dist. Comp., 2001.

@@ -1,0 +1,51 @@
+References
+1. Borshchev, A. The Big Book of Simulation Modeling: Multimethod Modeling with AnyLogic 6 ; AnyLogic North America: Chicago, IL, USA, 2013.
+2. Fujimoto, R. Parallel and Distributed Simulation , 1st ed.; John Wiley & Sons: New York, NY, USA, 2000.
+3. Page, E.; Buss, A.; Fishwick, P .; Healy, K.; Nance, R.; Paul, R. Web-based Simulation: Revolution or Evolution? ACM Trans. Modeling Comput. Simul. (TOMACS) 2000 ,10, 3–17. [CrossRef]
+4. Fujimoto, R.; Malik, A.; Park, A. Parallel and distributed Simulation in the cloud. SCS Modeling Simul. Mag. 2010 ,3, 1–10.
+5. Jávor, A.; Fur, A. Simulation on the Web with distributed models and intelligent agents. Simulation 2012 ,88, 1080–1092. [CrossRef]
+6. Amoretti, M.; Zanichelli, F.; Conte, G. Efficient autonomic cloud computing using online discrete event simulation. J. Parallel Distrib. Comput. 2013 ,73, 767–776. [CrossRef]
+7. Jafer, S.; Liu, Q.; Wainer, G. Synchronization methods in Parallel and distributed discrete-event Simulation. Simul. Model. Pract. Theory 2013 ,30, 54–73. [CrossRef]
+8. Padilla, J.; Diallo, S.; Barraco, A.; Lynch, C.; Kavak, H. Cloud-based simulators: Making simulations accessible to non-experts and experts alike. In Proceedings of the 2014 Winter Simulation Conference 2014, Savannah, GA, USA, 7–10 December 2014; pp. 3630–3639.
+9. Yoginath, S.; Perumalla, K. Efficient Parallel Discrete Event Simulation on cloud /virtual machine platforms. ACM Trans. Modeling Comput. Simul. (TOMACS) 2015 ,26, 1–26. [CrossRef]
+10. Padilla, J.; Lynch, C.; Diallo, S.; Gore, R.; Barraco, A.; Kavak, H.; Jenkins, B. Using simulation games for teaching and learning discrete-event simulation. In Proceedings of the 2016 Winter Simulation Conference (WSC), Washington, DC, USA, 11–14 December 2016; pp. 3375–3384.
+11. Liu, D.; De Grande, R.; Boukerche, A. Towards the Design of an Interoperable Multi-cloud Distributed Simulation System. In Proceedings of the 2017 Spring Simulation Multi-Conference—Annual Simulation Symposium, Virginia Beach, VA, USA, 23  26 April 2017; pp. 1–12.
+12. Diallo, S.; Gore, R.; Padilla, J.; Kavak, H.; Lynch, C. Towards a World Wide Web of Simulation. J. Def. Modeling Simul. Appl. Methodol. Technol. 2017 ,14, 159–170. [CrossRef]
+13. Shchur, L.; Shchur, L. Parallel Discrete Event Simulation as a Paradigm for Large Scale Modeling Experiments. In Proceedings of the XVII International Conference “Data Analytics and Management in Data Intensive Domains” (DAMDID /RCDL’2015), Obninsk, Russia, 13  16 October 2015.
+14. Tang, Y.; Perumalla, K.; Fujimoto, R.; Karimabadi, H.; Driscoll, J.; Omelchenko, Y. Optimistic parallel discrete event simulations of physical systems using reverse computation. In Proceedings of the Workshop on Principles of Advanced and Distributed Simulation (PADS’05), Monterey, CA, USA, 1  3 June 2005.
+15. Ziganurova, L.; Novotny, M.; Shchur, L. Model for the evolution of the time proﬁle in optimistic parallel discrete event simulations. In Proceedings of the International Conference on Computer Simulation in Physics and Beyond, Moscow, Russia, 6–10 September 2015.
+16. Steinman, J. The WarpIV Simulation Kernel. In Proceedings of the Workshop on Principles of Advanced and Distributed Simulation (PADS 2005), Monterey, CA, USA, 1–3 June 2005.
+17. Steinman, J. Breathing Time Warp. In Proceedings of the 7th Workshop on Parallel and Distributed Simulation (PADS93), San Diego, CA, USA, 16–19 May 1993.
+18. Cortes, E.; Rabelo, L.; Lee, G. Using Deep Learning to Conﬁgure Parallel Distributed Discrete-Event Simulators. In Artiﬁcial Intelligence: Advances in Research and Applications , 1st ed.; Rabelo, L., Bhide, S., Gutierrez, E., Eds.; Nova Science Publishers: Hauppauge, NY, USA, 2018.
+19. Steinman, J. Discrete-Event Simulation, and the Event Horizon. ACM SIGSIM Simul. Dig. 1994 ,24, 39–49. [CrossRef]
+20. Steinman, J. Discrete-Event Simulation and the Event Horizon Part 2: Event List Management. ACM SIGSIM Simul. Dig. 1996 ,26, 170–178. [CrossRef]
+21. Steinman, J.; Nicol, D.; Wilson, L.; Lee, C. Global Virtual Time and Distributed Synchronization. In Proceedings of the 1995 Parallel and Distributed Simulation Conference, Lake Placid, NY, USA, 14–16 June 1995.
+22. Hinton, G.; Salakhutdinov, R. Reducing the dimensionality of data with neural networks. Science 2006, 313, 504–507. [CrossRef]
+23. Yu, K.; Jia, L.; Chen, Y.; Xu, W. Deep learning: Yesterday, today, and tomorrow. J. Comput. Res. Dev. 2013 ,50, 1799–1804.
+24. Jiang, L.; Zhou, Z.; Leung, T.; Li, T.; Fei-Fei, L. Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels. In Proceeding of the Thirty-Fifth International Conference on Machine Learning, Stockholmsmässan, Stockholm, Sweden, 10–15 July 2018.
+25. Hinton, G. A practical guide to training restricted Boltzmann machines. Momentum 2010 ,9, 926.
+26. Mohamed, A.; Sainath, T.; Dahl, G.; Ramabhadran, B.; Hinton, G.; Picheny, M. Deep belief networks using discriminative features for phone recognition. In Proceedings of the Acoustics, Speech and Signal Processing (ICASSP), 2011 IEEE International Conference, Prague, Czech Republic, 22–27 May 2011.
+27. Mohamed, A.; Dahl, G.; Hinton, G. Acoustic modeling using deep belief networks. IEEE Trans. Audio Speech Lang. Process. 2012 ,20, 14–22. [CrossRef]
+28. Huang, W.; Song, G.; Hong, G. Deep architecture for traffic ﬂow prediction: Deep belief networks with multitask learning. IEEE Trans. Intell. Transp. Syst. 2014 ,15, 2191–2201. [CrossRef]
+29. Sarikaya, R.; Hinton, G.; Deoras, A. Application of deep belief networks for natural language understanding. IEEE/ACM Trans. Audio Speech Lang. Process. 2014 ,22, 778–784. [CrossRef]
+30. Movahedi, F.; Coyle, J.; Sejdi´ c, E. Deep belief networks for electroencephalography: A review of recent contributions and future outlooks. IEEE J. Biomed. Health Inform. 2018 ,22, 642–652. [CrossRef]
+31. Hinton, G.; Osindero, S.; Yee-Whye, T. A Fast Learning Algorithm for Deep Belief Nets. Neural Comput. 2006 , 18, 1527–1554. [CrossRef]
+32. Cho, K.; Ilin, A.; Raiko, T. Improved learning of Gaussian-Bernoulli restricted Boltzmann machines. In Artiﬁcial Neural Networks and Machine Learning—ICANN 2011 ; Springer: Berlin /Heidelberg, Germany, 2011; Volume 6791, pp. 10–17.
+33. LeCun, Y.; Bottou, L.; Bengio, Y.; Haner, P . Gradient-based learning applied to document recognition. Proc. IEEE 1998 ,86, 2278–2324. [CrossRef]
+34. LeCun, Y.; Corinna, C. THE MNIST DATABASE of Handwritten Digits. Available online: http://yann.lecun.com/exdb/mnist/(accessed on 22 September 2020).
+35. Wu, M.; Chen, L. Image Recognition Based on Deep Learning. In Proceedings of the 2015 Chinese Automation Congress (CAC), Wuhan, China, 27–29 November 2015; pp. 542–546.
+36. Cortes, E.; Rabelo, L. An architecture for monitoring and anomaly detection for space systems. SAE Int. J. Aerosp. 2013 ,6, 81–86. [CrossRef]
+37. Carothers, C.; Bauer, D.; Pearce, S. ROSS: A high-performance, low memory modular time warp system. J. Parallel Distrib. Comput. 2002 ,62, 1648–1669. [CrossRef]
+38. Mubarak, M.; Carothers, C.; Ross, R.; Carns, P . Using massively parallel Simulation for MPI collective communication modeling in extreme-scale networks. In Proceedings of the 2014 Winter Simulation Conference, Savannah, GA, USA, 7–10 December 2014; pp. 3107–3118.
+39. Steinman, J.; Lammers, C.; Valinski, M. A Proposed Open Cognitive Architecture Framework (OpenCAF). In Proceedings of the 2009 Winter Simulation Conference, Austin, TX, USA, 13–16 December 2009.
+40. Steinman, J.; Lammers, C.; Valinski, M.; Steinman, W. External Modeling Framework and the OpenUTF. Report of WarpIV Technologies. Available online: http://www.warpiv.com/Documents/Papers/EMF.pdf (accessed on 30 September 2020).
+41. Plauger, P .; Stepanov, A.; Lee, M.; Musser, D. The C++ Standard Template Library ; Prentice-Hall PTR, Prentice-Hall Inc.: Upper Saddle River, NJ, USA, 2001.
+42. Shao, J.; Wang, Y. A new measure of software complexity based on cognitive weights. Can. J. Electr. Comput. Eng. 2003 ,28, 69–74. [CrossRef]
+43. Misra, S. A Complexity Measure based on Cognitive Weights. Int. J. Theor. Appl. Comput. Sci. 2006 ,1, 1–10.
+44. Kent, E.; Hoops, S.; Mendes, P . Condor-COPASI: High-throughput computing for biochemical networks. BMC Syst. Biol. 2012 ,6, 91. [CrossRef] [PubMed]
+45. Wang, Y.; Jung, Y.; Supinie, T.; Xue, M. A Hybrid MPI–OpenMP Parallel Algorithm and Performance Analysis for an Ensemble Square Root Filter Designed for Multiscale Observations. J. Atmos. Ocean. Technol. 2013 ,30, 1382–1397. [CrossRef]
+46. Zhan, D.; Qian, J.; Cheng, Y. Balancing global and local search in parallel efficient global optimization algorithms. J. Glob. Optim. 2017 ,67, 873–892. [CrossRef]
+47. Grandison, A.; Cavanagh, Y.; Lawrence, P .; Galea, E. Increasing the Simulation Performance of Large-Scale Evacuations Using Parallel Computing Techniques Based on Domain Decomposition. Fire Technol. 2017 ,53, 1399–1438. [CrossRef]
+48. Rumelhart, D.; Hinton, G.; Williams, R. Learning representations by back-propagating errors. Nature 1986 , 323, 533–536. [CrossRef]
+49. Wang, X.; Zhao, Y.; Pourpanah, F. Recent advances in deep learning. Int. J. Mach. Learn. Cybern. 2020 ,11, 747–750. [CrossRef]
+50. Ren, K.; Zheng, T.; Qin, Z.; Liu, X. Adversarial Attacks and Defenses in Deep Learning. Engineering 2020 ,6, 346–360. [CrossRef]

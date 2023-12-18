@@ -1,0 +1,14 @@
+References
+1. David Jefferson, "Virtual time," ACM Trans. Prog. Lang. andSys., 7, No. 3,404--425 (1985).
+2. Leslie Lamport, "Time, clocks, and the ordering of events in a distributed system," Comm. ACM, 21, No. 7, 558-565 (1978).
+3. Luis Barriga, Robert Ronngren and Rassul Ayani, "Benchmarking parallel simulation algorithms," Proc. IEEE First ICAAAPP-95, 611-620 (1995).
+4. A. G. Bakhmurov and R. L. Smelyanskij, "DYANA: An environment for distributed system design and analysis," Proc.Conf. Parcella '96, Berlin, 85-92 (1996).
+5. R. Raiter and J. S. Val'ran, "Distributed Simulation Design of Discrete-event Systems," TILER, 77, No. 1, 245-262 (1989)
+6. Yu. P. Kazakov and R. L. Smelyanskii, "On the organization of distributed simulation design," Programmirovanie, No. 2, 45-63 (1994).
+7. Vladimir Vlassov, Hallo Ahmed, and Lars-Erik Thorelli, "mEDA: A parallel programming environment," Proc. 21 st EUROMICRO Conf., Como, Italy, September 1995, 253-260 (1995).
+8. Andrew S. Tanenbaum, Modern Operating Systems. 10.3. Remote Procedure Call , Prentice-Hall International, Inc.(1992).
+9. "MPI: Message Passing Interface Standard," Message Passing Interface Forum, June 12, 1995.
+10. R. L. Smelyanskii, "A model of the functioning of distributed computing systems," Vestn. MGU, Set. 15, Vychisl. Mat. Kibern. No. 3 (1990).
+11. R. M. Fujimoto, "Performance of Time Warp under synthetic workloads," Proceedings of the SCS Multiconference on Distributed Simulation, 22, No. 1, 23-28 (1990).
+12. D. M.Nicol, "Parallel discrete-event simulation of FCFS stochastic queueing networks," Proc. ACM SIGPLAN Symposium on Parallel Programming, January 1988, 124-137 (1988).
+13. D. Conklin, J. Cleary, and B. Unger, "The sharks' world: a study in distributed simulation design," Distributed simulation, SCS simulation series, 22, January 1990, 157-160 (1990).

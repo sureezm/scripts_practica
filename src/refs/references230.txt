@@ -1,0 +1,57 @@
+REFERENCES
+[1] Y. Artsy and R. Finkel, "Designing a Process Migration Facility: The Charlotte Experience," Computer, vol. 22, no. 9, pp. 47-53, Sept. 1989
+[2] H. Avril and C. Tropper, "The Dynamic Load Balancing of Clustered Time Warp for Logic Simulation," Proc. 10th Workshop Parallel and Distributed Simulation (PADS '96), pp. 20-27, May 1996.
+[3] A. Barak, S. Guday, and R.G. Wheeler, The MOSIX Distributed Operating System: Load Balancing for Unix. Springer Verlag, 1993.
+[4] S. Bellenot, "Performance of a Risk-Free Time Warp Operating System," Proc. Seventh Workshop Parallel and Distributed Simulation (PADS '96), pp. 155-158, vol. 23, May 1993.
+[5] O. Berry and D. Jefferson, "Critical Path Analysis of Distributed Simulation," Proc. 1985 SCS Multiconference on Distributed Simulation, pp. 57-60, Jan. 1985.
+[6] N.J. Boden, D. Cohen, R. Felderman, A.E Kulawik, C.L. Setiz, J.N. Seizovic, and W.-K. Su, "Myrinet: A Gigabit per SecondLocal Area Network," IEEE Micro, vol. 15, no. 1, pp. 29-36, Feb. 1995.
+[7] A. Boukerche and S.K. Das, "Dynamic Load Balancing Strategies for Conservative Parallel Simulations," Proc. 11th Workshop Parallel and Distributed Simulation, pp. 20-28, June 1997.
+[8] J. Briner, "Fast Parallel Simulation of Digital Systems," Advances in Parallel and Distributed Simulation, vol. 23, pp. 71-77, Jan. 1991.
+[9] R. Brown, "Calendar Queues: A Fast 0(1) Priority Queue Implementation for the Simulation Event Set Problem," Comm. ACM, vol. 31, no. 10, pp. 1,220-1,227, Oct. 1988.
+[10] C. Burdorf and J. Marti, "Load Balancing Strategies for Time Warp on Multiuser Workstations" The Computer J., vol. 36, no. 2, pp. 168-176, 1993.
+[11] C.D. Carothers, R.M. Fujimoto, and Y.-B. Lin, "A Case Study in Simulating PCS Networks Using Time Warp," Proc. Ninth Workshop Parallel and Distributed Simulation, pp. 87-94, 1995.
+[12] C.D. Carothers, Y.-B. Lin, and R.M. Fujimoto, "A Redial Model for Personal Communications Services Networks," Proc. 1995 Vehicular Technology Conf. (VTC '95), pp. 135-139, July 1995.
+[13] K. Chanchio and X.-H. Sun, "Efficient Process Migration for Parallel Processing on Nondedicated Networks of Workstations," Technical Report 96-74, ICASE, Dec. 1996.
+[14] K.M. Chandy and J. Misra, "Distributed Simulation: A Case Study in Design and Verification of Distributed Programs," IEEE Trans. Software Eng., vol. 5, no. 5, pp. 440-452, Sept. 1979.
+[15] D.C. Cox, "Personal Communications - A Viewpoint," IEEE Comm. Magazine, vol. 128, no. 11, 1990.
+[16] S. Das, R. Fujimoto, K. Panesar, D. Allison, and M. Hybinette, "GTW: A Time Warp System for Shared Memory Multiprocessors," 1994 Winter Simulation Conf. Proc., pp. 1,332-1,339, Dec. 1994.
+[17] P.M. Dickens and P.F. Reynolds, Jr., "SRADS with Local Rollback," Proc. SCS Multiconference on Distributed Simulation, pp. 161-164, vol. 22, Jan. 1990.
+[18] R.M. Fujimoto, "Time Warp on a Shared Memory Multiprocessor," Proc. 1989 Int'l Conf. Parallel Processing, vol. 3, pp. 242-249, Aug. 1989.
+[19] R.M. Fujimoto, "Parallel Discrete Event Simulation," Comm. ACM, vol. 33, no. 10, pp. 30-53, Oct. 1990.
+[20] R.M. Fujimoto, "Performance of Time Warp under Synthetic Workloads," Proc. SCS Multiconference on Distributed Simulation, vol. 22, pp. 23-28, Jan. 1990.
+[21] R.M. Fujimoto and M. Hybinette, "Computing Global Virtual Time on Shared-Memory Multiprocessors," technical report, College of Computing, Georgia Inst. Technology, Aug. 1994.
+[22] R.M. Fujimoto, S.R. Das, K.S. Panesar, M. Hybinette, and C. Carothers, "Georgia Tech. Time Warp Programmer's Manual for Distributed Network of Workstations," Technical Report GIT-CC-97-18, College of Computing, Georgia Inst. Technology, July 1997.
+[23] A. Geist, A. Beguelin, J. Dongarra, W. Jian, R. Manchek, and V. Sunderam, "Pvm 3 User's Guide and Reference Manual," Technical Report TM-12187, Oak Ridge Nat'l Laboratory, May 1993.
+[24] D.W. Glazer and C. Tropper, "On Process Migration and Load Balancing in Time Warp," IEEE Trans. Parallel and Distributed Systems, vol. 3, no. 4, pp. 318-327, Mar. 1993.
+[25] A. Goldberg, "Virtual Time Synchronization of Replicated Processes," Proc. Sixth Workshop Parallel and Distributed Simulation, vol. 24, pp. 107-116, Jan. 1992.
+[26] F. Hao, K. Wilson, R.M. Fujimoto, and E. Zegura, "Logical Process Size in Parallel ATM Simulations," 1996 Winter Simulation Conf. Proc., pp. 645-652, Dec. 1996.
+[27] D.R. Jefferson, "Virtual Time," ACM Trans. Programming Languages and Systems, vol. 7, no. 3, pp. 404-425, July 1985.
+[28] D.R. Jefferson and H. Sowizral, "Fast Concurrent Simulation Using the Time Warp Mechanism, Part I: Local Control," Technical Report N-1906-AF, RAND Corp., Dec. 1982. 
+[29] M. Litzkow and M. Livny, "Experience with the Condor Distributed Batch System," Proc. IEEE Workshop Experimental Distributed Systems, Oct. 1990.
+[30] B.D. Lubachevsky, A. Shwartz, and A. Weiss, "An Analysis of Rollback-Based Simulation," ACM Trans. Modeling and Computer Simulation, vol. 1, no. 2, pp. 154-193, Apr. 1991. 
+[31] V.K. Madisetti, D.A. Hardaker, and R.M. Fujimoto, "The Mimdix Operating System for Parallel Simulation and Supercomputing," J. Parallel and Distributed Computing, vol. 18, no. 4, pp. 473-483, Aug. 1993.
+[32] F. Mattern, "Efficient Distributed Snapshots and Global Virtual Time Algorithms for Non-Fifo Systems," J. Parallel and Distributed Computing, vol. 18, no. 4, pp. 423-434, Aug. 1993.
+[33] S.J. Mullender, G. van Rossum, R. van Renesse, and H. van Staveren, Amoeba-A Distributed Operating System for the 1990s, Computer, vol. 23, no. 5, pp. 44-53, May 1990.
+[34] D.M. Nicol, Performance Bounds on Parallel Self-Initiating Discrete Event Simulations, ACM Trans. Modeling and Computer Simulation, vol. 1, no. 1, pp. 24-50, Jan. 1991.
+[35] J.K. Osterhout, A.R. Cherenson, F. Douglis, M.N. Nelson, and B.B. Welch, "The Sprite Network Operating System," Computer, vol. 21, no. 2, pp. 23-36, Feb. 1988.
+[36] K. Panesar and R.M. Fujimoto, "Adaptive Flow Control in Time Warp," Proc. 11th Workshop Parallel and Distributed Simulation, June 1997.
+[37] P.L. Reiher and D. Jefferson, "Dynamic Load Management in the Time Warp Operating System," Trans. Society for Computer Simulation, vol. 7, no. 2, pp. 91-120, June 1990.
+[38] D.O. Rich and R.E. Michelsen, "An Assessment of the Modsim/ TWOS Parallel Simulation Environment," 1991 Winter Simulation Conf. Proc., pp. 509-518, Dec. 1991.
+[39] R. Ronngren and R. Ayani, "Parallel and Sequential Priority Queue Algorithms," ACM Trans. Modeling and Simulation, vol. 7, no. 2, pp. 157-209, Apr. 1997.
+[40] MC. Rosu, K. Schwan, and R.M. Fujimoto, "Supporting Parallel Applications on Clusters of Workstations: The Intelligent Net work Interface Approach," Proc. 1997 IEEE High Performance Distributed Computing, Aug. 1997.
+[41] R.S. Haft, M. Ruhwandl, C. Sporrer, and H. Bauer, "Dynamic Load Balancing of a Multicluster Simulation on a Network ofWorkstations," Proc. Ninth Workshop Parallel and Distributed Simulation, vol. 24, pp. 175-180, July 1995.
+[42] D.D. Sleator and R.E. Tarjan, "Self-Adjusting Binary SearchTrees," J. ACM, vol. 32, no. 3, pp. 652-686, July 1985.
+[43] D.D. Sleator and R.E. Tarjan, "Self-Adjusting Binary Heaps," SIAM J. Computing, vol. 15, no. 1, pp. 52-69, Feb. 1986.
+[44] L. Soule and A. Gupta, "An Evaluation of the Chand-Misra-Byrant Algorithm for Digital Logic Simulation," ACM Trans. Modeling and Computer Simulation, vol. 1, no. 4, Oct. 1991. 
+[45] S. Srinivasan and P.F. Reynolds, Jr., "NPSI Adaptive Synchroniza tion Algorithms for PDES," Proc. 1995 Winter Simulation Conf. (WSC '95), pp. 658-665, Dec. 1995.
+[46] J. Steinman, "Speedes: A Multiple-Synchronization Environment for Parallel Discrete Event Simulation," Int'l J. Computer Simulation, vol. 2, no. 3, pp. 251-286, Mar. 1992.
+[47] J. Steinman, "Breathing Time Warp," Proc. Seventh Workshop on Parallel and Distributed Simulation, vol. 23, pp. 109-118, May 1993.
+[48] THAAD Project Office, "Software Product Specification for the THAAD Integrate System Effectiveness Simulation (TISES)," user documentation for TISES software, Sept. 1995.
+[49] M.M. Theimer, A. Lantz, and D.R. Cheriton, "Preemptable Remote Execution Facilities for the V-System," Proc. 10th ACM Symp. Operating System Principles, Dec. 1985.
+[50] G. Thiel, "Locus Operating System: A Transparent System," Computer Comm., vol. 14, no. 6, pp. 336-346, 1991.
+[51] F. Wieland, E. Blair, and T. Zukas, "Parallel Discrete Event Simulation (PDES): A Case Study in Design, Development, and Performance Using Speedes," Proc. Ninth Workshop Parallel and Distributed Simulation, pp. 103-110, June 1995.316 IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS, VOL. 11, NO. 3, MARCH 2000
+[52] M.H. Willebeek-LeMair and A.P. Reeves, "Strategies for Dynamic Load Balancing on Highly Parallel Computers," IEEE Trans. Parallel and Distributed Systems, vol. 4. no. 9, pp. 979-993, Sept. 1993.
+[53] L.F. Wilson and D.M. Nicol, "Experiments in Automated Load Balancing," Proc. 10th Workshop Parallel and Distributed Simulation, pp. 4-11, May 1996.
+[54] Z. Xiao and F. Gomes, "Benchmarking SMTW with an SS7 Performance Model Simulation," unpublished project report for CPSC 601.24, Fall 1993.
+[55] E.R. Zayas, "Attacking the Process Migration Bottleneck," Proc. 11th ACM Symp. Operating System Principles, pp. 13-24, 1987.
+[56] W. Zhu and A. Goscinski, "Process Migration in RHODOS," Technical Report CS90/9, Dept. Computer Science, Univ. College,Univ. of New South Wales, Mar. 1990.

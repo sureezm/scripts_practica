@@ -1,0 +1,20 @@
+REFERENCES 
+[1] Burdorf, C. and J. Marti. 1993. Load Balancing Strategies for Time Warp on Multi-User Workstations, The Computer Journal,  36(2):168-176.
+[2] Carothers, C. and R. Fujimoto. 1994. Distributed Simulation of Large-Scale PCS Networks. In Proceedings of the Second International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems(MASCOT’94), 2-6.
+[3] Carothers, C.D.  and R. M. Fujimoto. 2000. Efficient Execution of Time Warp Programs on Heterogeneous, NOW Platforms. IEEE Transactions on Parallel and Distributed Systems, 11(3):299-317.
+[4] Das, S., R. Fujimoto, K. Panesar, D. Allison and M. Hybinette.  1994. GTW: A Time Warp System for Shared Memory Multiprocessors, In Proceedings of the 1994 Winter Simulation Conference, ed. D.A. Sadowski, A.F. Seila, M.S. Manivannan, and J.D. Tew,332-339. San Diego, California: Society for Computer Simulation International.
+[5] Das S. and R. M. Fujimoto. 1997. Adaptive Memory Management and Optimism Control in Time Warp, ACM Transactions on Modeling and Computer Simulation (TOMACS), 7(2):239-271.
+[6] Dickens, P.M. and P. F. Reynolds, Jr.  1990. SRADS with local rollback. In Proceeding of the SCS Multiconfer ence on Distributed Simulation, 22:161-164.
+[7] Fujimoto, R. M. 1990. Performance of Time Warp under Synthetic Workloads, In Proceedings of the SCS Multiconference on Distributed Simulation , 22: 23-28.
+[8] Fujimoto, R. M. 2000. Parallel and Distributed Simulation Systems, Wiley Series on Parallel and Distributed Computing, 137 – 138.
+[9] Fujimoto, R.M., S. R. Das, K.S. Panesar, M. Hybinette and C. Carothers, 1997. Georgia Tech. Time Warp Pro grammer’s Manual for Distributed Network of Work stations, Technical Report GIT-CC97-18, College of Computing, Georgia Inst. of Technology, Atlanta,  GA.
+[10] Hao, F., K. Wilson, R. Fujimoto and E. Zegura. 1996. Logical Process Size in Parallel Simulations. In Pro ceeding of the 1996 Winter Simulation Conference , ed.  J. Charnes, D. Morrice, D. Brunner, and J. Swain, 645-652. New York, New York: ACM Press.
+[11] Jefferson, D.R. 1985. Virtual Time, ACM Transactions on Programming Languages and Systems, 7(3):404-425.
+[12] Jefferson, D. R. 1990. Virtual Time II: The Cancel Back Protocol for Storage Management in Distributed Simulation. In Proceedings of the 9th Annual ACM Symposium on Principles of Distributed Computing, 75-90.
+[13] Jefferson, D. R., and H. Sowizral. 1985. Fast Concurrent Simulation Using the Time Warp Mechanism, Part – I : Local Control, ACM Transactions Programming Languages and Systems, 7(3): 404-425.
+[14] Jones K. and S. R. Das.  1998. Combining Optimism Limiting Schemes in Time Warp based Parallel Simulations, In Proceedings of the 1998 Winter Simulation Conference, ed. D.J. Medeiros, E.F. Watson, J.S. Car son and M.S. Manivannan, 499-505. Los Alamitos, California: IEEE Computer Society Press.
+[15] Lin, Y.-B., and B. R. Preiss. 1991. Optimal Memory Management for Time Warp Parallel Simulation, ACM Transactions on Modeling and Computer Simulation, 283 – 307.
+[16] Lubachevsky, B.D.,  A. Shwartz and A. Weiss.  1989. Rollback Sometimes Works...if Filtered.  In Proceed ings of the 1989 Winter Simulation Conference, ed. E.A. MacNair, K.J. Musselman, and P. Heidelberger, 630-639. New York, New York: ACM Press.
+[17] Madisetti V. K, D.A. Hardaker, and R. M. Fujimoto. 1993. The MIMIDIX Operating System for Parallel Simulation and Supercomputing, J. Parallel and Dis tributed Computing, 18(4): 473-483.
+[18] Reiher, P.L. F. Wieland, and D. R. Jefferson. 1989. Limitation of Optimism in the Time Warp Operating System. In Proceedings of the 1989 Winter Simulation Conference, ed. E.A. MacNair, K.J. Musselman, and P. Heidelberger, 765-770. New York, New York: ACM Press.
+[19] Steinman, J. S. 1993. Breathing Time Warp, In Proceedings of the Seventh Workshop on Parallel and Distributed Simulation, 23:109-118.

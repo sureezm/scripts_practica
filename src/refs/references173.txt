@@ -1,0 +1,43 @@
+REFERENCES 
+[1] L. Bomans and D. Roose, “Benchmarking the iPSCI2 hypercube multiprocessor,” Concurrency: Practice and Experience, vol. l, no. l, pp.
+[2] J. P. Buzen, “Computational algorithms for closed queueing networks with exponential servers,” Commun. ACM, vol. 16, no. 9, pp. 527-531, Sept. 1973.
+[3] E. de Souza e Silva and H. R. Gail, “Calculating cumulative operational time distributions of repairable computer systems,” IEEE Trans. Comput., vol. C-35, no. 4, pp. 322-332, Apr. 1986.
+[4] G. S. Fishman, “Generating a sample from a k-cell table with changing probabilities in O(log2 k) time,” Dep. Oper. Res. Tech. Rep. UNC/Om-90/10, Univ. of North Carolina at Chapel Hill, 1990.
+[5] B. L. Fox, “Generating Markov chain transitions quickly: I,” ORSA J. Comput., vol. 2, no. 2, pp. 126-135, Spring 1990.
+[6] B. L. Fox and P. W. Glynn, “Discrete-time conversion for simulating semi-Markov processes,” Oper. Res. Lett., vol. 5, no. 4, pp. 191-196, Oct. 1986.
+[7] B. L. Fox and P. W. Glynn, “Computing Poisson probabilities,” Commun. ACM, vol. 31, no. 4, pp. 440-445, Apr. 1988.
+[8] ___, “Discrete-time conversion for simulating finite-horizon Markov processes,” SIAM J. Appl. Math, vol. 50, no. 5, pp. 1457-1473, Oct. 1990.
+[9] B. L. Fox and A. R. Young, “Generating Markov chain transitions quickly: 11,” URSA J. Cumput, vol. 3, no. 1, pp. 3-11, Winter 1991.
+[10] R. M. Fujimoto, “Performance measurements of distributed simulation strategies,” Trans. Soc. for Comput. Stmul., vol. 6, no. 2, pp. 89-132, 1989.
+[11] R. M. Fujimoto, “Parallel discrete event simulation,” Commun. ACM, vol. 33, no. 10, pp. 31-53, 1990.
+[12] P. Glasserman and D. D. Yao, “Some guidelines and guarantees for common random numbers,” Technical Report, Columbia Univ., 1990. Management Sci., to be published.
+[13] P. W. Glynn, “A GSMP formalism for discrete event systems,” Proc. IEEE, vol. 77, no. 1, pp. 14-23, Jan. 1989.
+[14] A. Goyal and S. S. Lavenberg, “Modeling and analysis of computer system availability,” IBMJ. Res. Develop., vol. 31, no. 6, pp. 651-664, Nov. 1987.
+[15] A. G. Greenberg, B. D. Lubachevsky, and I. Mitrani, “Unboundedly parallel simulations via recurrence relations,” in Proc. 1990 ACM SIGMETRICS, vol. 18, no. 1, ACM Press, 1990, pp. 1-12.
+[16] D. Gross and D. R. Miller, “The randomization technique as a modeling tool and solution procedure for Transient Markov processes," Oper. Res., vol. 32, no. 2, pp. 343-361, Mar.-Apr. 1984.
+[17] P. Heidelberger and A. Goyal, “Sensitivity analysis of continuous time Markov chains using uniformization,” in Computer Performance and Reliability: Proc. Second Int. Workshop Appl. Math. and Performance/Reliability Models of Computer/Communication Syst., G. lazeolla, P. J. Courtois, and 0. J. Boxma, Eds. Amsterdam: North Holland, 1988, pp. 93-104
+[18] P. Heidelberger and D. M. Nicol, “Simultaneous parallel simulations of continuous time Markov chains at multiple parameter settings,” in Proc. 1991 Winter Simulation Conf., B. L. Nelson, W. D. Kelton, and G. M. Clark Eds., IEEE Press, 1991, pp. 602-607.
+[19] A. Hordijk, D. L. Iglehart, and R. Schassberger, “Discrete time methods for simulating continuous time Markov chains,” Adv. Appl. Prob., vol.
+[20] A. Jensen, “Markoff chains as an aid in the study of Markoff processes,” Skand. Aktuarietidskr., vol. 36, pp. 87-91, 1953.
+[21] D. E. Knuth, The Art of Computer Programming, Vol. 3, Sorting and Searching. Reading, MA Addison-Wesley, 1973.
+[22] P. A. W. Lewis and G. S. Shedler, “Simulation of nonhomogeneous Poisson processes by thinning,” Naval Research Logistics Quarterly, vol. 26, no. 3, pp. 403-413, Sept. 1979.
+[23] B. D. Luhachevsky, “Efficient parallel simulations of asynchronous cellular arrays” Complex Syst., vol. 1, pp. 1099-1123, 1987.
+[24] __, “Efficient parallel simulations of dynamic Ising spin systems,” J. Computational Physics, vol. 75, no. 1, pp. 103-122, 1988.
+[25] __, "Scalability of the bounded lag distributed discrete event simulation", in Distributed Simulation, 1989. Simulation Series vol. 21, no. 2. The Society for Computer Simulation International, San Diego, CA, 1989, pp. 100-107
+[26] __, “Efficient distributed event-driven simulations of multiple-loop networks,” Commun. ACM., vol 32, no. 1, pp. 111-123, Jan. 1989.
+[27] V. Madisetti, D. Nicol, and R. Fujimoto Eds., Distributed Simulation, 1991. Simulation Series vol. 23, no. 1. The Society for Computer Simulation International, San Diego, CA, 1991.
+[28] D. M. Nicol, “The performance of synchronizing networks,” Master’s thesis, Dep. Comput. Sci., Univ. of Virginia, 1984.
+[29] __, “Efficient distributed event-driven simulations of multiple-loop networks,” Commun. ACM., vol 32, no. 1, pp. 111-123, Jan. 1989.
+[30] D. M. Nicol, “The cost of conservative synchronization in parallel discrete-event simulations,” J. ACM, vol. 40, no. 2, pp. 304-333, Apr. 1993.
+[31] D. M. Nicol and P. Heidelberger, “Optimistic parallel simulation of continuous time Markov chains using uniformization,” J. Parallel Distributed Comput., vol. 18, no. 4, pp. 395-410, Aug. 1993.
+[32] D. M. Nicol, Ed., Distributed Simulation, 1990. Simulation Series vol. 22, no. 1. The Society for Computer Simulation International, San Diego, CA, 1990.
+[33] A. Reibman and K. S. Trivedi, “Transient analysis of cumulative measures of Markov model behavior,” Commun Statist.-Stochastic Models, vol. 5, no. 4, pp. 683-710, 1989.
+[34] R. Righter and J. V. Walrand, “Distributed simulation of discrete event systems,” Proc. IEEE, vol. 77, no. 1, pp. 99-113, Jan. 1989.
+[35] S. Seidel, M.-H. Lee, and S. Fotedar, “Concurrent bidirectional communication on the Intel iPSC/860 and iPSC/2,” Tech. Rep. CS-TR 90-06, Comput. Sci. Dep., Michigan Technical Univ., Houghton, MI 49931-1295, 1990.
+[36] J. G. Shanthikumar, “Uniformization and hybrid simulation/analytic models of renewal processes,” Oper. Res., vol. 34, no. 4, pp. 573-580, July-Aug 1986.
+[37] B. Unger and R. M. Fujimoto, Eds., Distributed Simulation, 1989. [38] B. Unger and D. Jefferson (eds.), Distributed Simulation, 1988. Simulation Series vol. 19, no. 3. The Society for Computer Simulation International, San Diego, CA, 1988.
+[39] P. Vakili, “Using a standard clock technique for efficient simulation,” Technical Report, Dep. Manufacturing Eng., Boston Univ., 1989.
+[40] P. Vakili, “Parallel simulation of a class of discrete event systems: A different perspective,” Talk Presented at the ORSA/TIMS Conference, Philadelphia, PA, Oct. 1990,
+[41] N. M. Van Dijk, “On a simple proof of uniformization for continuous and discrete-state continuous-time Markov chains,” Adv. Appl. Prob., vol 22, pp. 749-750, 1990.
+[42] D. B. Wagner and E. D. Lazowska, “Parallel simulation of queueing networks: Limitations and potentials,” in Proc. 1989 ACM SIGMETRICS and PERFORMANCE ’89, vol. 17, no. 1, ACM Press, pp. 146-155, 1989.
+[43] A. J. Walker, “An efficient method for generating discrete random variables with general distributions,” ACM Trans. Math. Sofhvnre, vol. 3, pp. 253-256, 1977.

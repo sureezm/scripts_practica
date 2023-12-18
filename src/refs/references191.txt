@@ -1,0 +1,12 @@
+REFERENCES
+[1] R. Barr, “Jist - java in simulation time user guide,” March 2004. [Online]. Available: http://jist.ece.cornell.edu/
+[2] ——, “Swans - scalable wireless ad hoc network simulator user guide,” March 2004. [Online]. Available: http://jist.ece.cornell.edu/
+[3] M. Slavik, I. Mahgoub, A. Badi, and F. Sibai, “A functional component based framework for cross-layer design,” Proceedings of the 4th International Conference on Innovations in Information Technology, November 2007.
+[4] V . Tippanagoudar, I. Mahgoub, and A. Badi, “Implementation of the sensor-mac protocol for the jist/swans simulator,” IEEE/ACS International Conference on Computer Systems and Applications, May 2007.
+[5] T. Sutaria, I. Mahgoub, A. Humos, and A. Badi, “Implementation of an energy model for jist/swans wireless network simulator,” Sixth International Conference on Networking, April 2007.
+[6] P. Riley and G. Riley, “Spades - a distributed agent simulation environment with software-in-the-loop execution,” Proceedings of the 2005 Winter Simulation Conference, December 2005.
+[7] G. Chen and B. Szymanski, “Optimistic parallel simulation over a network of workstations,” Winter Simulation Conference Proceedings, December 1999.
+[8] R. M. Fujimoto, “Performance of time warp under synthetic workloads,” Proceedings of the SCS Multiconference on Distributed Simulation, 1990.
+[9] G. Chen and B. Szymanski, “Dsim: scaling time warp to 1,033 pro- cessors,” Proceedings of the Winter Simulation Conference, December 2005.
+[10] A. Badi, “Relaible, energy-aware cross-layer protocol for wireless sensor networks,” Ph.D. dissertation, Florida Atlantic University, 2009.
+[11] M. Slavik, I. Mahgoub, and A. Badi, “Dynamic entity distribution in parallel discrete event simulation,” Proceedings of the 2008 Winter Simulation Conference, December 2008.

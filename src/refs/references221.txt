@@ -1,0 +1,20 @@
+References
+[1] C. J. Alpert and A. B. Kahng. Recent directions in netlist partitioning: A survey. Integr. VLSI Journal , 19(1-2):1–81, Aug 1995.
+[2] Herve Avril and Carl Tropper. Scalable clustered time warp and logic simulation. VLSI design , 00:1–23, 1998.
+[3] M. L. Briner Bailey and Chamberlain. Parallel logic simulation of vlsi systems. In ACM Computing Sur veys, volume 26, pages 255–294, Sept 1994.
+[4] Prithviraj Banerjee. Parallel Algorithms for VLSI Computer Aided Design . Prentice Hall, Inc., 1994.
+[5] R. D. Chamberlain and C. D. Henderson. Evaluation the use of pre-simulation in vlsi circuit partitioning. In Proceedings of the 8th Workshop on Parallel and Distributed Simulation (PADS’94) , 1994.
+[6] K.M. Chandy and J. Misra. Asynchronous distributed simulation via a sequence of parallel computattions. Communications of the ACM , 24(11):198– 206, November 1981.
+[7] Radharamanan Radhakrihnan Dale E. Martin and Philip Wilsey. Analysis and simulation of mixed technology vlsi systems. Journal of Parallel and Distributed Computing , 62:468–493, 2002.
+[8] Vipin Kumar George Karypis, Rajat Aggarwal and Shashi Shekhar. Multilevel hypergraph partitioning: Applications in vlsi domain. In ACM/IEEE Design Automation Conference , pages 526–529, 1997.
+[9] D. Jefferson. Virtual time. ACM Transactions on Programming Lauguages and Systems , 7(3):405–425, 1985.
+[10] George Karypis and Vipin Kumar. A fast and high quality multilevel scheme for partitioning irregular graphs. Technical Report TR 95-035, Department of Computer Science, University of Minnesota, Minneapolis, MN, 1995.
+[11] H. K. Kim and J. Jean. Concurrency preserving partitioning(cpp) for parallel logic simulation. In 10th Workshop on parallel and distributed simulation (PADS’95) , pages 98–105, May 1996.
+[12] V . Krishnaswamy and P. Banerjee. Design and implementation of an actor based parallel vhdl simulator. In 9th Workshop on parallel and distributed simulation (PADS’95) , pages 135–143, 1995.
+[13] D. Lungeanu and C.-J.R. Shi. Parallel and distributed vhdl simulation. In Proc. DATE , pages 658–662, March 2000.
+[14] F. Mattern. Efficient algorithms for distributed snapshots and global virtual time approximation. Journal of Parallel and Distributed Computing , 18(4):423– 434, 1993.
+[15] Wenyong Deng Shantanu Dutt. Cluster-aware iterative improvement techniques for partitioning large vlsicircuits. ACM Transactions on Design Automation of Electronic Systems(TODAES) , 7(1):91–121, Jan 2002.
+[16] Swaminathan Subramanian, Dhananjai M. Rao, and Philip A. Wilsey. Applying multilevel partitioning toparallel logic simulation. In Parallel and Distributed Computing Practices , volume 4, pages 37–59, March 2001.
+[17] Donald E. Thomas and Philip R. Moorby. The Verilog Hardware Description Language Fourth Edition . KLUWER Academic Publisher, 1992.
+[18] Carl Tropper. Parallel Discrete-Event Simulation Applications. Journal of Parallel and Distributed Computing , 62:327–335, 2002.
+[19] Stephen Williams. Icarus Verilog . http://icarus.com/eda/verilog.

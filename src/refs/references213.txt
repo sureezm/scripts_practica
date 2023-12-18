@@ -1,0 +1,70 @@
+REFERENCES 
+[1] J. R. Wilson, "Variance reduction techniques for digital simulation," Am. 1. Math'landMgt. Sciences, vol. 4, pp. 277-312, 1984.
+[2] B. D. Ripley, Stochastic Simulation. New York, NY: Wiley, 1987.
+[3] S. Parekh and J. Walrand, "Quick simulation method for excessive backlogs in networks of queues," in /E€€ Conf. on Decision and Control, pp. 979-986, 1986.
+[4] P. W. Clynn and D. L. Iglehart, "Importance sampling for stochastic simulations," Tech. Rep. 49, Dept. of OR, Stanford Univ., 1987.
+[5] P. Heidelberger, "Statistical analysis of parallel simulations," in Proc. Winter Sim. Conf., 1986.
+[6] W. E. Biles, D. M. Daniels, and T. j. O'Donnell, "Statistical considerations in simulation on a network of microcomputers," in Proc. 1985 Winter Sim. Conf., pp. 388-392, 1985.
+[7] D. L. Wyatt, "Simulation programming on a distributed system: a preprocessor approach," in Proc. SCSDist. Sim. Conf., pp. 32-36, 1985.
+[8] D. L. Wyatt, S. Sheppard, and R. E. Young, "An experiment in microprocessor-based distributed digital simulation," in Proc. 1983 Winter Sim. Conf., pp. 271-277, 1983.
+[9] D. L. Wyatt and S. Sheppard, "A language directed distributed discrete simulation system," in Proc. 1984 Winter Sinm. Conf., pp. 463-464,1984.
+[10] M. Krishnamurthi, U. Chandrasekaran, and S. Sheppard, "Two approaches to the implementation of a distributed simulation system," in Proc. 1985 Winter Simulation Conf., pp. 435-443, 1985.
+[11] R. M. Reese, "A software development environment for distributed simulation," in Proc. SCS Dist. Sim. Conf., pp. 37- 40, 1985.
+[12] S. V. Sheppard, C. K. Davis, and U. Chandra, "Parallel simulation environments for multiprocessor architectures," in Proc. SCS Dist. Sim. Conf., pp 109-114, 1988.
+[13] J. C. Comfort, "The design of a multi-microprocessor based simulation computer-I," in Ann. Sim. Symp., pp. 45-52,1982.
+[14] - ,"The design of a multi-microprocessor based simulation computer-11,'' in Ann. Sim. Symp., pp. 197-209, 1983.
+[15] - , "The simulation of a master-slave event set processor," Simulation, vol. 42, no. 3, pp. 117-124, Mar. 1984.
+[16] J. C. Comfort and R. R. Copal, "Environment partitioned distributed simulation with Transputers," in Proc. SCS Multiconf. on Dist. Simulation, pp. 103-108, 1988.
+[17] B. Cota and R. Sargent, "A discrete event simulator with shared memory," in Proc. SCS Multiconf. on Dist. Simulation, 1988, (unpublished).
+[18] D. W. Jones, "Concurrent simulation: An alternative to distributed simulation," in Proc. WinterSim. Conf., pp. 417-423, 1986.
+[19] M. Chandy, "Distributed simulation tutorial," presented at the SCS Multiconf. on Dist. Simulation, 1988.
+[20] R. L. Bagrodia, K. M. Chandy, and J. Misra, "A message-based approach to discrete-event simulation," IEEE Trans. Software Eng., vol. SE-13, no. 6, pp. 654-665, 1987.
+[21] D. M. Nicol,"Mapping a battlefield simulation onto messagepassing parallel architectures," in Proc. SCS Multiconf. on Dist. Simulation, pp. 141-146, 1988.
+[22] B. P. Zeigler, Multifacetted Modelling and Discrete Event Sinmulation. London, England: Academic Press, 1984.
+[23]  - , "Discrete event formalism for model based distributed simulation," in Proc. SCS Dist. Sim. Conf., pp. 3-7, 1985.
+[24] D. Baik and B. P. Zeigler, "Pertormance evaluation of hierarchical distributed simulators," in Proc. 1985 Winter Sim. Conf., pp. 421-427, 1985.
+[25] A. I. Concepcion, "A hierarchical computer architecture for distributed simulation,"Tech. Rep. MSU-ENCR-85-030, Michigan State U., 1985.
+[26] J. W. Rozenblit, "Experimental frames for distributed simulation architectures," in Proc. SCS Dist. Sim. Conf., pp. 14- 20, 1985.
+[27] J. K. Peacock, J. W. Wong, and E. C. Manning, "Distributed simulation using a network of processors," Comp. Networks, vol. 3, no. 1, pp. 44-56, 1979.
+[28] E. P. DeBenedictus and B. D. Ackland, "Circuit simulation on a hypercube," in Proc. SCS Multiconf. on Dist. Simulation, pp. 89-93, 1988.
+[29] j. B. Gilmer, Jr., and I. P. Hong, "Replicated state space approach for parallel simulation," in Proc. Winter Sim. Conf., pp. 430-433, 1986.
+[30] E. A. Roberts and N. Shires, "The application of multiprocessing to simulation," in Proc. int. Conf. Sim. in Manuf., pp. 85-96, 1985.
+[31] K. Venkatesh, T. Radhakrishnan, and H. F. Li, "Discrete event simulation in a distributed system," in IEEE COMPSAC, pp. 123-239, 1986.
+[32] T. Christopher, M. Evens, R. R. Cargeya, and T. Leonhardt, "Structure of a distributed simulation system," in IEEE COMPSAC, pp. 548-589, 1982.
+[33] A. I. Concepcion, “Mapping distributed simulators onto the hierarchical multibus multiprocessor architecture,” in Proc. SCS Dist. Sim. Conf., pp. 8-13, 1985.
+[34]L. M. Sokol, D. P. Briscoe, and A. P. Wieland, ”MTW: A strategy for scheduling discrete simulation events for concurrent execution,” in Proc. SCS Multiconf. on Dist. Simulation, pp.
+[35] B. D. Lubachevksy, “Bounded lag distributed discrete event simulation,” in Proc. SCS Multiconf. on Dist. Simulation, pp.
+[36] L. Lamport, “Time, clocks, and the ordering of events in a distributed system,” Comm. ACM, vol. 21, no. 7, pp. 558-565, 1978.
+[37] D. R. Jefferson, “Virtual time,” ACM Trans. Prog. Lang. and Sys., vol. 7, no. 3, pp. 404-425, 1985.
+[38] K. M. Chandy, V. Holmes, and J. Misra, “Distributed simulation of networks,” Comp. Networks, vol. 3, no. 1, pp. 105- 113, 1979.
+[39] K. M. Chandy and J. Misra, “Distributed simulation: A case study in design and verification of distributed programs,” IEEE Trans. Software Eng., vol. SE-5, no. 5, pp. 440-452, 1979.
+[40] J. Misra, ”Distributed discrete-event simulation,” Comp. Surveys, vol. 18, no. 1, pp. 39-65, 1986.
+[41] V. Holmes, “Parallel algorithms on multiprocessor architectures,“ Ph.D. Dissertation, Comp. Sci. Dept., Univ. Texas, Austin, 1978.
+[42] W. L. Bain and D. S. Scott, ”An algorithm for time synchronization in distributed discrete event simulation,’’ in Proc. SCS Multiconf on Dist. Simulation, pp. 30-33, 1988.
+[43] K. M. Chandy and J. Misra, ”Asynchronous distributed simulation via a sequence of parallel computations,” Comm. of the ACM, vol. 24, no. 11, pp. 198-205, 1981.
+[44] D. A. Reed and A. D. Maloney, “Parallel discrete event simulation: The Chandy-Misra approach,” in Proc. SCS Multiconf. on Dist. Simulation, pp. 8-13, 1988.
+[45] R. M. Fujimoto, “Performance measurements of distributed simulation strategies,” in Proc. SCS Multiconf. on Dist. Simulation, pp. 14-20, 1988.
+[46] B. Groselj and C. Tropper, “The time-of-next-event algorithm,” in Proc. SCS Multiconf. on Dist. Simulation, pp. 25- 29, 1988.
+[47] P. F. Reynolds, Jr., ”A shared resource algorithm for distributed simulation,” in Proc. 9th Ann. Symp. on Comp. Arch.,
+[48] - , ”Active logical processes and distributed simulation: An analysis,” in Proc. Winter Sim. Conf, pp. 263-264, 1983.
+[49] D. M. Nicol and P. F. Reynolds, “Problem oriented protocol design,” in Proc. 1984 Winter Sim. Conf., pp. 471-474, 1984.
+[50] D. L. Davidson and P. F. Reynolds, Jr., “Performance analysis of a distributed simulation algorithm based on active logical processes,“ in Proc. 7983 Winter Sim. Conf., pp. 267-268,1983.
+[51] D. A. Reed, “Parallel discrete event simulation: a case study,” in Annual Sim. Symp., pp. 95-107, 1985.
+[52] D. A. Reed, A. D. Maloney, and B. D. McCredie, ”Parallel discrete event simulation: A shared memory approach,” in ACM Sigmetrics Conf on Meas. and Modeling of Comp. Sys., pp. 36-38, 1987.
+[53] D. Jefferson and H. Sowizral, “Fast concurrent simulation using the time warp mechanism Part I: Local control,” The Rand Corp., 1983.
+[54]  - , “Fast concurrent simulation using the time warp mechanism,” in Proc. SCS Dist. Sim. Conf., pp. 63-69, 1985.
+[55] A. Gafni, ”Space management and cancellation mechanisms for time warp,” Tech. Rep. TR-85-341, University of Southern California, 1985.
+[56]  - , ”Rollback mechanisms for optimistic distributed simulation,” in Proc. SCS Multiconf. on Dist. Simulation, pp. 61- 67, 1988.
+[57] G. Lomow, J. Cleary, B. Unger, and D. West, “A performance study of time warp,” in Proc. SCS Multiconf. on Dist. Simulation, pp. 50-55, 1988. 34-42, 1988. 183-191, 1988. pp. 259-266, 1982.
+[58] D. Jefferson, ”Time warp tutorial,” presented at the SCS Multiconf. on Dist. Simulation, 1988.
+[59] B. Unger, G. Lomow, and K. Andrews, “A process oriented distributed simulation package,” in Proc. SCS Dist. Sim. Conf., pp. 76-81, 1985.
+[60] H. H. Adelsberger, “PROLOG as a simulation language,” in Proc. 1984 Winter Sim. Conf., pp. 501-504, 1984.
+[61] I. Futo, ”Distributed simulation on PROLOG basis,” in Proc. SCS Multiconf. on Dist. Simulation, pp. 160-165, 1988.
+[62] J. Cleary, B. Unger, and X. Li, “Adistributed and-parallel backtracking algorithm using virtual time,” in Proc. SCS Multiconf. on Dist. Simulation, pp. 177-182, 1988.
+[63] X. Li, B. Unger, and J. Cleary, “Communicating sequential PROLOG,“ in Proc. SCS Multiconf. on Dist. Simulation, pp. 166-170,1988.
+[64] S. Lavenberg, R. Muntz, and B. Samadi, “Performance analysis of a rollback method for distributed simulation,” in Performance ’83,1983.
+[65] D. Mitra and I. Mitrani, “Analysis and optimum performance of two message-passing parallel processors synchronized by rollback,” in Proc. 10th lnt. Symp. on Comp. Perf. Modeling, (Paris, France), 1984.
+[66] O. Berry and G. Lomow, “The potential speedup in the optimistic timewarp mechanism for distributed simulation,” preprint, 1987.
+[67] J. B. Gilmer, Jr., “An assessment of “Time Warp” parallel discrete event simulation,” in Proc. SCS Multiconf. on Dist. Simulation, pp. 45-49, 1988.
+[68] O. Berry and D. Jefferson, “Critical path analysis of distributed simulation,” in Proc. SCS Dist. Sim. Conf., pp. 57-60, 1985.
+[69] M. Livny, “A study of parallelism in distributed simulation,“ in Proc. SCS Dist. Sim. Conf., pp. 94-98, 1985.

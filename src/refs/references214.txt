@@ -1,0 +1,32 @@
+References 
+[l] BETTAZ M., MAOUCHE M., SOUALMI M. and BOUKEBECHE M. Using ECATNets for specifing communication software in the OSI framework. In Proceedings of ICCI’92, pages -410-413. IEEE, 1992.
+[2] BETTAZ M., MAOUCHE M., SOUALMI M. and BOUKEBECHE M. Compact modeling and rapid prototyping of communication software with ECATNets: a case study. Simulation Series, 25(1):149-154, 1993. SCS and IEEE.
+[3] BETTAZ M., MA-OUCHE M., SOUALMI M. and BOUKEBECHE M. Protocol specification using ECATNets. Networking and Distributed Computing, 3(1):7-35, 1993. Hermes, Paris.
+[4] BETTAZ M., MAOUCHE M., SOUALMI M. and BOUKEBECHE M. On reusing ATNet modules in protocol specification. JSS, 27(2), nov 1994.
+[5] BUTLER B., ESSER R. and MATTMANN R. A distributed simulator for High Order Petri Nets. Lecture Notes in Computer Science, 483:47-63, 1990.
+[6] NICOL D. and ROY S. Parallel Simulation of Timed Petri Nets. In Proceedings of the 1991 Winter Simulation Conference, pages 574-583. B.NELSON, D.KELTON, G.CLARK (Ed.), 1991.
+[7] TAUBNER D. On the implementation of Petri Nets. Lecture Notes in Computer Science, 340:418-439,1988
+[8] DJEMAME K., BETTAZ M., D.C.GILLES and L.M.MACKENZIE. Time warp simulation of ECATNets. In Proceedings of 7th Europeon Simulation Symposium. SCS, oct 1995. (To appear).
+[9] JEFFERSON D.R. Virtual time. ACM Trans. on Programming Languages and Systems, 7(3):404- 425, jul 1985.
+[10] EHRIG E. and MAHR B. Fundamentals of Algebraic Specifications. EATCS Monographs on Theoretical Computer Science, Springer-Verlag, 1985.
+[11] CHIOLA G. and FERSCHA A. Distributed Simulation of Timed Petri nets: Exploiting the net structure to obtain efficiency. Lecture Notes in Computer Science, 691:146-165, 1993.
+[12] CHIOLA G. and PERSCHA A. Performance Comparable Design of Efficient Synchronization Protocols for Distribuled Simulation. In Proceedings of MASCOTS'95, pages 59-65, Durham, North Carolina, jan 1995. IEEE.
+[13] THOMAS G.S. and ZAHORJAN J. Parallel Simulation of Performance Petri Nets: Extending the domain of parallel simulation. In Proceedings of the 1991 Winter Simulation Conference, pages 564-573. B.NELSON, D.KELTON. G.CLARK (Ed.), 1991.
+[14] AMMAR H. and DENG S. Parallel Simulation of Petri Nets using spatial decomposition. In Proceedings of the 1991 TEBE International Symposium on Circurts and Systems, pages 826-829, Singapore, Jun 1991.
+[15] MESEGUER J. Conditional rewriting logic as & unified model of concurrency. TCS, 96, 1992.
+[16] MISRA J. Distributed discrete event simulation. ACM Computing Surveys, 18(1):30-65, mar 1986.
+[17] PETERSON J.L. Petri Net Theory and the Modeling of Systems. Englewood Cliffs, NJ: Prentice Hal, 1981.
+[18] DJEMAME K. and BETTAZ M. On the parallel simulation of ECATNets. Technical report, Computing Science Institute, University of Constantine, Algeria, jun 1991.
+[19] JENSEN K. and ROZENBERG G.(Ed.). High-Level Petri Nets. Springer-Verlag, Berlin, 1991.
+[20] CHANDY K.M. and MISRA J. Distributed simulation: A case study in design and verification of distributed programs. IBEE Trans. on Software Engineering, SE-5(5):440-453, sep 1979,
+[21] CHANDY K.M. and MISRA J. Asynchronous distributed simulation via a sequence of parallel computations. Commumentions of the ACM, 24(11):198-206, apr 1981.
+[22] LAMPORT L. Time, clocks, and the ordering of events in a distributed system. Communications of the ACM, 21(7)-558-565, jul 1978.
+[23]  BETTAZ M. An association of algebraic term nets and abstract data types for specifying real communication protocols. Lecture Notes in Computer Scienoc, 534:11-30, 1991.
+[24] BETTAZ M. Specification hautement compacte et modulaire de 'ETHERNET: la station emettrice. In Proc. of CFLP 93. Montreal, HERMES, Paris, 1993.
+[25] , BETTAZ M. and CHOUTRI A. Algebraic Term Nets: a formalism for specifying communication software in the OSI framework. In Proceedings of the Unified Computation Laboratory, pages 293 305. Oxford University Press, 1992.
+[26]  BETTAZ M. and MEHEMMEL A. Modeling and proving of truly concurrent systems with CAT-Nets. In Proceedings of Euromicro Workshop on Parallel and Distributed Processing, pages 265 272. IEEE, 1993.
+[27]  BETTAZ M. and MAOUCHE M. How to specify non determinism and true concurrency with Algebraic Term Nets. Lecture Notes in Computer Science, 655:161-180, 1993.
+[28] GARZIA M. Discrete event simulation methodologies and formalisms. Simulation Digest, 21(1):3-13, 1990.
+[29] FUJIMOTO R. Parallel discrete event simulation. Communications of the ACM, 38(10):31-58, oct 1990.
+[30] MURATA T. Petri Nets: Properties, analysis and applications. Procedings of the IBEE, 77(4):541 580, арг 1989.
+[31] BIJ REISIS W. Petri Nets. BALCS Monographs on Theoretical Computer Science, Springer-Verlag. 1985.

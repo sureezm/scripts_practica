@@ -1,0 +1,7 @@
+References 
+[1] M. A. Franklin, D. F. Wann, and K. F. Wong. Parallel Machines and Algorithms for Discrete event Simulation. Proceedings of ihe 1984 International Conference on Parallel Processing, 449-458, August 1984.
+[2] R. M. Fujimoto. Performance Measurements of Distributed Simulation Programs. In In 1988 Society for Computer Simulation Multiconference, San Diego, CA, February 1988.
+[3] D. R. Jefferson. Virtual Time. ACM transactions on Programming Languages and Systems, 7(3):404-425, July 1985.
+[4] J. Marti. private communication, 1988.
+[5] D. A. Reed. Parallel Discrete Event Simulation: A Shared Memory Approach. In To appear, IEEE Transaction on Software Engineering, 1987.
+[6] A. Smith. Cache Memories. ACM Computing Surveys, 14(3):473- 530, September 1982.

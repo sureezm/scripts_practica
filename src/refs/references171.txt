@@ -1,0 +1,23 @@
+References
+[1] Quickturn Design Systems, Inc., SpeedSim 3.0 Brochure, available at http://www.quickturn.com/products/speedsim3.0.htm.
+[2] Zycad Corporation, "Zycad Announces Industry’s First Simulation Supercomputer." Zycad Press Release, available at http://www.zycad.com/info/press-releases/03-11-96.html.
+[3] Bailey, M.L., Briner, J.V., Chamberlain, R.D. "Parallel Logic Simulation of VLSI Systems." ACM Computing Surveys, Vol. 26, No. 3, pp 255-294, September 1994.
+[4] Fujimoto, R.M. "Parallel Discrete Event Simulation." Communications of the ACM, Vol. 33, No. 10, pp 30-53, October 1990.
+[5] Ayani, R., Rajaei, H. "Parallel Simulation Based on Conservative Time Windows: A Performance Study." Concurrency: Practice and Experience, Vol. 6, No. 2, pp 119-142, April 1994.
+[6] Barriga, L.J. "A Enhanced Parallel Simulation Algorithm Based on Distances between Threaded Objects." Fourth Swedish Workshop on Computer System Architecture (DSA-92), Linköping, January 1992.
+[7] Krishnaswamy, V., Banerjee, P. "Actor Based Parallel VHDL Simulation Using Time Warp." In Proceedings of the 1996 Workshop on Parallel and Distributed Simulation, Philadelphia, May 1996.
+[8] Lubachevsky, B.D. "Efficient Distributed Event-Driven Simulations of Multiple-Loop Networks." Communications of the ACM, Vol. 32, No. 1, pp 111-123, January 1989.
+[9] Misra, J. "Distributed Discrete-Event Simulation." Computing Surveys, Vol. 18, No. 1, pp 39-65, March 1986.
+[10] Manjikian, N., Loucks, W.M. "High Performance Parallel Logic Simulation on a Network of Workstations." In Proceedings of the 7th Workshop on Parallel and Distributed Simulation (PADS’93), pp 76-84, San Diego, CA, 1993.
+[11] Soule;, L., Gupta, A. "An Evaluation of the Chandy-Misra-Bryant Algorithm for Digital Logic Simulation." ACM Transactions on Modeling and Computer Simulation, Vol. 1, No. 4, pp 308-347, October 1991.
+[12] Chandy, K.M., Misra, J. "Asynchronous Distributed Simula- tion via a Sequence of Parallel Computations." Communications of the ACM, Vol. 24, No. 11, pp 198-206, April 1981.
+[13] De Vries, R.C. "Reducing Null Messages in Misra’s Distributed Discrete Event Simulation Method." IEEE Transactions on Software Engineering, Vol. 16, No. 1, pp 82-91, January 1990.
+[14] Jefferson, D.R. "Virtual Time." ACM Transactions on Programming Languages and Systems, Vol. 7, No. 3, pp 404-425, July 1985.
+[15] Radhakrishnan, R., Abu-Ghazaleh, N., Chetlur, M., Wisley, P.A. "On-line Configuration of a Time Warp Parallel Discrete Event Simulator." In Proceedings of the International Conference on Parallel Processing (ICPP’98), Minneapolis, August 1998.
+[16] Nicol, D. "Parallel Discrete-Event Simulation of FCFS Stochastic Queuing Networks." SIGPLAN Not., pp 124-137, Sept. 1988.
+[17] Meyer, R.A., Bagrodia, R.L. "Improving Lookahead in Parallel Wireless Network Simulation." In Proceedings of the Sixth International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems-MASCOTS ’98, pp 262-267, Montreal, Quebec, Canada, July 1998.
+[18] Chen, Y., Jha, V., Bagrodia, R. "A Multidimensional Study on the Feasibility of Parallel Switch-Level Circuit Simulation." In Proceedings of the 11th Workshop on Parallel and Distributed Simulation (PADS’97), Lockenhaus, Austria, 1997.
+[19] Bain, W.L., Scott, D.S. "An Algorithm for Time Synchronisation in Distributed Discrete Event Simulation." In Proceedings of the SCS Multiconference on Distributed Simulation, Vol. 19, pp 30-33, SCS Simulation Series, July 1988.
+[20] McBrayer, T.J., Wisley, P.A. "Process Combination to Increase Event Granularity in Parallel Logic Simulation." In Proceedings of the International Parallel Processing Symposium, 1995.
+[21] Naroska, E., Schwiegelshohn, U. "A New Scheduling Method for Parallel Discrete-Event Simulation." In Proceedings of the 2nd International Euro-Par Conference, Lyon, Vol. II, pp 582-593, August 1996.
+[22] Roonngren, R., Ayani, R. "Service Oriented Scheduling in Time Warp." In Proceedings of the 1994 Winter Simulation Conference, Florida, pp 1340-1346, December 1994.

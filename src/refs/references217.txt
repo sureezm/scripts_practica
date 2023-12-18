@@ -1,0 +1,15 @@
+References 
+[1] R. Saleh et. al. Parallel circuit simulation on supercomputers. Proc. of IEEE, vol. 77, no.2m Dec, 1989.
+[2] R. D. Chamberlain. Parallel logic simulation of VLSI systems. Proc. 32rd IEEE/A CM Design Automation Conf., pp. 139-143, June 1995.
+[3] A. R.W. Todesco and T. H.-Y. Meng. Symphony: A simulation backplane for parallel mixed-mode cosimulation of VLSI systems. Proc. 33rd IEEE/ACM Design Automation Conf., pp. 149-154, June 1996.
+[4] C.-P. Wen and K. A. Yelick. Parallel timing simulation on a distributed memory multiprocessor. Proc. International Conf. on Computer-Aided Design, pp. 130-135, Nov. 1994.
+[5] V.Jha and R. Bagrodia. A unified framework for conservative and optimistic distributed simulation. Proc. of the 8th Workshop on Parallel and Distributed Simulations - PADS’94, Edinburgh, U.K., July 1994, pp.
+[6] A. Ferscha. Parallel and distributed simulation of discrete event systems. Parallel and Distributed Computing Handbook, McGraw-Hill, 1995.
+[7] R. M. Fujimoto. Parallel Discrete Event Simulation, Communications of the ACM, Oct. 1990, Vol. 33, No.10, PP.30
+[8] D. Nicol and R. Fujimoto. Parallel Simulation Today, Annals of Operations Research, 1994, Vol. 53, pp. 249
+[9] K. M. Chandy and J. Misra. Asynchronous distributed simulation via a sequence of parallel computations. Comm. of the ACM, Vol. 24, No. 11, pp. 198-206, Nov. 1981.
+[10] R. E. Bryant. Simulation of packet communication architecture computer systems, MIT-LCS-TR-188, MIT, 1977
+[11] D. A. Jefferson. Virtual time. ACM Dansactions on Programming Languages and Systems, Vol. 7, No. 3, pp. 404-425, July 1985.
+[12] A. Gafni. A rollback mechanism for optimistic distributed simulation systems, Proc. of the SCS Multiconference on Distributed Simulation, Jul. 1988, Vol. 19, No. 3, pp. 61
+[13] S.R. Das. Adaptive Protocols for Parallel Discrete Event Simulation, Proc. of the 1996 Winter Simulation Conf., Dec. 1996, pp. 186-193
+[14] S. Srinivasan and P.F. Reynolds. Elastic Time, ACM TOMACS, Apr. 1998, Vol. 8, No. 2, pp. 103-139 12-19.

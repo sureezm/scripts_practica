@@ -1,0 +1,9 @@
+References
+1. P. Ashenden: The Designer's Guide to VHDL. Morgan Kaufmann, 1996.
+2. J. Banks, J. Carson II, and B. Nelson: Discrete-Event System Simulation. Prentice-Hall, 1996.
+3. P. Bratley and B. Fox and L. Schrage: A Guide to Simulation, second edition. Springer-Verlag, 1987.
+4. R. Couture and P. L'Ecuyer (Editors): Special issue on random number generation. ACM Transactions on Modeling and Computer Simulation, 8(1), January 1998.
+5. R. Fujimoto: Parallel Discrete Event Simulation. Communications of the ACM, 33(10):30-53, October 1990.
+6. P. Heidelberger: Fast simulation of rare events in queueing and reliability models. ACM Transactions on Modeling and Computer Simulation, 5(1):43-85, January 1995.
+7. A. Law and D. Kelton: Simulation Modeling and Analysis, second edition. McGraw-Hill, 1991.
+8. D. Nance: A history of programming languages, volume 2. Addison-Wesley, 1996. 9. D. Nicol and P. Heidelberger: A comparative study of parallel algorithms for simulating continuous time markov chains. ACM Transactions on Modeling and Computer Simulation, 5(4):326-354, October 1995.

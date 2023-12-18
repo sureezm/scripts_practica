@@ -1,0 +1,27 @@
+References .
+[1] Barr, R. S., Hickman, B. L. 1993. "Reporting Computational Experiments with Parallel Algorithms: Issues, Measures, and Experts’ Opinions." ORSA journal on Computing, vol. 5, no. 1, pp. 2-18, Winter 1993.
+[2] Cassandras, G. C., Pan, J. 1995. "Parallel Sample Path Generation for Discrete Event Systems and the Traffic Smoothing Problem." Discrete Event Dynamic Systems : Theory and Applications, vol. 5, pp. 187-217, 1995.
+[3] Chen, C. H. 1993. "Confidence Level Quantification and Optimal Computing Budget Allocation for Discrete Event System Simulation." Working Paper 94-8, University of Pennsylvania, 1993.
+[4] Chen, C. H., Ho, Y. C. 1995. "An Approximation Approach of the Standard Clock Method for General Discrete Event Simulation." IEEE Transactions on Control Systems Technology, vol. 3, no. 3, pp. 309-317, September 1995.
+[5] Deng, M., Ho, Y. C., Hu, J. Q. 1992. "Effect of Correlated Estimation Errors in Ordinal Optimization." Proceedings of the 1992 Winter Simulation Conference. Ed. by J. J.Swain, R. C. Crain and J. R.Wilson, Society for Computer Simulation, pp. 466-475, 1992.
+[6] Fujimoto, R. M. 1990. "Parallel Discrete Event Simulation." Communications of the ACM, vol. 33, no. 10, pp. 30-53, October 1990.
+[7] Fujimoto, R. M. 1993. "Parallel Discrete Event Simulation: Will the Field Survive?" ORSA journal on Computing, vol. 5, no. 3, pp. 213-230, Summer 1993.
+[8] Goldsman, D., Nelson, B. L. 1992 Methods for Selecting the Best System: Proceedings of the 1991 Winter Simulation Conference. Ed. by B. L. Nelson and D. L. Kelton. Phoenix, Arizona, pp. 177-186, 1992.
+[9] Heidelberger, P., Nicol, D. 1993. "Conservative Parallel Simulation of Continuous-Time Markov Chains Using Uniformization." IEEE Transactions on Parallel and Distributed Systems, vol. 4, no. 8, pp. 906-921, August 1993.
+[10] Ho, Y. C., Cao, X. 1991. Perturbation Analysis of Discrete-Event Dynamic Systems. Kluwer Publishing, 1991.
+[11] Ho, Y. C., Larson, M. E. 1995. "Ordinal Optimization Approach to Rare Event Probability Problems." Discrete Event Dynamic Systems: Theory and Applications. vol. 5, pp. 281-301, 1995.
+[12] Ho, Y. C., Sreenivas, R. S., Vakili, P. 1992. "Ordinal Optimization of DEDS." Discrete Event Dynamic Systems: Theory and Applications. vol. 2, pp. 61-88, 1992.
+[13] Hu, J. Q. 1995. "Parallel Simulation of DEDS via Event Synchronization." Discrete Event Dynamic Systems: Theory and Applications. vol. 5, pp. 167-186, 1995.
+[14] Law, A. M., Kelton, W. D. 1991. Simulation Modeling and Analysis, 2nd Edition. McGraw-Hill, pp. 596-598, 1991.
+[15] Mollamustafaoglu, L. 1994. "Object-Oriented Design of a Filter-Based Distributed Simulation Modeling Framework." Proceedings of the European Simulation Symposium 94, Edited by A. R. Kaylan, A. Lehmann and T. Oren. vol. 1, pp. 102- 106, Society for Computer Simulation, Istanbul, September 1994.
+[16] Nicol, D., Fujimoto, R. M. 1994. "Parallel Simulation Today." Annals of OR, vol. 53: Simulation and Modeling. Ed. by O. Balci,1994.
+[17] Nicol, D., Heidelberger, P. 1992. "Parallel Algorithms for Simulating Continuous-Time Markov Chains." Proceedings of the 1992 Winter Simulation Conference, Ed. by J. J.Swain, R. C. Crain and J. R.Wilson, Society for Computer Simulation, pp. 11-18, 1992.
+[18] Patsis, N., Chen, C. H., Larson, M. 1996. "Parallel Simulation of DEDS." IEEE Transactions on Control Technol- ogy, 1996.
+[19] Righter, R., Walrand, J. C. 1989. "Distributed Simulation of Discrete Event Systems." Proceedings of the IEEE, vol. 77, no. 1, pp. 99-113,1989.
+[20] Shantikumar, J. G. 1986. "Uniformization and Hybrid Simulation/Analytical Models of Renewal Processes." Operations Research, vol. 34, pp. 573-580, 1986.
+[21] Streltsov, S., Vakili, P. 1996. "Variance Reduction Algorithms for Parallel Replicated Simulation of Uniformized Markov Chains." Discrete Event Dynamic Systems: Theory and Applications, vol. 6, pp. 159-180, 1996.
+[22] Strickland, S. G., Phelan, R. G. 1995. "Massively Parallel SIMD Simulation of Markovian DEDS: Event and Time Synchronous Methods." Discrete Event Dynamic Systems: Theory and Applications, vol. 5, pp. 141-166, 1995.
+[23] Vakili, P. 1991. "Using a Standard Clock Technique for Efficient Simulation." Operations Research Letters, vol. 10, pp. 445-452, 1991.
+[24] Vakili, P. 1991. "Massively Parallel and Distributed Simulation of a Class of Discrete Event Systems: A Different Perspective." ACM Transactions on Modeling and Computer Simulation, vol. 2, no. 3, pp. 214-238, 1991.
+[25] Vakili, P., Mollamustafaoglu, L., Ho, Y. C. 1992. "Massively Parallel Simulation of a Class of Discrete-Event Systems." Proceedings of the 4th Symposium on Frontiers of Massively Parallel Computation. IEEE Computer Society Press, McLean, Virginia, pp. 412-419, October 1992.
+[26] Wieselthier, J. E., Barnhart, C. M., Ephremides, A. 1995. "Standard Clock Simulation and Ordinal Optimization Applied to Admission Control in Integrated Communication Networks." Discrete Event Dynamic Systems: Theory and Applications, vol. 5, pp. 243-280, 1995.

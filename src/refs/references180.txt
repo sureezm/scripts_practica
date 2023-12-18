@@ -1,0 +1,9 @@
+References 
+[l] R. D. Blumofe, M. Frigo, C. E Joerg, C. E. Leiserson, and K. H. Randall. Dag-consistent distributed shared memory. In Proceedings of the Tenth International Parallel Processing Symposium (IPPS), pages 132-141,1996.
+[2] R. D. Blumofe, C. E Joerg, B. C. Kuszmaul, C. E. Leiserson, K. H. Randall, and Y. Zhou. Cilk: An efficient multithreaded runtime system. Journal of Parallel and Distributed Computing, 37(1):55-69, 1996.
+[3] W. Cai, E. Letertre, and S. J. Turner. Dag consistent parallel simulation: a predictable and robust conservative algorithm. Technical report, R363, Department of Computer Science, Exeter University, 1997.
+[4] R. Calinescu. Bulk Synchronous Parallel algorithms for conservative discrete event simulation. In Parallel Algorithms and Applications, volume 9, pages 15-38. Gordon and Breach Science Publishers, 1996.
+[5] R. M. Fujimoto. Parallel Discrete Event Simulation: will the field survive? ORSA Journal on Computing, 5(3):213-230, 1993.
+[6] S. Jain. Virtual factory framework: a key enabler for agile manufacturing. In Proceedings of 1995 INRIA/IEEE Symposium on Emerging Technologies and Factory Automation, pages 247-258. IEEE Computer Society Press, 1995.
+[7] Y.-B. Lin. Will parallel simulation research survive? ORSA Journal on Computing, 5(3):236-238,1993.
+[8] M. Marin. Billiards and related systems on the Bulk-Synchronous Parallel model. In Proceedings of the 11th Workshop on Parallel and Distributed Simulation, 1997.

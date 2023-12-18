@@ -1,0 +1,80 @@
+References
+[1] S. Al-Sultan,  M.M. Al-Doori,  A.H. Al-Bayatti,  H. Zedan, A comprehensive survey on vehicular ad hoc network,  J. Netw. Comput. Appl. 37 (0) (2014) 380–392.  938
+[2] M.S. Almalag,  M.C. Weigle, S. Olariu, MAC Protocols for VANET, John Wiley and Sons, Inc., pp. 599–618.  940
+[3] A . Bachir, A . Benslimane, A multicast protocol in ad hoc networks inter-vehicle geocast, in: Proceedings of the 57th IEEE Semiannual Vehicular Technology Conference, 2003. VTC 2003-Spring, vol. 4, April 2003, pp. 2456–2460.
+[4] S. Barghi, A. Benslimane, C. Assi, A lifetime-based routing protocol for connecting vanets to the internet, in: Proceedings of IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks Workshops, 2009. WoWMoM 2009, June 2009, pp. 1–9. 949
+[5] M. Bechler, S. Jaap, L. Wolf, An optimized tcp for internet access of vehicular ad hoc networks, in: Proceedings  of the 4th International IFIP-TC6 Networking Conference (NETWORKING’05), Volume 3462 of Lecture Notes in Computer Science, Springer, 2005, pp. 869–880.
+[6] F. Borgonovo, A. Capone, M. Cesana, L. Fratta, Adhoc mac: new mac architecture for ad hoc networks providing efficient and reliable point-to-point and broadcast services, Wirel. Netw. 10 (4) (July 2004) 359–366.
+[7] A. Boukerche, H.A.B.F. Oliveira, E.F. Nakamura, A .A .F. Loureiro, Vehicular ad hoc networks: a new challenge for localization-based systems, Comput. Commun. 31 (July 2008) 2838–2849.
+[8] L. Briesemeister, L. Schafers, G. Hommel, Disseminating messages among highly mobile hosts based on inter-vehicle communication, in: Proceedings of the IEEE Intelligent Vehicles Symposium, 20 0 0. IV 20 0 0., 20 0 0, pp. 522–527.
+[9] P.-Y. Chen, J.-W. Liu, W.-T. Chen, A fuel-saving and pollution-reducing dynamic taxi-sharing protocol in vanets, in: Proceedings of the 72nd Vehicular Technology Conference Fall (VTC 2010-Fall), Sept 2010, pp. 1–5.
+[10] J. Chennikara-Varghese, null Wai Chen, O. Altintas, null Shengwei Cai, Survey of routing protocols for inter-vehicle communications 0 (2006)  1–5.
+[11] N. Chowdhury, L. Mackenzie, C. Perkins, Requirement analysis for building practical accident warning systems based on vehicular ad hoc networks, in: Proceeidngs of the 11th Annual Conference on Wireless On-demand Network Systems and Services (WONS), April 2014, pp. 81–88.
+[12] D. Cuff, M. Hansen, J. Kang, Urban sensing: out of the woods, Commun. ACM 51 (3) (2008) 24–33.
+[13] M. Durresi, A. Durresi, L. Barolli, Emergency  broadcast  protocol for inter-vehicle communications, in: Proceedings of the 11th International Conference on Parallel and Distributed Systems, vol. 2, 2005, pp. 402–406.
+[14] A. Festag, Cooperative intelligent transport systems standards in europe, Commun. Mag. IEEE 52 (12) (2014) 166–172, doi: 10.1109/ MCOM.2014.6979970.
+[15] A. Fonseca, T. Vazo, Applicability of position-based routing for vanet in highways and urban environment, J. Netw. Comput. Appl. 36 (3) (2013) 961–973.
+[16] Z. Fu, X. Meng, S. Lu, How bad tcp can perform in mobile ad hoc net- works, in: Proceedings of the 7th International Symposium on Computers and Communications (ISCC’02), 2002, pp. 298–303.
+[17] National Science Fundation, 2012, URL http://1.usa.gov/16kJQ3T.
+[18] General Motors’, Onstar, 2010, URL http://www.onstar.com.
+[19] S. Graﬂing, P. Mahonen, J. Riihijarvi, Performance evaluation of ieee 1609 wave and ieee 802.11p for vehicular communications, in: Proceedings of the Second International Conference on Ubiquitous and Future Networks (ICUFN), June 2010, pp. 344–348.
+[20] J. Guo, N. Balon, Vehicular ad hoc networks and dedicated short-range communication, 2006.
+[21] T. Imielinski, J.C. Navas, Gps-based geographic addressing, routing, and resource discovery, Commun. ACM 42 (1999) 86–92.
+[22] European Telecommunications Standards Institute, Intelligent Transport Systems (ITS); radiocommunications equipment operating in the 5 855 MHz to 5 925 MHz frequency band, Technical Report, ETSI, France, 2013.
+[23] M.D.D.S. Iqbal, T.N.L. Iftode, Vitp: an information  transfer protocol for vehicular  computing,  in: Proceedings  of the 2nd ACM International Workshop  on Vehicular  Ad Hoc Networks  (VANET’05),  2005, pp. 30– 39.
+[24] B. Jarupan, E. Ekici, Prompt: a cross-layer position-based communication protocol for delay-aware vehicular access networks, Ad Hoc Netw. 8 (2010) 489–505.
+[25] M. Jerbi, S.-M. Senouci, T. Rasheed, Y. Ghamri-Doudane, Towards efﬁcient geographic routing in urban vehicular networks, IEEE Trans. Vehicular Technol. 58 (9) (2008) 5048–5059.
+[26] M. Jerbi, S.-M. Senouci, R. Meraihi, Y. Ghamri-Doudane, An improved vehicular ad hoc routing protocol for city environments, in: Proceedings of the IEEE International Conference on Communications, 2007, pp. 3972–3979.
+[27] D. Jiang, L. Delgrossi, Ieee 802.11p: towards an international standard for wireless access in vehicular environments, in: Proceedings of Vehicular Technology Conference, 2008. VTC Spring 2008. IEEE, 2008, pp. 2036–2040.
+[28] D. Johnson, D. Maltz, J. Broch, Dsr: dynamic source routing protocol for multi-hop wireless ad hoc networks, Ad Hoc Netw. 1 (2001) 139–172.
+[29] G. Karagiannis,  O. Altintas, E. Ekici, G.J. Heijenk, B. Jarupan, K. Lin, T. Weil, Vehicular networking: a survey and tutorial on requirements, architectures, challenges, standards and solutions, IEEE Commun. Surv. Tutorials (2011).
+[30] B. Karp, H. Kung, Gpsr: greedy perimeter stateless routing for wireless networks, in: Proceedings of the 6th Annual International Conference  on Mobile Computing  and Networking, 2000, pp. 243– 254.
+[31] J. Kenney, Dedicated short-range communications (dsrc) standards in the united states, Proc. IEEE 99 (7) (2011) 1162–1182.
+[32] Y.-B. Ko, V. Shankarkumar, N.H. Vaidya, Medium access control protocols using directional antennas in ad hoc networks, in: Proceedings of the 19th Annual Joint Conference of the IEEE Computer and Communications Societies (INFOCOM’00), 2000, pp. 13–21.
+[33] G. Korkmaz,  E. Ekici, F. Özgüner,  U. Özgüner, Urban multi-hop broadcast protocol for inter-vehicle communication systems, in: Proceedings of the 1st ACM international workshop on Vehicular ad hoc networks, in: VANET ’04, ACM, New York, NY, USA, 2004, pp. 76–85.
+[34] K. Lee, J. Haerri, U. Lee, M. Gerla, Enhanced perimeter routing for geographic forwarding protocols in urban vehicular scenarios, in: Proceedings of IEEE Globecom Workshops, 2007, pp. 1–10.
+[35] K.C. Lee, U. Lee, M. Gerla, Survey of routing protocols in vehicular ad hoc networks, in: M. Watfa (Ed.), Advances in Vehicular Ad-Hoc Networks: Developments and Challenges, IGI Global, 2010, pp. 149– 170.
+[36] U. Lee, M. Gerla, A survey of urban vehicular  sensing platforms, Comput. Netw. 54 (4) (2010) 527–544.
+[37] F. Li, Y. Wang, Routing in vehicular ad hoc networks: a survey, IEEE Veh. Technol. Mag. 2 (2) (2007) 12–22.
+[38] W. Lindner, S. Madden, Data management issues in disconnected sensor networks., in: GI Jahrestagung (2)’04, 2004, pp. 349–354.
+[39] J. Liu, S. Singh, Atcp: tcp for mobile ad hoc networks, IEEE J. Selected Areas Commun. 19 (7) (2001) 1300–1315.
+[40] S.-C. Lo, J.-S. Gao, C.-C. Tseng, A water-wave broadcast scheme for emergency  messages in vanet, Wirel. Personal Commun. 71 (1) (2013) 217–241.
+[41] C. Lochert, M. Mauve, H. Fler, H. Hartenstein, Geographic routing in city scenarios, ACM SIGMOBILE Mob. Comput. Commun. Rev. 9 (1) (2005) 69–72.
+[42] J. Luo, J.-P. Hubaux, A survey of research in inter-vehicle communications, Embedded Security Cars (2006) 111–122.
+[43] G. Maia, A.L. Aquino, A. Viana, A. Boukerche,  A .A . Loureiro, HyDi: a hybrid data dissemination protocol for highway scenarios in vehicular ad hoc networks, in: ACM International Symposium on Design and Analysis of Intelligent Vehicular Networks and Applications (DI- VANet ’12), 2012, pp. 115–122.
+[44] G. Maia, C. Rezende, L.A. Villas, A. Boukerche, A .C. Viana, A .L. Aquino, A .A . Loureiro, Traffic aware video dissemination over vehicular  ad hoc networks, in: Proc. ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM ’13), 2013, pp. 419–426.
+[45] C. Maihofer, R. Eberhardt, Geocast in vehicular environments: caching and transmission  range control for improved efficiency, in: Proceedings of IEEE Symposium Intelligent Vehicles, 2004, pp. 951– 956.
+[46] H. Menouar, F. Filali, M. Lenardi, A survey and qualitative analysis of mac protocols for vehicular ad hoc networks, IEEE Wirel. Commun. 13 (5) (2006) 30–35.
+[47] Z. Mo, H. Zhu, K. Makki, N. Pissinou, Muru: a multi-hop routing protocol for urban vehicular ad hoc networks, in: Proceedings of the 3rd Annual International Conference on Mobile and Ubiquitous Systems, 2006, pp. 1–8.
+[48] V. Naumov, T. Gross, Connectivity-aware routing (car) in vehicular ad-hoc networks, in: Proceedings of the 26th IEEE International Conference on Computer Communications, 2007, pp. 1919–1927
+[49] V. Naumov, R. Baumann, T. Gross, An evaluation of inter-vehicle ad hoc networks based on realistic vehicular traces, in: Proceedings of the 7th ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc’06), 2006, pp. 108–119.
+[50] J.C. Navas, T. Imielinski,  Geocast - geographic addressing and routing, in: Proceedings of the 3rd annual ACM/IEEE international conference on Mobile computing and networking, in: MobiCom ’97, ACM, New York, NY, USA, 1997, pp. 66–76.
+[51] DIVA Developing Next Generation Intelligent Vehicular Networks and Applications. URL http://nsercdiva.com/.
+[52] P. Nithya˜Darisini, N. Kumari, A survey of routing protocols for vanet in urban scenarios, in: Proceedings of International Conference on Pattern Recognition, Informatics and Mobile Engineering (PRIME), 2013, pp. 464–467.
+[53] J. Ott, D. Kutscher, Drive-thru internet: Ieee 802.11b for “automo-bile” users, in: Proceedings of the 23rd Annual Joint Conference of the IEEE Computer and Communications Societies, vol. 1, 2004.4 vol.(xxxv+2866).
+[54] P. Papadimitratos, A. De La Fortelle, K. Evenssen, R. Brignolo, S. Cosenza, Vehicular communication systems: Enabling technologies, applications, and future outlook on intelligent transportation, Comm. Mag. 47 (11) (2009) 84–95.
+[55] C. Perkins, E. Royer, Ad-hoc on-demand distance vector routing, in: Proceedings of the Second IEEE Workshop on Mobile Computing Systems and Applications (WMCSA’99), 1999, pp. 90–100.
+[56] M. Raya, P. Papadimitratos, J. Hubaux, Securing vehicular communications, IEEE Wirel. Commun. Special Issue on Inter-Vehicular Communications (2006) 8–15.
+[57] M. Razzaque, A. S., S. Cheraghi, Security and privacy in vehicular ad-hoc networks: survey and the road ahead, in: M. Razzaque,  A. S., S. Cheraghi (Eds.), Wireless Networks and Security, Springer Berlin Heidelberg, 2013, pp. 107–132.
+[58] B. Sahadev, K.S. Zade, S.H. Sheikh, Article: survey on realistic simulation for comparison of network routing protocol in vanet NCIPET (2) (2013) 26–29. Published by Foundation of Computer Science, New York, USA
+[59] R. Schmitz, A. Leiggener, A. Festag, L. Eggert, W. Effelsberg, Analysis of path characteristics and transport protocol design in vehicular  ad hoc networks, in: Proceedings of the IEEE 63rd Vehicular Technology Conference, 2006, pp. 528–532.
+[60] B.-C. Seet, G. Liu, B.-S. Lee, C.-H. Foh, K.-J. Wong, K.-K. Lee, A-star: a mobile ad hoc routing strategy for metropolis vehicular communications, in: Proceedings of the 3rd International IFIP-TC6 Networking Conference (NETWORKING’04), Volume 3042 of Lecture Notes in Computer  Science, Springer, 2004, pp. 989–999.
+[61] C. Shao, S. Leng, Y. Zhang, H. Fu, A multi-priority supported medium access control in vehicular ad hoc networks, Comput. Commun. 39 (0) (2014) 11–21. Research advances and standardization activities in WLANs Research advances and standardization activities in WLANs.
+[62] M.L. Sichitiu, M. Kihl, Inter-vehicle communication systems: A survey, IEEE Commun. Surv. Tutorials 10 (2008) 88–105.
+[63] A. Skordylis, N. Trigoni, Delay-bounded routing in vehicular ad-hoc networks, in: Proceedings of the 9th ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc’08), 2008, pp. 341–350.
+[64] M. Slavik, I. Mahgoub, Spatial distribution and channel quality adaptive protocol for multihop wireless broadcast routing in vanet, IEEE Trans. Mobile Comput. 12 (4) (2013) 722–734.
+[65] A. Stampoulis, Z. Chai, A survey of security in vehicular networks, http://zoo.cs.yale.edu/∼ams257/projects/wireless-survey.pdf (accessed:  Nov 28, 2011)(2007).
+[66] M.-T. Sun, W.-C. Feng, T.-H. Lai, K. Yamada, H. Okada, K. Fujimura, Gps-based message broadcasting for inter-vehicle communication, in: Parallel Processing, 2000. Proceedings.  2000 International Conference on, 2000, pp. 279–286.
+[67] G. Thomaidis, K. Vassilis, P. Lytrivis, M. Tsogas, G. Karaseitanidis, A. Amditis, Target tracking and fusion in vehicular networks, in: Intelligent Vehicles Symposium (IV), 2011 IEEE, 2011, pp. 1080–1085.
+[68] Y. Toor, P. Mühlethaler, A. Laouiti, A. de La Fortelle, Vehicle ad hoc networks: applications and related technical issues, IEEE Commun. Surv. Tutorials 10 (1–4) (2008) 74–88.
+[69] A.I.J. Tostes, F. de L. P. Duarte-Figueiredo, R. Assunção, J. Salles, A .A .F. Loureiro, From data to knowledge: city-wide traffic ﬂows analysis and prediction using bing maps, in: Proceedings of the 2Nd ACM SIGKDD International  Workshop on Urban Computing, in: UrbComp ’13, ACM, New York, NY, USA, 2013, pp. 12:1–12:8.
+[70] S. Tsugawa, Inter-vehicle communications and their applications to intelligent vehicles: an overview 2 (2002).
+[71] E.M. Uichin Lee, M. Gerla, P. Bellavista, A. Corradi, Dissemination and harvesting of urban data using vehicular sensing platforms, IEEE Trans. Veh. Technol. 58 (2) (2009) 882–901.
+[72] M. Whaiduzzaman, M. Sookhak, A. Gani, R. Buyya, A survey on vehicular cloud computing, J. Netw. Comput. Appl. 40 (0) (2014) 325– 344.
+[73] T.L. Willke, P. Tientrakool, N.F. Maxemchuk, A survey of inter-vehicle communication protocols and their applications, Commun. Surv. Tutorials 11 (2) (2009) 3–20.
+[74] O. Wolfson, B. Xu, H.J. Cho, Multimedia traffic information in vehicular networks, in: Proceedings of the 17th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, in: GIS ’09, ACM, New York, NY, USA, 2009, pp. 480–483.
+[75] Q. Yan, M. Li, Z. Yang, W. Lou, H. Zhai, Throughput analysis of cooperative mobile content distribution in vehicular network using symbol level network coding, IEEE J. Selected Areas Commun. 30 (2) (2012) 4 84–4 92.
+[76] S. Zeadally, Y.C. R. Hunt, A. Irwin, A. Hassan, Vehicular ad hoc networks (vanets): Status, results, and challenges, Telecommun. Syst. 51 (2–3) (2012).
+[77] J. Zhang, Q. Zhang, W. Jia, Vc-mac: a cooperative mac protocol in vehicular networks, IEEE Tran. Veh. Technol. 58 (3) (2009) 1561–1571.
+[78] J. Zhao, G. Cao, Vadd: vehicle-assisted data delivery in vehicular ad hoc networks, IEEE Trans. Veh. Technol. 57 (3) (2008) 1910–1922.
+[79] J. Zhao, Y. Zhang, G. Cao, Data pouring and buffering on the road: a new data dissemination paradigm for vehicular ad hoc networks, IEEE Trans. Veh. Technol. 56 (6) (2007) 3266–3277.

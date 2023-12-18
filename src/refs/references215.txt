@@ -1,0 +1,94 @@
+References
+1. Archibald G, Karabakal N, Karlsson P (1999) Supply chain vs. supply chain: using simulation to compete beyond the four walls. In: Proceedings of the 31stwinter simulation conference, Phoenix, Arizona, USA, December 1999
+2. Bandinelli R, Rapaccini M, Tucci M, Visintin F (2006) Using simulation for supply chain analysis: reviewing and proposing distributed simulation frameworks. Prod Plann Control 17(2):167–175. ISSN 0953-7287
+3. Bandinelli R, Orsoni A (2005) A DSs simulation model for outsourcing strategies in large-scale manufacturing. In: Proceedings of the 19th European conference on modelling and simulation(ECMS), 1-84233-112-4, Riga Latvia, March 2005
+4. Banks J, Buckley S, Jain S, Lendermann P, Manivannan M (2002) Opportunities for simulation in supply chain management. In: Proceedings of the 34th winter simulation conference, ISBN0-7803-7615-3, San Diego CA, December 200
+5. Boer CA (2005) Distributed simulation in industry. Ph.D. thesis. Erasmus Research Institute of Management (ERIM), Erasmus University Rotterdam, The Netherlands
+6. Bryant RE (1977) Simulation of packet communication architecture computer systems, MIT/LCS/TR-188, Massachusetts Institute of Technology, Cambridge, Massachusetts. http://www.lcs.mit.edu/publications/pubs/pdf/MIT-LCS-TR-188.pdf . Last accessed 12th Apr 2011
+7. Chandy KM, Misra J (1979) Distributed simulation: a case study in design and veriﬁcation of distributed programs. IEEE Trans Softw Eng 5(5):440–452
+8. Chandy KM, Misra J (1981) Asynchronous distributed simulation via a sequence of parallel computations. Commun ACM 24(11):198–206
+9. Chapman RL, Corso M (2005) From continuous improvement to collaborative innovation: the next challenge in supply chain management. Prod Plann Control 16(4):339–344
+10. Chen Y , Fowler J, Wu T, Callarman T, Ambrose E, Hargaden V (2006) An adaptive dis- tributed simulation framework for a server fulfillment supply chain. In: Proceeding of the 2006IEEE international conference on automation science and engineering, ISBN 9781424403103,Shanghai PEOPLES R CHINA, October 2006
+11. Chong CS, Lendermann P, Gan BP, Duarte BM, Fowler JW, Callarman TE (2004) Analysis of a customer demand driven semiconductor supply chain in a distributed simulation test bed.In: Proceedings of the 2004 winter simulation conference, ISBN 0-7803-8786-4, Washington,DC USA, December 2004
+12. Chong CS, Lendermann P, Gan BP, Duarte BM, Fowler JW, Callarman TE (2006) Development and analysis of a customer-demand-driven semiconductor supply chain model using the highlevel architecture. Int J Simul Process Model 2(3–4):210–221
+13. Dalal MA, Bell H, Denzien M, Keller MP (2003) Supply chain management simulation: initializing a distribution supply chain simulation with live data. In: Proceedings of the 35th con-ference on winter simulation: driving innovation. Winter simulation conference, pp 1621–1626
+14. Enjalbert S, Archimède B, Charbonnaud P (2011) Distributed simulation of virtual workshops for the multi-site scheduling feasibility evaluation. Int J Prod Res 49(22):6663–6676
+15. Eriskin L, Gunal MM (2019) Test and evaluation for weapon systems: concepts and processes. Operations Research for Military Organizations. IGI Global, 98–110
+16. Fayez M, Rabelo L, Mollaghasemi M (2005) Ontologies for supply chain simulation modelling. In: Proceedings of the 2005 winter simulation conference, vols 1–4. ISSN 2364-2370
+17. Fischer MC, Adams A, Miller G (1994) Aggregate level simulation protocol (ALSP)—training for the future. In: Proceedings of the 1994 military operations research symposium. MilitaryOperations Research Society (MORS), ISBN ADB 207 559, Colorado USA, June 1994
+18. Fujimoto RM (1990) Parallel discrete event simulation. Commun ACM 33(10):30–53
+19. Fujimoto RM (2000) Parallel and distributed simulation systems. Wiley Interscience, ISBN 978-0-471-18383-9, US
+20. Fujimoto RM, Perumalla KS, Riley GF (2007) Network simulation. Morgan & Claypool Publishers, ISBN 1598291106, Berkeley, US
+21. Fujimoto RM (1999) Parallel and distributed simulation. In: Proceedings of the 31st winter simulation conference. Phoenix AZ, USA, December 1999
+22. Fujimoto RM (2003) Distributed simulation systems. In: Proceedings of the 31st winter simulation conference. ISBN 0-7803-8132-7, New Orleans, Louisiana, USA, December 2003
+23. Fujimoto R (2015) Parallel and distributed simulation. In: Proceedings of the 2015 winter simulation conference. IEEE Press, pp 45–59
+24. Gan BP, Turner SJ (2000) Distributed supply chain simulation across enterprise boundaries. In: Proceedings of the 32nd winter simulation conference. ISBN 0-7803-1381-X, Orlando FL,USA, December 2000
+25. Gan BP, Lendermann P, Low MYH, Turner SJ, Wang X, Taylor SJ (2005) Interoperating autosched AP using the high level architecture. In: Proceedings of the 37th conference onwinter simulation. Winter simulation conference, pp 394–401
+26. Hibino H, Fukuda Y , Yura Y , Mitsuyuki K, Kaneda K (2002) Manufacturing adapter of distributed simulation systems using HLA. In: Proceedings of the 34th winter simulation confer-ence. ISBN 0-7803-7615-3, San Diego CA, USA, December 2002
+27. Hongyu J, Xia L, Yan C (2010) The research of a distributed simulation method of information sharing in supply chain. In: Proceedings of 2010 international conference on optoelectronicsand image processing (ICOIP 2010). ISBN 978-0-7695-4252-2, Haiko China, November 2010
+28. Iannone R, Miranda S, Riemma S (2007) Supply chain distributed simulation: An efﬁcient architecture for multi-model synchronization. Simul Model Pract Theory 15:221–236
+29. IEEE 1516 (2000) IEEE standard for modelling and simulation (M&S) high level architecture (HLA). Institute of Electrical and Electronics Engineers, New York
+30. Jahangirian M, Eldabi T, Naseer A, Stergioulas LK, Young T (2009) Simulation in manufacturing and business: a review. Eur J Oper Res 203(1):1–13
+31. Jain S, Riddick F, Craens A, Kibira D (2007) Distributed simulation for interoperability testing along the supply chain. In: Proceedings of the 2007 winter simulation conference, Washington, DC USA. ISBN 1-4244-1306-0, December 2007
+32. Jefferson DR (1985) Virtual time. ACM Trans Program Lang Syst 7(3):404–42533. Katsaliaki K, Mustafee N, Taylor SJE, Brailsford S (2009) Comparing conventional and dis-
+tributed approaches to simulation in a complex supply-chain health system. J Oper Res Soc60(1):43–51
+34. Kiralp R, Venkatadri U (2010) DSOPP: a platform for distributed simulation of order promising protocols in supply chain networks. Prod Plann Control 21(6):562–580
+35. Labarthe O, Espinasse B, Ferrarini A, Montreuil B (2007) Toward a methodological framework for agent-based modelling and simulation of supply chains in a mass customization context.Simul Model Pract Theory 15(2):113–136
+36. Lee S, Wysk RA (2004) A top-down mapping and federated-based coordination for supply chain management systems using an ERP system. In: Proceedings of the 8th world multi-conference on systemics, cybernetics and informatics. ISBN 980-6560-13-2, Naddeo, July2004
+37. Lee S, Zhao X, Shendarkar A, Vasudevan K, Young-Jun S (2008) Fully dynamic epoch time synchronisation method for distributed supply chain simulation. Int J Comput Appl Technol31(3–4):249–262
+38. Li J, Yuan A, Wu Q (2010) A framework of simulation for cluster supply chain collaboration. In: Proceedings of the 2010 international conference on internet technology and applications(iTAP 2010). ISBN 978-0-946881-54-3, Wuhan, China, August 2010
+39. Linn RJ, Chen CS, Lozan JA (2002) Development of distributed simulation model for the transporter entity in a supply chain process. In: Proceedings of the 34th winter simulationconference. ISBN 0-7803-7615-3, San Diego CA, USA, December 2002
+40. Long Q (2016) A novel research methodology for supply network collaboration management. Inf Sci 331:67–85
+41. Long Q, Lin J, Sun Z (2011) Modeling and distributed simulation of supply chain with a multi-agent platform. Int J Adv Manufact Technol 55(9–12):1241–1252
+42. Long Q, Zhang W (2014) An integrated framework for agent based inventory–production—transportation modeling and distributed simulation of supply chains. Inf Sci 277:567–581
+43. Makatsoris HC, Chang YS, Richards HD (2004) Design of a distributed order promising system and environment for a globally dispersed supply chain. Int J Comput Integr Manuf17(8):679–691
+44. Mao W, Zheng FT, Mao J (2006) Research on simulating optimization of distributed sharing information model for food supply chain. In: Proceedings of the distributed computingand applications to business, engineering and science: international symposium, HangzhouPEOPLES R CHINA, vols 1 and 2, pp 864–866
+45. Maturana F, Shen W, Norrie DH (1999) MetaMorph: an adaptive agent-based architecture for intelligent manufacturing. Int J Prod Res 37(10):2159–2173
+46. McLean C, Riddick F (2000) The IMS MISSION architecture for distributed manufacturing simulation. In: Proceedings of the 32nd winter simulation conference. Orlando FL, USA,December 2000
+47. Mertins K, Rabe M, Jakel FW (2005) Distributed modelling and simulation of supply chains. Int J Comput Integr Manuf 18(5):342–349
+48. Miller DC, Thorpe JA (1995) SIMNET: the advent of simulator networking. Proc IEEE 83(8):1114–1123
+49. Mustafee N (2004) Performance evaluation of interoperability methods for distributed simulation. M.Sc. thesis. Department of Information Systems, Computing and Mathematics, BrunelUniversity, UK
+50. Mustafee N (2007) A grid computing framework for commercial simulation packages. Ph.D. thesis. School of Information Systems, Computing and Mathematics, Brunel University, UK.http://bura.brunel.ac.uk/handle/2438/4009 . Last accessed 12 Apr 2011
+51. Mustafee N, Katsaliaki K, Taylor SJ (2014) A review of literature in distributed supply chain simulation. In: Simulation conference (WSC), 2014 winter. IEEE, pp 2872–2883
+52. Mustafee N, Sahnoun M, Smart A, Godsiff P (2015) An application of distributed simulation for hybrid modeling of offshore wind farms. In: Proceedings of the 2015 ACM SIGSIM/PADSconference on principles of advanced discrete simulation, 10–12 June 2015, London, UK ACM, pp 171–172
+53. Mustafee N, Taylor SJE (2006) Investigating distributed simulation with COTS simulation packages: experiences with Simul8 and the HLA. In: Proceedings of the 2006 operationalresearch society simulation workshop (SW06). ISBN 1356-3548, Leamington Spa, UK. March2006
+54. Mustafee N, Taylor S, Katsaliaki K, Dwivedi Y , Williams M (2012) Motivations and barriers in using distributed supply chain simulation. Int Trans Oper Res 19(5):733–751
+55. Mustafee N, Taylor SJE, Katsaliaki K, Brailsford S (2009) Facilitating the analysis of a UK NBS chain using the HLA. Simul Trans Soc Modell Simul Int 85(2):113–128
+56. Nfaoui EH, Beqqali OE, Ouzrout Y , Bouras A (2006) An approach of agent-based distributed simulation for supply chains: negotiation protocols between collaborative agents. In: Proceed-ings of the 2006 European simulation and modelling conference. ISBN 0-9553018-1-5, Bonn,Germany, May 2006
+57. Nicol D, Heidelberger P (1996) Parallel execution for serial simulators. ACM Trans Modell Comput Simul 6(3):210–242
+58. Nurmilaakso JM (2004) Supply chain scheduling using distributed parallel simulation. J Manufact Technol Manage 15(8):756–770
+59. Pan K, Turner SJ, Cai W, Li Z (2007) A service oriented HLA RTI on the grid. In: Proceedings of the IEEE international conference on web services. ISBN 0-7695-2924-0, Salt Lake City,Utah, USA, July 2007
+60. Pannirselvam GP, Ferguson LA, Ash RC, Siferd SP (1999) Operations management research: an update for the 1990s. J Operat Manage 18(1):95–112
+61. Pidd M (2004) Systems modelling: theory and practice. Wiley, New York. ISBN 0470867329, USA
+62. Qing-qi L, Jie L (2009) Design and realization of multi-Agent-based distributed simulation system for supply chain. J Comput Appl 9:2556–2561
+63. Rabe M, Jäkel FW (2003) On standardization requirements for distributed simulation in production and logistics. Building the knowledge economy, Twente. IOS Press, The Netherlands,pp 399–406
+64. Rabe M, Jaekel FW, Weinaug H (2006) Reference models for supply chain design and conﬁguration. In: Proceedings of the 2006 winter simulation conference. ISBN 1-4244-0501-7,Monterey, CA USA, December 2006
+65. Reynolds PF (1988) A spectrum of options for parallel simulation. In: Proceedings of the 20th winter simulation conference. ISBN 0-911801-42-1, New York, NY , USA, December 1988
+66. Robinson S (1994) Successful simulation: a practical approach to simulation projects. McGraw-Hill Companies, USA. ISBN 0077076222
+67. Rossetti MD, Chen Y (2012) A cloud computing architecture for supply chain network simulation. In: Proceedings of the winter simulation conference. Winter simulation conference, p284
+68. Royston P (1999) The use of fractional polynomials to model continuous risk variables in epidemiology. Int J Epidemiol 28(5):964–974
+69. Saad SM, Terrence P, Wickramarachchi R (2003) Simulation of distributed manufacturing enterprises: a new approach. In: Proceedings of the 2003 winter simulation conference. ISBN0-7803-8132-7, New Orleans, Louisiana, USA, December 2003
+70. Santa-Eulalia LA, D’Amours S, Frayret JM (2012) Agent-based simulations for advanced supply chain planning and scheduling: The FAMASS methodological framework for requirementsanalysis. Int J Comput Integr Manuf 25(10):963–980
+71. Sterman JD (1989) Modeling managerial behavior: misperceptions of feedback in a dynamic decision making experiment. Manage Sci 35(3):321–339
+72. Sterman JD (2001) System dynamics modelling: tools for teaching in a complex world. Calif Manag Rev 43(4):8–25
+73. Stevens GC (1989) Integrating the supply chain. Int J Phys Distrib Mater Manage 19:3–8
+74. Straßburger S (2001) Distributed simulation based on the high level architecture in Civilian application domains. Society for Computer Simulation International, Ghent
+75. Sun ZX, Lin J (2010) A system for data processing on supply-chain distributed simulation platform based on agent. Appl Mech Mater 26:397–400
+76. Taejong Y , Kyungdoc K, Sunyoung S, Hyunbo C, Yucesan E (2009) Applying Web services technology to implement distributed simulation for supply chain modeling and analysis. In:Proceedings of the 2009 winter simulation conference. ISBN 978-1-4244-5771-7, Austin, TXUSA, December 2009
+77. Tammineni S, Venkateswaran J (2007) Advanced look-ahead based approach (ALBA) for distributed simulation of supply chains. In: Proceedings of the 2007 IEEE international conferenceon industrial engineering and engineering management. ISBN 078-1-4244-1529-8, Singapore,December 2007
+78. Taylor SJE, Sudra R, Janahan T, Tan G, Ladbrook J (2002) GRIDS-SCF: an infrastructure for distributed supply chain simulation. Simulation 78(5):312–320
+79. Taylor SJE, Bohli L, Wang X, Turner SJ, Ladbrook J (2005a) Investigating distributed simulation at the Ford Motor Company. In: Boukerche A, Turner SJ (eds) Proceedings of the ninthIEEE international symposium on distributed simulation and real-time applications. ISBN978-0-7695-3273-8, Montreal Quebec, October 2005
+80. Taylor SJE, Turner SJ, Low MYH (2005b) The COTS simulation interoperability product development group. In: Proceedings of the 2005 European simulation interoperability workshop.ISBN 0309067421, Toulouse France, June 2005
+81. Taylor SJ, Fujimoto R, Page EH, Fishwick PA, Uhrmacher AM, Wainer G (2012a) Panel on grand challenges for modeling and simulation. In: Proceedings of the winter simulationconference. Winter simulation conference, p 232
+82. Taylor SJ, Turner SJ, Strassburger S, Mustafee N (2012) Bridging the gap: a standards-based approach to OR/MS distributed simulation. ACM Trans Model Comput Simul (TOMACS) 22(4):18
+83. Taylor SJE, Wang X, Turner SJ, Low MYH (2006) Integrating heterogeneous distributed COTS discrete-event simulation packages: an emerging standards-based approach. IEEE Trans SystMan Cybernet: Part A 36(1):109–122
+84. Terzi S, Cavalieri S (2004) Simulation in the supply chain context: a survey. Comput Ind 53(1):3–16
+85. Tjahjono B, Esplugues C, Ares E, Pelaez G (2017) What does industry 4.0 mean to supply chain? Procedia Manufact 13:1175–1182
+86. Turner SJ, Cai W, Gan BP (2009) Adapting a supply-chain simulation for HLA. In: Proceedings of the 4th IEEE international workshop on distributed simulation and real-time applications(DS-RT’00). ISBN 0-7695-0837-5, California, US, August 2009
+87. Venkateswaran J, Son YJ (2005) Hybrid system dynamic-discrete event simulation-based architecture for hierarchical production planning. Int J Prod Res 43(20):4397–4429. ISSN 0020-7543
+88. Venkateswaran J, Son YJ, Jones AT, Min HSJ (2006) A hybrid simulation approach to planning in a VMI supply chain. Int J Simul Process Model 2(3–4):133–149
+89. Venkateswaran J, Son Y (2009) Robust supply-chain planning using multi-resolution hybrid models: experimental study. Int J Model Simul 29(4):417–427
+90. Wen-guang W, Jie L (2009) Research of MAS-based distributed simulation platform for supply chain. J Syst Simul 10:6099–6143
+91. Xu J, Huang E, Hsieh L, Lee LH, Jia QS, Chen CH (2016) Simulation optimization in the era of industrial 4.0 and the industrial internet. J Simul 10(4):310–320
+92. Xu X, Lin J (2009) A novel time advancing mechanism for agent-oriented supply chain. J Comput 12(12):1301–1308
+93. Yoo T, Cho H, Yücesan E (2010) Hybrid algorithm for discrete event simulation based supply chain optimization. Expert Syst Appl 37(3):2354–2361

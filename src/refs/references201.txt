@@ -1,0 +1,35 @@
+[1] L. Badia, E. Fasolo, A. Paganini, M. Zorzi, Data aggregation algorithms for sensor networks with geographic information awareness, in: Proceedings of WPMC, S.Diego, CA, US, 2006.
+[2] L. Bononi, M. Di Felice, A cross layered MAC and clustering scheme for efficient broadcast in VANETs, in: Proceedings of 1-st IEEE International Workshop on Mobile Vehicular Networks (IEEE MoVeNet 2007), Pisa, Italy, October 8, 2007.
+[3] L. Bononi, M. Di Felice, S. Pizzi, DBA-MAC: dynamic backbone-assisted medium access control protocol for efficient broadcast in VANETs, Journal of Interconnection Networks (JOIN) (MobiWac 2009) 10 (4) (2009) 321–344. ISSN: 0219-2659, 1793-6713.
+[4] B. Bougard, F. Catthoor, D.C. Daly, A. Chandrakasan, W. Dehaene, Energy efficiency of the IEEE 802.15.4 standard in dense wireless microsensor networks: modeling and improvement perspectives, Design, Automation and Test in Europe (2005) 196–201.
+[5] A. Boukerche, K. Abrougui, An efficient leader election protocol for mobile networks, in: International Conference on Wireless Communications and Mobile Computing (IWCMC), ACM, New York, NY, USA, 2006, pp. 1129–1134.
+[6] A. Boukerche, D. Efstathiou, S. Nikoletseas, Adaptive, direction-aware data dissemination for diverse sensor mobility, in: 7th ACM/IEEE International Symposium on Mobility Management and Wireless Access Protocols (MobiWac 2009), ACM Press, MobiWac, Tenerife, Canary Islands, 2009, pp. 50–57.
+[7] A. Boukerche, Y. Ren, Z. Zhang, Performance evaluation of an anonymous routing protocol using mobile agents for wireless ad hoc networks, in: 32nd IEEE LCN, pp. 893–900, 2007.
+[8] T. Camp, J. Boleng, V. Davies, A survey of mobility models for ad hoc network research, Wireless Communications & Mobile Computing 2 (5) (2002) 483–502.
+[9] I. Chatzigiannakis, A. Kinalis, G. Mylonas, S. Nikoletseas, G. Prasinos, C. Zaroliagis, TRAILS, a toolkit for efficient, realistic and evolving models of mobility, faults and obstacles in wireless networks, in: 41st ACM/IEEE ANSS, pp. 23–32, 2008.
+[10] I. Chatzigiannakis, A. Kinalis, S. Nikoletseas, Sink mobility protocols for data collection in wireless sensor networks, in: 4th ACM MobiWac, pp. 52–59, 2006.
+[11] I. Chatzigiannakis, S. Nikoletseas, P. Spirakis, Smart dust protocols for local detection and propagation, ACM Mobile Networks and Applications (MONET) Journal 10 (1) (2005) 9–16.
+[12] Z. Chen, H. Kung, D. Vlah, Ad-hoc relay wireless networks over moving vehicles on highways, in: Proceedings of The 2001 ACM Symposium on Mobile Ad Hoc Networking and Computing (Mobihoc’2001), 2001.
+[13] A. Clementi, F. Pasquale, A. Monti, R. Silvestri, Communication in dynamic radio networks, in: 26th ACM PODC, pp. 205–214, 2007.
+[14] A. Clementi, F. Pasquale, R. Silvestri, MANETS: high mobility can make up for low transmission power, in: 36th International Colloquium on Automata, Languages and Programming (ICALP), 2009.
+[15] M. Elhadef, A. Boukerche, H. Elkadiki, Diagnosing mobile ad-hoc networks: two distributed comparison-based self-diagnosis protocols, in: 4th ACM MobiWac, pp. 18–27, 2006.
+[16] E. Fasolo, C. Prehofer, M. Rossi, Q. Wei, J. Widmer, A. Zanella, M. Zorzi, Challenges and new approaches for efficient data gathering and dissemination in pervasive wireless networks, in: Proceedings of INTERSENSE, Nice, France, 2006.
+[17] D. Gavalas, G. Tsekouras, C. Anagnostopoulos, A mobile agent platform for distributed network and systems management, Journal of Systems and Software 82 (2) (2009) 355–371.
+[18] Y. Gu, D. Bozdag, R.W. Brewer, E. Ekici, Data harvesting with mobile elements in wireless sensor networks, Computer Networks 50 (17) (2006) 3449–3465.
+[19] M. Ho, K. Fall, Poster: delay tolerant networking for sensor networks, in: IEEE Conference on Sensor and Ad Hoc Communication and Networks (SECON), 2004.
+[20] P. Juang, H. Oki, Y. Wang, M. Martonosi, L. Peh, D. Rubenstein, Energy-efficient computing for wildlife tracking: design tradeoffs and early experiences with zebranet, in: 10th ASPLOS, 2002.
+[21] A. Kansal, A. Somasundara, D. Jea, M. Srivastava, D. Estrin, Intelligent fluid infrastructure for embedded networksm, in: 2nd ACM/USENIX International Conference on Mobile Systems, Applications, and Services (MobiSys04), 2004.
+[22] A. Kinalis, S. Nikoletseas, Scalable data collection protocols for wireless sensor networks with multiple mobile sinks, in: 40th ACM/IEEE ANSS, Norfolk, VA, USA, 2007, pp. 60–69.
+[23] A. Kinalis, S. Nikoletseas, Adaptive redundancy for data propagation exploiting dynamic sensory mobility, in: Proceedings of the 11th ACM International Symposium on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), ACM Press, 2008, pp. 149–156. Also, in the Journal of Interconnection Networks (JOIN), 2009.
+[24] C. Konstantopoulos, A. Mpitziopoulos, D. Gavalas, G. Pantziou, Effective determination of mobile agent itineraries for data aggregation on sensor networks, in: IEEE Transactions on Knowledge and Data Engineering, vol. 99, no. PrePrints, 2009.
+[25] C. Konstantopoulos, A. Mpitziopoulos, D. Gavalas, G. Pantziou, Exploiting the cloning capability of mobile agents for cost-effective data fusion in wireless sensor networks, in: ISCC 2008, pp. 963–968.
+[26] K. Lee, U. Lee, M. Gerla, Survey of routing protocols in vehicular Ad Hoc networks, 2010.
+[27] C. Liu, J. Wu, Scalable routing in delay tolerant networks, in: Mobihoc, 2007.
+[28] J. Luo, J.-P. Hubaux, Joint mobility and routing for lifetime elongation in wireless sensor networks, in: 24th IEEE INFOCOM, 2005.
+[29] G. Pantziou, A. Mpitziopoulos, D. Gavalas, C. Konstantopoulos, B. Mamalis, Mobile sinks for information retrieval from cluster-based wsn islands, ADHOCNOW (2009) 213–226.
+[30] O. Powell, P. Leone, J. Rolim, Energy optimal data propagation in wireless sensor networks, Parallel Distributed Computing 67 (3) (2007) 302–317.
+[31] T. Small, Z. Haas, The shared wireless infostation model: a new ad hoc networking paradigm, in: MobiHoc 03, 2003.
+[32] A. Vahdat, D. Becker, Epidemic routing for partially-connected Ad Hoc networks, Duke Tech Report CS-2000-06, 2000.
+[33] W. Wang, V. Srinivasan, K-C. Chua, Trade-offs between mobility and density for coverage in wireless sensor networks, in: Mobicom, 2007.
+[34] Y. Wang, H. Wu, DFT-MSN: the delay/fault-tolerant mobile sensor network for pervasive information gathering, in: INFOCOM, 2006.
+[35] W. Zhao, M. Ammar, E. Zegura, A message ferrying approach for data delivery in sparse mobile ad hoc networks, in: MobiHoc’04, 2004

@@ -1,0 +1,17 @@
+REFERENCES
+[1] Autonomie - Home. https://www.autonomie.net/
+[2] AVL CRUISEaDc. https://www.avl.com/cruise
+[3] Drive Cycle Analysis Tool aAT DriveCAT | NREL. https://www.nrel.gov/ transportation/drive-cycle-tool/
+[4] Drive Cycle Data | Transportation Secure Data Center |NREL. https://www.nrel.gov/transportation/secure-transportation-data/tsdc-drive cycle-data.html
+[5] U.S. Energy Consumption by the Transportation Sector | Bureau of Transportation Statistics. https://www.bts.gov/content/us-energy-consumption transportation-sector
+[6] Ahn Kyoungho, Rakha Hesham, Trani Antonio, and Van Aerde Michel. 2002. Estimating Vehicle Fuel Consumption and Emissions based on Instantaneous Speed and Acceleration Levels. Journal of Transportation Engineering 128, 2 (March 2002), 182–190. https://doi.org/10.1061/(ASCE)0733-947X(2002)128:2(182)
+[7] Jake Bucher, Thomas Bradley, Henning Lohse-Busch, and Eric Rask. 2014. Ana lyzing the Energy Consumption Variation during Chassis Dynamometer Testing of Conventional, Hybrid Electric, and Battery Electric Vehicles. SAE International Journal of Alternative Powertrains 3, 1 (2014), 36–43. http://www.jstor.org/stable/ 26169036
+[8] J. Fu, W. Gao, and L. Song. 2009. Principal component analysis based on drive cycles for hybrid electric vehicle. In 2009 IEEE Vehicle Power and Propulsion Conference. 1613–1618. https://doi.org/10.1109/VPPC.2009.5289624
+[9] Hanna Larsson and Eva Ericsson. 2009. The effects of an acceleration advisory tool in vehicles for reduced fuel consumption and emissions. Transportation Research Part D: Transport and Environment 14, 2 (March 2009), 141–146. https: //doi.org/10.1016/j.trd.2008.11.004
+[10] Cristian Musardo, Giorgio Rizzoni, Yann Guezennec, and Benedetto Staccia. 2005. A-ECMS: An Adaptive Algorithm for Hybrid Electric Vehicle Energy Management. European Journal of Control 11, 4 (Jan. 2005), 509–524. https: //doi.org/10.3166/ejc.11.509-524
+[11] Peter Nyberg, Erik Frisk, and Lars Nielsen. 2014. Generation of Equivalent Driving Cycles Using Markov Chains and Mean Tractive Force Components. IFAC Proceedings Volumes 47, 3 (Jan. 2014), 8787–8792. https://doi.org/10.3182/ 20140824-6-ZA-1003.02239
+[12] B. Sakhdari and N. L. Azad. 2015. An Optimal Energy Management System for Battery Electric Vehicles. IFAC-PapersOnLine 48, 15 (Jan. 2015), 86–92. https: //doi.org/10.1016/j.ifacol.2015.10.013
+[13] B. Wang, J. Bachan, and C. Chan. 2018. ExaGridPF: A parallel power flow solver for transmission and unbalanced distribution systems. In 2018 IEEE Power Energy Society Innovative Smart Grid Technologies Conference (ISGT). 1–5. https://doi. org/10.1109/ISGT.2018.8403383
+[14] Haikun Wang, Lixin Fu, Yu Zhou, and He Li. 2008. Modelling of the fuel con sumption for passenger cars regarding driving characteristics. Transporta tion Research Part D: Transport and Environment 13, 7 (Oct. 2008), 479–482. https://doi.org/10.1016/j.trd.2008.09.002
+[15] K.B. Wipke, M.R. Cuddy, and S.D. Burch. 1999. ADVISOR 2.1: a user-friendly advanced powertrain simulation using a combined backward/forward approach. IEEE Transactions on Vehicular Technology 48, 6 (Nov. 1999), 1751–1761. https: //doi.org/10.1109/25.806767
+[16] Xinmei Yuan, Chuanpu Zhang, Guokai Hong, Xueqi Huang, and Lili Li. 2017. Method for evaluating the real-world driving energy consumptions of electric vehicles. Energy 141 (Dec. 2017), 1955–1968. https://doi.org/10.1016/j.energy. 2017.11.134

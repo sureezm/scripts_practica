@@ -1,0 +1,16 @@
+create table publication (
+	ID int(4) NOT NULL,
+	title varchar(156) NOT NULL,
+	doi varchar(79) NOT NULL,
+	primary key (ID)
+);
+
+create table reference_exp (
+	PUBID int(4) NOT NULL,
+	RID int(4) NOT NULL,
+	title_exp text NOT NULL,
+	doi_exp text DEFAULT NULL,
+	title_doi text DEFAULT NULL,
+	primary key(PUB,RID),
+	foreign key (PUB) references publication(ID)
+);
