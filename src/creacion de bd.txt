@@ -11,6 +11,6 @@ create table reference_exp (
 	title_exp text NOT NULL,
 	doi_exp text DEFAULT NULL,
 	title_doi text DEFAULT NULL,
-	primary key(PUB,RID),
-	foreign key (PUB) references publication(ID)
+	primary key(PUBID,RID),
+	foreign key (PUBID) references publication(ID)
 );
