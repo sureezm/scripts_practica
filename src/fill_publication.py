@@ -8,7 +8,7 @@ try:
         host='127.0.0.1',
         port=3306,
         user='root',
-        db='ref_db' 
+        db='ref_rank' 
     )
 
     if connection.is_connected():
